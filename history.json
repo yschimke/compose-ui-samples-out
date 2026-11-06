@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
+    "generatedFrom": "124a27ac2e604ec71af11007f87a925bd1616942",
     "previews": {
         "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AVColumnScopeWithMutableTransitionStateAndroidPreview": {
             "path": "renders/catalog-android/AVColumnScopeWithMutableTransitionStateAndroidPreview-51c95e12.png",
@@ -1311,6 +1311,13 @@
             "path": "renders/catalog-android/BorderSampleWithDynamicDataAndroidPreview-7db50e64.png",
             "versions": [
                 {
+                    "blob": "53224b425ba5304bef80613fcd47ceb33f020504",
+                    "commit": "124a27ac2e604ec71af11007f87a925bd1616942",
+                    "date": "2026-11-06T12:05:52Z",
+                    "sourceSha": "0993be46",
+                    "commits": 1
+                },
+                {
                     "blob": "c3001504916dd76df676830abbb896df5f1669a5",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
@@ -1318,7 +1325,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -1986,6 +1993,13 @@
             "path": "renders/catalog-android/ContextualFlowColumn_ItemPositionAndroidPreview-9e094cf2.png",
             "versions": [
                 {
+                    "blob": "3471e615044318a375ba07477575692f0b619bba",
+                    "commit": "124a27ac2e604ec71af11007f87a925bd1616942",
+                    "date": "2026-11-06T12:05:52Z",
+                    "sourceSha": "0993be46",
+                    "commits": 1
+                },
+                {
                     "blob": "01b8f0e77db7e0059e55fba8d99615070167dbc2",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
@@ -1993,7 +2007,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -2016,6 +2030,13 @@
             "path": "renders/catalog-android/ContextualFlowRow_ItemPositionAndroidPreview-a4cb5267.png",
             "versions": [
                 {
+                    "blob": "bc6317edf8da9682f95ea45563e45ac45f10fa97",
+                    "commit": "124a27ac2e604ec71af11007f87a925bd1616942",
+                    "date": "2026-11-06T12:05:52Z",
+                    "sourceSha": "0993be46",
+                    "commits": 1
+                },
+                {
                     "blob": "1a12b4ad9702e1b779c48c7fbdb5d8cd936db8b0",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
@@ -2023,7 +2044,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -2167,21 +2188,6 @@
             "versions": [
                 {
                     "blob": "48b94f9d2c6e55ec16b657409cfcbb3833deccac",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.CustomFontFamilySampleAndroidPreview": {
-            "path": "renders/catalog-android/CustomFontFamilySampleAndroidPreview-4daf87d8.png",
-            "versions": [
-                {
-                    "blob": "94c0f678c1b732a78199d9e66665f109a44b1c47",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
@@ -3937,21 +3943,6 @@
             "versions": [
                 {
                     "blob": "2a3b78e043bc16bd9a11297893add7b39b677a03",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FontFamilySynthesisSampleAndroidPreview": {
-            "path": "renders/catalog-android/FontFamilySynthesisSampleAndroidPreview-b775f646.png",
-            "versions": [
-                {
-                    "blob": "9c3780f4469e213b1423f7cdb06aa3c549b01cbd",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
@@ -7431,6 +7422,13 @@
             "path": "renders/catalog-android/SimpleFlowColumn_EqualWidthAndroidPreview-05291778.png",
             "versions": [
                 {
+                    "blob": "64b8c9c3c89cdfe7029e1876a3ee44f163c917a5",
+                    "commit": "124a27ac2e604ec71af11007f87a925bd1616942",
+                    "date": "2026-11-06T12:05:52Z",
+                    "sourceSha": "0993be46",
+                    "commits": 1
+                },
+                {
                     "blob": "0d69c354ba42635a5f793f0821bf66ee5a37448d",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
@@ -7438,7 +7436,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -7491,6 +7489,13 @@
             "path": "renders/catalog-android/SimpleFlowRow_EqualHeightAndroidPreview-138a0070.png",
             "versions": [
                 {
+                    "blob": "ac07fa6293c9cb752e74aa3f56c5b640e9619a24",
+                    "commit": "124a27ac2e604ec71af11007f87a925bd1616942",
+                    "date": "2026-11-06T12:05:52Z",
+                    "sourceSha": "0993be46",
+                    "commits": 1
+                },
+                {
                     "blob": "37ad132f8b028dca52c9fb019131d893b36567b3",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
@@ -7498,7 +7503,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -8252,21 +8257,6 @@
             "unstable": false,
             "flapCount": 0
         },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SubcomponentModifierSampleAndroidPreview": {
-            "path": "renders/catalog-android/SubcomponentModifierSampleAndroidPreview-0dc02338.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
         "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SurfaceSampleAndroidPreview": {
             "path": "renders/catalog-android/SurfaceSampleAndroidPreview-407ac4ab.png",
             "versions": [
@@ -8422,21 +8412,6 @@
             "versions": [
                 {
                     "blob": "4f5ed44ae330fcd41110fd734e7af870af08ada8",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TextFieldStateApplyOutputTransformationAndroidPreview": {
-            "path": "renders/catalog-android/TextFieldStateApplyOutputTransformationAndroidPreview-1d78f51b.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
@@ -8867,36 +8842,6 @@
             "unstable": false,
             "flapCount": 0
         },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TransitionExtensionAnimatedContentSampleAndroidPreview": {
-            "path": "renders/catalog-android/TransitionExtensionAnimatedContentSampleAndroidPreview-fd668376.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TransitionStateIsIdleSampleAndroidPreview": {
-            "path": "renders/catalog-android/TransitionStateIsIdleSampleAndroidPreview-31a680d4.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
         "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TriStateCheckboxSampleAndroidPreview": {
             "path": "renders/catalog-android/TriStateCheckboxSampleAndroidPreview-b89682a0.png",
             "versions": [
@@ -8917,21 +8862,6 @@
             "versions": [
                 {
                     "blob": "917eec009e707f1994a7c7f358f1d0c9555a33cf",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TwoInputsKeySampleAndroidPreview": {
-            "path": "renders/catalog-android/TwoInputsKeySampleAndroidPreview-3e6848af.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
@@ -8977,111 +8907,6 @@
             "versions": [
                 {
                     "blob": "b8bcf91eed6e8667dd9efc779e4e3dabe8d4c381",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UsingGridLayoutInfoForSideEffectSampleAndroidPreview": {
-            "path": "renders/catalog-android/UsingGridLayoutInfoForSideEffectSampleAndroidPreview-4e8b98c3.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UsingGridScrollPositionForSideEffectSampleAndroidPreview": {
-            "path": "renders/catalog-android/UsingGridScrollPositionForSideEffectSampleAndroidPreview-63beb3aa.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UsingGridScrollPositionInCompositionSampleAndroidPreview": {
-            "path": "renders/catalog-android/UsingGridScrollPositionInCompositionSampleAndroidPreview-3e798308.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UsingListLayoutInfoForSideEffectSampleAndroidPreview": {
-            "path": "renders/catalog-android/UsingListLayoutInfoForSideEffectSampleAndroidPreview-d403eaa7.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UsingListScrollPositionForSideEffectSampleAndroidPreview": {
-            "path": "renders/catalog-android/UsingListScrollPositionForSideEffectSampleAndroidPreview-e16f955e.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UsingListScrollPositionInCompositionSampleAndroidPreview": {
-            "path": "renders/catalog-android/UsingListScrollPositionInCompositionSampleAndroidPreview-5b5fa2e3.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UsingPagerLayoutInfoForSideEffectSampleAndroidPreview": {
-            "path": "renders/catalog-android/UsingPagerLayoutInfoForSideEffectSampleAndroidPreview-8a566c04.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
@@ -9157,21 +8982,6 @@
             "versions": [
                 {
                     "blob": "42b9cf2e98d95660299b18908b5989dc11463693",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.WithDensitySampleAndroidPreview": {
-            "path": "renders/catalog-android/WithDensitySampleAndroidPreview-7ac90d51.png",
-            "versions": [
-                {
-                    "blob": "d1100d404888c212abe042084e603d6753e2ea85",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
@@ -15047,21 +14857,6 @@
             "unstable": false,
             "flapCount": 0
         },
-        "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SubcomponentModifierSamplePreview": {
-            "path": "renders/catalog/SubcomponentModifierSamplePreview-c1c11f38.png",
-            "versions": [
-                {
-                    "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
         "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SurfaceSamplePreview": {
             "path": "renders/catalog/SurfaceSamplePreview-3e68d785.png",
             "versions": [
@@ -15202,21 +14997,6 @@
             "versions": [
                 {
                     "blob": "e946bac760565184aba7e34b5c3bc732139461ae",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TextFieldStateApplyOutputTransformationPreview": {
-            "path": "renders/catalog/TextFieldStateApplyOutputTransformationPreview-1254ef86.png",
-            "versions": [
-                {
-                    "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
@@ -15632,21 +15412,6 @@
             "unstable": false,
             "flapCount": 0
         },
-        "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TwoInputsKeySamplePreview": {
-            "path": "renders/catalog/TwoInputsKeySamplePreview-46e55b08.png",
-            "versions": [
-                {
-                    "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
         "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineListItemsPreview": {
             "path": "renders/catalog/TwoLineListItemsPreview-1cfb04ad.png",
             "versions": [
@@ -15664,66 +15429,6 @@
         },
         "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.UiFocusableSamplePreview": {
             "path": "renders/catalog/UiFocusableSamplePreview-a397918d.png",
-            "versions": [
-                {
-                    "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.UsingListLayoutInfoForSideEffectSamplePreview": {
-            "path": "renders/catalog/UsingListLayoutInfoForSideEffectSamplePreview-72013a05.png",
-            "versions": [
-                {
-                    "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.UsingListScrollPositionForSideEffectSamplePreview": {
-            "path": "renders/catalog/UsingListScrollPositionForSideEffectSamplePreview-0e6f3beb.png",
-            "versions": [
-                {
-                    "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.UsingListScrollPositionInCompositionSamplePreview": {
-            "path": "renders/catalog/UsingListScrollPositionInCompositionSamplePreview-2d738fb5.png",
-            "versions": [
-                {
-                    "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.UsingPagerLayoutInfoForSideEffectSamplePreview": {
-            "path": "renders/catalog/UsingPagerLayoutInfoForSideEffectSamplePreview-18ec9e98.png",
             "versions": [
                 {
                     "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
@@ -15787,21 +15492,6 @@
             "versions": [
                 {
                     "blob": "6b902fcbcb7bc7520dbaf32b69aed46e8ba7f17b",
-                    "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
-                    "date": "2026-11-06T10:50:10Z",
-                    "sourceSha": "20a0cd4f",
-                    "commits": 1
-                }
-            ],
-            "observations": 1,
-            "unstable": false,
-            "flapCount": 0
-        },
-        "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.WithDensitySamplePreview": {
-            "path": "renders/catalog/WithDensitySamplePreview-3d9d10b7.png",
-            "versions": [
-                {
-                    "blob": "bd01926438efcc452601dc179e9ac6512a671cd8",
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
