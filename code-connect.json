@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-11-06T18:47:55.947Z",
+  "generatedAt": "2026-11-06T21:15:34.690Z",
   "mappings": [
     {
       "componentId": "AnchoredDraggable/AnchoredDraggableDynamicAnchorsSample",
@@ -17,7 +17,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AnchoredDraggableDynamicAnchorsSamplePreview",
-      "figmaSvg": "figma/anchoreddraggable-anchoreddraggabledynamicanchorssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/anchoreddraggable-anchoreddraggabledynamicanchorssample__ideal__default.svg"
     },
     {
       "componentId": "AndroidExternalSurface/AndroidEmbeddedExternalSurfaceColors",
@@ -57,7 +57,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicFocusableMarqueeSample",
-      "figmaSvg": "figma/basicmarquee-basicfocusablemarqueesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basicmarquee-basicfocusablemarqueesample__ideal__default.svg"
     },
     {
       "componentId": "BasicMarquee/BasicMarqueeSample",
@@ -67,7 +67,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicMarqueeSample",
-      "figmaSvg": "figma/basicmarquee-basicmarqueesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basicmarquee-basicmarqueesample__ideal__default.svg"
     },
     {
       "componentId": "BasicMarquee/BasicMarqueeWithFadedEdgesSample",
@@ -87,7 +87,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldAnnotatedOutputTransformationSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldannotatedoutputtransformationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldannotatedoutputtransformationsample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldChangeIterationSample",
@@ -97,7 +97,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldChangeIterationSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldchangeiterationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldchangeiterationsample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldChangeReverseIterationSample",
@@ -107,7 +107,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldChangeReverseIterationSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldchangereverseiterationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldchangereverseiterationsample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldCustomInputTransformationSample",
@@ -117,7 +117,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldCustomInputTransformationSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldcustominputtransformationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldcustominputtransformationsample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldDecoratorSample",
@@ -127,7 +127,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldDecoratorSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfielddecoratorsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfielddecoratorsample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldInputTransformationByValueChooseSample",
@@ -137,7 +137,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldInputTransformationByValueChooseSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldinputtransformationbyvaluechoosesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldinputtransformationbyvaluechoosesample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldInputTransformationByValueReplaceSample",
@@ -147,7 +147,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldInputTransformationByValueReplaceSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldinputtransformationbyvaluereplacesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldinputtransformationbyvaluereplacesample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldInputTransformationMaxLengthCustom",
@@ -157,7 +157,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldInputTransformationMaxLengthCustomPreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldinputtransformationmaxlengthcustom.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldinputtransformationmaxlengthcustom__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldOutputTransformationSample",
@@ -167,7 +167,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldOutputTransformationSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldoutputtransformationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldoutputtransformationsample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldSample",
@@ -187,7 +187,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldTrackedRangePropertiesSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldtrackedrangepropertiessample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldtrackedrangepropertiessample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldTrackedRangeSample",
@@ -197,7 +197,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldTrackedRangeSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldtrackedrangesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldtrackedrangesample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldTrackedRangeTextRangeSetterSample",
@@ -207,7 +207,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldTrackedRangeTextRangeSetterSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldtrackedrangetextrangesettersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldtrackedrangetextrangesettersample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldTrackedRangeToggleBoldSample",
@@ -217,7 +217,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldTrackedRangeToggleBoldSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldtrackedrangetoggleboldsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldtrackedrangetoggleboldsample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldUndoSample",
@@ -227,7 +227,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldUndoSamplePreview",
-      "figmaSvg": "figma/basictextfield-basictextfieldundosample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldundosample__ideal__default.svg"
     },
     {
       "componentId": "BasicTextField/BasicTextFieldWithStringSample",
@@ -277,7 +277,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BasicTextFieldWithValueOnValueChangeSamplePreview",
-      "figmaSvg": "figma/basictextfieldvalue-basictextfieldwithvalueonvaluechangesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfieldvalue-basictextfieldwithvalueonvaluechangesample__ideal__default.svg"
     },
     {
       "componentId": "Border/BorderSample",
@@ -287,7 +287,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BorderSamplePreview",
-      "figmaSvg": "figma/border-bordersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/border-bordersample__ideal__default.svg"
     },
     {
       "componentId": "Border/BorderSampleWithBrush",
@@ -297,7 +297,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BorderSampleWithBrushPreview",
-      "figmaSvg": "figma/border-bordersamplewithbrush.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/border-bordersamplewithbrush__ideal__default.svg"
     },
     {
       "componentId": "Border/BorderSampleWithDataClass",
@@ -307,7 +307,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BorderSampleWithDataClassPreview",
-      "figmaSvg": "figma/border-bordersamplewithdataclass.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/border-bordersamplewithdataclass__ideal__default.svg"
     },
     {
       "componentId": "Border/BorderSampleWithDynamicData",
@@ -317,7 +317,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BorderSampleWithDynamicDataPreview",
-      "figmaSvg": "figma/border-bordersamplewithdynamicdata.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/border-bordersamplewithdynamicdata__ideal__default.svg"
     },
     {
       "componentId": "BringIntoView/BringIntoViewSample",
@@ -327,7 +327,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BringIntoViewSamplePreview",
-      "figmaSvg": "figma/bringintoview-bringintoviewsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bringintoview-bringintoviewsample__ideal__default.svg"
     },
     {
       "componentId": "BringIntoView/BringPartOfComposableIntoViewSample",
@@ -337,7 +337,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BringPartOfComposableIntoViewSamplePreview",
-      "figmaSvg": "figma/bringintoview-bringpartofcomposableintoviewsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bringintoview-bringpartofcomposableintoviewsample__ideal__default.svg"
     },
     {
       "componentId": "Canvas/CanvasPieChartSample",
@@ -347,7 +347,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CanvasPieChartSamplePreview",
-      "figmaSvg": "figma/canvas-canvaspiechartsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/canvas-canvaspiechartsample__ideal__default.svg"
     },
     {
       "componentId": "Canvas/CanvasSample",
@@ -367,7 +367,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ClickableSamplePreview",
-      "figmaSvg": "figma/clickable-clickablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/clickable-clickablesample__ideal__default.svg"
     },
     {
       "componentId": "ClickableText/ClickableText",
@@ -427,7 +427,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DarkThemeSamplePreview",
-      "figmaSvg": "figma/darktheme-darkthemesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/darktheme-darkthemesample__ideal__default.svg"
     },
     {
       "componentId": "Draggable/DraggableSample",
@@ -437,7 +437,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DraggableSamplePreview",
-      "figmaSvg": "figma/draggable-draggablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggable-draggablesample__ideal__default.svg"
     },
     {
       "componentId": "Draggable2D/Draggable2DSample",
@@ -447,7 +447,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "Draggable2DSamplePreview",
-      "figmaSvg": "figma/draggable2d-draggable2dsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggable2d-draggable2dsample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/AwaitDragOrCancellationSample",
@@ -457,7 +457,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AwaitDragOrCancellationSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-awaitdragorcancellationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-awaitdragorcancellationsample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/AwaitHorizontalDragOrCancellationSample",
@@ -467,7 +467,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AwaitHorizontalDragOrCancellationSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-awaithorizontaldragorcancellationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-awaithorizontaldragorcancellationsample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/AwaitVerticalDragOrCancellationSample",
@@ -477,7 +477,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AwaitVerticalDragOrCancellationSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-awaitverticaldragorcancellationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-awaitverticaldragorcancellationsample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/DetectDragGesturesSample",
@@ -487,7 +487,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DetectDragGesturesSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-detectdraggesturessample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-detectdraggesturessample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/DetectDragWithLongPressGesturesSample",
@@ -497,7 +497,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DetectDragWithLongPressGesturesSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-detectdragwithlongpressgesturessample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-detectdragwithlongpressgesturessample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/DetectHorizontalDragGesturesSample",
@@ -507,7 +507,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DetectHorizontalDragGesturesSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-detecthorizontaldraggesturessample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-detecthorizontaldraggesturessample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/DetectVerticalDragGesturesSample",
@@ -517,7 +517,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DetectVerticalDragGesturesSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-detectverticaldraggesturessample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-detectverticaldraggesturessample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/DragSample",
@@ -527,7 +527,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DragSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-dragsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-dragsample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/HorizontalDragSample",
@@ -537,7 +537,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "HorizontalDragSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-horizontaldragsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-horizontaldragsample__ideal__default.svg"
     },
     {
       "componentId": "DragGestureDetector/VerticalDragSample",
@@ -547,7 +547,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "VerticalDragSamplePreview",
-      "figmaSvg": "figma/draggesturedetector-verticaldragsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-verticaldragsample__ideal__default.svg"
     },
     {
       "componentId": "DrawBackground/DrawBackgroundColor",
@@ -557,7 +557,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DrawBackgroundColorPreview",
-      "figmaSvg": "figma/drawbackground-drawbackgroundcolor.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawbackground-drawbackgroundcolor__ideal__default.svg"
     },
     {
       "componentId": "DrawBackground/DrawBackgroundShapedBrush",
@@ -567,7 +567,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DrawBackgroundShapedBrushPreview",
-      "figmaSvg": "figma/drawbackground-drawbackgroundshapedbrush.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawbackground-drawbackgroundshapedbrush__ideal__default.svg"
     },
     {
       "componentId": "Focusable/FocusableFocusGroupSample",
@@ -577,7 +577,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FocusableFocusGroupSamplePreview",
-      "figmaSvg": "figma/focusable-focusablefocusgroupsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusable-focusablefocusgroupsample__ideal__default.svg"
     },
     {
       "componentId": "Focusable/FocusableSample",
@@ -587,7 +587,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FocusableSamplePreview",
-      "figmaSvg": "figma/focusable-focusablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusable-focusablesample__ideal__default.svg"
     },
     {
       "componentId": "Focusable/FocusGroupSample",
@@ -597,7 +597,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FocusGroupSamplePreview",
-      "figmaSvg": "figma/focusable-focusgroupsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusable-focusgroupsample__ideal__default.svg"
     },
     {
       "componentId": "HandwritingDetector/HandwritingDetectorSample",
@@ -617,7 +617,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "HoverableSamplePreview",
-      "figmaSvg": "figma/hoverable-hoverablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/hoverable-hoverablesample__ideal__default.svg"
     },
     {
       "componentId": "Image/BitmapPainterSample",
@@ -657,7 +657,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "IndicationSamplePreview",
-      "figmaSvg": "figma/indication-indicationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/indication-indicationsample__ideal__default.svg"
     },
     {
       "componentId": "InlineTextContent/InlineTextContentSample",
@@ -667,7 +667,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InlineTextContentSamplePreview",
-      "figmaSvg": "figma/inlinetextcontent-inlinetextcontentsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/inlinetextcontent-inlinetextcontentsample__ideal__default.svg"
     },
     {
       "componentId": "InteractionSource/InteractionSourceFlowSample",
@@ -677,7 +677,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InteractionSourceFlowSamplePreview",
-      "figmaSvg": "figma/interactionsource-interactionsourceflowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/interactionsource-interactionsourceflowsample__ideal__default.svg"
     },
     {
       "componentId": "InteractionSource/SimpleInteractionSourceSample",
@@ -687,7 +687,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleInteractionSourceSamplePreview",
-      "figmaSvg": "figma/interactionsource-simpleinteractionsourcesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/interactionsource-simpleinteractionsourcesample__ideal__default.svg"
     },
     {
       "componentId": "KeyboardForm/CheckoutRegisterFormSample",
@@ -767,7 +767,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PinCodeEntryRowSamplePreview",
-      "figmaSvg": "figma/keyboardtype-pincodeentryrowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/keyboardtype-pincodeentryrowsample__ideal__default.svg"
     },
     {
       "componentId": "LazyDsl/AnimateItemSample",
@@ -777,7 +777,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AnimateItemSamplePreview",
-      "figmaSvg": "figma/lazydsl-animateitemsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-animateitemsample__ideal__default.svg"
     },
     {
       "componentId": "LazyDsl/LazyColumnSample",
@@ -787,7 +787,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyColumnSamplePreview",
-      "figmaSvg": "figma/lazydsl-lazycolumnsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-lazycolumnsample__ideal__default.svg"
     },
     {
       "componentId": "LazyDsl/LazyColumnWithLazyRowsSample",
@@ -797,7 +797,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyColumnWithLazyRowsSample",
-      "figmaSvg": "figma/lazydsl-lazycolumnwithlazyrowssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-lazycolumnwithlazyrowssample__ideal__default.svg"
     },
     {
       "componentId": "LazyDsl/LazyListCacheWindowSample",
@@ -817,7 +817,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyListCustomScrollUsingLazyLayoutScrollScopeSample",
-      "figmaSvg": "figma/lazydsl-lazylistcustomscrollusinglazylayoutscrollscopesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-lazylistcustomscrollusinglazylayoutscrollscopesample__ideal__default.svg"
     },
     {
       "componentId": "LazyDsl/LazyListPrefetchStrategyMigrationSample",
@@ -837,7 +837,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyRowSamplePreview",
-      "figmaSvg": "figma/lazydsl-lazyrowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-lazyrowsample__ideal__default.svg"
     },
     {
       "componentId": "LazyDsl/StickyHeaderGridSample",
@@ -847,7 +847,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "StickyHeaderGridSample",
-      "figmaSvg": "figma/lazydsl-stickyheadergridsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-stickyheadergridsample__ideal__default.svg"
     },
     {
       "componentId": "LazyDsl/StickyHeaderHeaderIndexSample",
@@ -857,7 +857,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "StickyHeaderHeaderIndexSamplePreview",
-      "figmaSvg": "figma/lazydsl-stickyheaderheaderindexsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-stickyheaderheaderindexsample__ideal__default.svg"
     },
     {
       "componentId": "LazyDsl/StickyHeaderListSample",
@@ -867,7 +867,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "StickyHeaderListSamplePreview",
-      "figmaSvg": "figma/lazydsl-stickyheaderlistsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-stickyheaderlistsample__ideal__default.svg"
     },
     {
       "componentId": "LazyGrid/GridAnimateItemSample",
@@ -967,7 +967,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyLayoutItemProviderSamplePreview",
-      "figmaSvg": "figma/lazylayout-lazylayoutitemprovidersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazylayout-lazylayoutitemprovidersample__ideal__default.svg"
     },
     {
       "componentId": "LazyLayout/LazyLayoutPrefetchStateSample",
@@ -977,7 +977,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyLayoutPrefetchStateSample",
-      "figmaSvg": "figma/lazylayout-lazylayoutprefetchstatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazylayout-lazylayoutprefetchstatesample__ideal__default.svg"
     },
     {
       "componentId": "LazyLayout/LazyLayoutSample",
@@ -987,7 +987,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyLayoutSample",
-      "figmaSvg": "figma/lazylayout-lazylayoutsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazylayout-lazylayoutsample__ideal__default.svg"
     },
     {
       "componentId": "LazyLayout/LazyLayoutScrollableSample",
@@ -997,7 +997,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyLayoutScrollableSample",
-      "figmaSvg": "figma/lazylayout-lazylayoutscrollablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazylayout-lazylayoutscrollablesample__ideal__default.svg"
     },
     {
       "componentId": "LazyStaggeredGrid/LazyHorizontalStaggeredGridSample",
@@ -1096,7 +1096,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OverscrollSamplePreview",
-      "figmaSvg": "figma/overscroll-overscrollsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/overscroll-overscrollsample__ideal__default.svg"
     },
     {
       "componentId": "Overscroll/OverscrollWithDraggable_After",
@@ -1106,7 +1106,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OverscrollWithDraggable_AfterPreview",
-      "figmaSvg": "figma/overscroll-overscrollwithdraggable-after.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/overscroll-overscrollwithdraggable_after__ideal__default.svg"
     },
     {
       "componentId": "Overscroll/OverscrollWithDraggable_Before",
@@ -1116,7 +1116,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OverscrollWithDraggable_BeforePreview",
-      "figmaSvg": "figma/overscroll-overscrollwithdraggable-before.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/overscroll-overscrollwithdraggable_before__ideal__default.svg"
     },
     {
       "componentId": "Pager/AnimateScrollPageSample",
@@ -1126,7 +1126,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AnimateScrollPageSamplePreview",
-      "figmaSvg": "figma/pager-animatescrollpagesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-animatescrollpagesample__ideal__default.svg"
     },
     {
       "componentId": "Pager/CustomPageSizeSample",
@@ -1136,7 +1136,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CustomPageSizeSamplePreview",
-      "figmaSvg": "figma/pager-custompagesizesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-custompagesizesample__ideal__default.svg"
     },
     {
       "componentId": "Pager/HorizontalPagerWithScrollableContent",
@@ -1146,7 +1146,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "HorizontalPagerWithScrollableContentPreview",
-      "figmaSvg": "figma/pager-horizontalpagerwithscrollablecontent.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-horizontalpagerwithscrollablecontent__ideal__default.svg"
     },
     {
       "componentId": "Pager/ObservingStateChangesInPagerStateSample",
@@ -1156,7 +1156,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ObservingStateChangesInPagerStateSamplePreview",
-      "figmaSvg": "figma/pager-observingstatechangesinpagerstatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-observingstatechangesinpagerstatesample__ideal__default.svg"
     },
     {
       "componentId": "Pager/PagerCustomAnimateScrollToPage",
@@ -1166,7 +1166,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PagerCustomAnimateScrollToPagePreview",
-      "figmaSvg": "figma/pager-pagercustomanimatescrolltopage.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-pagercustomanimatescrolltopage__ideal__default.svg"
     },
     {
       "componentId": "Pager/PagerCustomScrollUsingLazyLayoutScrollScopeSample",
@@ -1176,7 +1176,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PagerCustomScrollUsingLazyLayoutScrollScopeSample",
-      "figmaSvg": "figma/pager-pagercustomscrollusinglazylayoutscrollscopesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-pagercustomscrollusinglazylayoutscrollscopesample__ideal__default.svg"
     },
     {
       "componentId": "Pager/PagerWithStateSample",
@@ -1186,7 +1186,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PagerWithStateSamplePreview",
-      "figmaSvg": "figma/pager-pagerwithstatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-pagerwithstatesample__ideal__default.svg"
     },
     {
       "componentId": "Pager/ScrollToPageSample",
@@ -1196,7 +1196,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScrollToPageSamplePreview",
-      "figmaSvg": "figma/pager-scrolltopagesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-scrolltopagesample__ideal__default.svg"
     },
     {
       "componentId": "Pager/SimpleHorizontalPagerSample",
@@ -1206,7 +1206,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleHorizontalPagerSamplePreview",
-      "figmaSvg": "figma/pager-simplehorizontalpagersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-simplehorizontalpagersample__ideal__default.svg"
     },
     {
       "componentId": "Pager/SimpleVerticalPagerSample",
@@ -1216,7 +1216,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleVerticalPagerSamplePreview",
-      "figmaSvg": "figma/pager-simpleverticalpagersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-simpleverticalpagersample__ideal__default.svg"
     },
     {
       "componentId": "PolygonShape/CustomPolygonShapeSample",
@@ -1346,7 +1346,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DeterminateProgressSemanticsSamplePreview",
-      "figmaSvg": "figma/progresssemantics-determinateprogresssemanticssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/progresssemantics-determinateprogresssemanticssample__ideal__default.svg"
     },
     {
       "componentId": "ProgressSemantics/IndeterminateProgressSemanticsSample",
@@ -1356,7 +1356,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "IndeterminateProgressSemanticsSamplePreview",
-      "figmaSvg": "figma/progresssemantics-indeterminateprogresssemanticssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/progresssemantics-indeterminateprogresssemanticssample__ideal__default.svg"
     },
     {
       "componentId": "ReceiveContent/ReceiveContentBasicSample",
@@ -1386,7 +1386,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CanScrollSamplePreview",
-      "figmaSvg": "figma/scrollable-canscrollsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollable-canscrollsample__ideal__default.svg"
     },
     {
       "componentId": "Scrollable/FocusScrollingInLazyRowSample",
@@ -1396,7 +1396,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FocusScrollingInLazyRowSamplePreview",
-      "figmaSvg": "figma/scrollable-focusscrollinginlazyrowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollable-focusscrollinginlazyrowsample__ideal__default.svg"
     },
     {
       "componentId": "Scrollable/ScrollableSample",
@@ -1406,7 +1406,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScrollableSamplePreview",
-      "figmaSvg": "figma/scrollable-scrollablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollable-scrollablesample__ideal__default.svg"
     },
     {
       "componentId": "Scrollable2D/Scrollable2DSample",
@@ -1416,7 +1416,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "Scrollable2DSamplePreview",
-      "figmaSvg": "figma/scrollable2d-scrollable2dsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollable2d-scrollable2dsample__ideal__default.svg"
     },
     {
       "componentId": "ScrollableArea/ScrollableAreaSample",
@@ -1426,7 +1426,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScrollableAreaSamplePreview",
-      "figmaSvg": "figma/scrollablearea-scrollableareasample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollablearea-scrollableareasample__ideal__default.svg"
     },
     {
       "componentId": "Scroller/ControlledScrollableRowSample",
@@ -1436,7 +1436,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ControlledScrollableRowSamplePreview",
-      "figmaSvg": "figma/scroller-controlledscrollablerowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scroller-controlledscrollablerowsample__ideal__default.svg"
     },
     {
       "componentId": "Scroller/HorizontalScrollSample",
@@ -1446,7 +1446,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "HorizontalScrollSamplePreview",
-      "figmaSvg": "figma/scroller-horizontalscrollsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scroller-horizontalscrollsample__ideal__default.svg"
     },
     {
       "componentId": "Scroller/VerticalScrollExample",
@@ -1456,7 +1456,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "VerticalScrollExamplePreview",
-      "figmaSvg": "figma/scroller-verticalscrollexample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scroller-verticalscrollexample__ideal__default.svg"
     },
     {
       "componentId": "Selectable/SelectableSample",
@@ -1466,7 +1466,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SelectableSamplePreview",
-      "figmaSvg": "figma/selectable-selectablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectable-selectablesample__ideal__default.svg"
     },
     {
       "componentId": "Selection/DisableSelectionSample",
@@ -1476,7 +1476,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DisableSelectionSamplePreview",
-      "figmaSvg": "figma/selection-disableselectionsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-disableselectionsample__ideal__default.svg"
     },
     {
       "componentId": "Selection/ExtendSelectionSample",
@@ -1486,7 +1486,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ExtendSelectionSamplePreview",
-      "figmaSvg": "figma/selection-extendselectionsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-extendselectionsample__ideal__default.svg"
     },
     {
       "componentId": "Selection/SelectAllSample",
@@ -1496,7 +1496,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SelectAllSamplePreview",
-      "figmaSvg": "figma/selection-selectallsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectallsample__ideal__default.svg"
     },
     {
       "componentId": "Selection/SelectionSample",
@@ -1506,7 +1506,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SelectionSamplePreview",
-      "figmaSvg": "figma/selection-selectionsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectionsample__ideal__default.svg"
     },
     {
       "componentId": "Selection/SelectionStateSample",
@@ -1516,7 +1516,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SelectionStateSamplePreview",
-      "figmaSvg": "figma/selection-selectionstatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectionstatesample__ideal__default.svg"
     },
     {
       "componentId": "Selection/SelectQuerySample",
@@ -1526,7 +1526,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SelectQuerySamplePreview",
-      "figmaSvg": "figma/selection-selectquerysample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectquerysample__ideal__default.svg"
     },
     {
       "componentId": "Selection/SelectThirdTextSample",
@@ -1536,7 +1536,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SelectThirdTextSamplePreview",
-      "figmaSvg": "figma/selection-selectthirdtextsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectthirdtextsample__ideal__default.svg"
     },
     {
       "componentId": "SnapFlingBehavior/SnapFlingBehaviorCustomizedSample",
@@ -1546,7 +1546,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SnapFlingBehaviorCustomizedSamplePreview",
-      "figmaSvg": "figma/snapflingbehavior-snapflingbehaviorcustomizedsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/snapflingbehavior-snapflingbehaviorcustomizedsample__ideal__default.svg"
     },
     {
       "componentId": "SnapFlingBehavior/SnapFlingBehaviorSimpleSample",
@@ -1556,7 +1556,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SnapFlingBehaviorSimpleSamplePreview",
-      "figmaSvg": "figma/snapflingbehavior-snapflingbehaviorsimplesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/snapflingbehavior-snapflingbehaviorsimplesample__ideal__default.svg"
     },
     {
       "componentId": "SnapFlingBehavior/SnapFlingBehaviorSnapPosition",
@@ -1566,7 +1566,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SnapFlingBehaviorSnapPositionPreview",
-      "figmaSvg": "figma/snapflingbehavior-snapflingbehaviorsnapposition.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/snapflingbehavior-snapflingbehaviorsnapposition__ideal__default.svg"
     },
     {
       "componentId": "Style/SimpleStyleSample",
@@ -1596,7 +1596,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "StyleStateKeySamplePreview",
-      "figmaSvg": "figma/style-stylestatekeysample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/style-stylestatekeysample__ideal__default.svg"
     },
     {
       "componentId": "Style/StyleStateSample",
@@ -1616,7 +1616,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AwaitLongPressOrCancellationSamplePreview",
-      "figmaSvg": "figma/tapgesture-awaitlongpressorcancellationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tapgesture-awaitlongpressorcancellationsample__ideal__default.svg"
     },
     {
       "componentId": "TextAutoSize/TextAutoSizeBasicTextSample",
@@ -1626,7 +1626,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextAutoSizeBasicTextSamplePreview",
-      "figmaSvg": "figma/textautosize-textautosizebasictextsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textautosize-textautosizebasictextsample__ideal__default.svg"
     },
     {
       "componentId": "Toggleable/ToggleableSample",
@@ -1636,7 +1636,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ToggleableSamplePreview",
-      "figmaSvg": "figma/toggleable-toggleablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/toggleable-toggleablesample__ideal__default.svg"
     },
     {
       "componentId": "Toggleable/TriStateToggleableSample",
@@ -1646,7 +1646,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TriStateToggleableSamplePreview",
-      "figmaSvg": "figma/toggleable-tristatetoggleablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/toggleable-tristatetoggleablesample__ideal__default.svg"
     },
     {
       "componentId": "Transformable/TransformableAnimateBySample",
@@ -1656,7 +1656,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TransformableAnimateBySamplePreview",
-      "figmaSvg": "figma/transformable-transformableanimatebysample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformable-transformableanimatebysample__ideal__default.svg"
     },
     {
       "componentId": "Transformable/TransformableSample",
@@ -1666,7 +1666,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TransformableSamplePreview",
-      "figmaSvg": "figma/transformable-transformablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformable-transformablesample__ideal__default.svg"
     },
     {
       "componentId": "Transformable/TransformableSampleInsideScroll",
@@ -1676,7 +1676,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TransformableSampleInsideScrollPreview",
-      "figmaSvg": "figma/transformable-transformablesampleinsidescroll.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformable-transformablesampleinsidescroll__ideal__default.svg"
     },
     {
       "componentId": "TransformGesture/CalculateCentroidSize",
@@ -1686,7 +1686,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CalculateCentroidSizePreview",
-      "figmaSvg": "figma/transformgesture-calculatecentroidsize.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-calculatecentroidsize__ideal__default.svg"
     },
     {
       "componentId": "TransformGesture/CalculatePan",
@@ -1696,7 +1696,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CalculatePanPreview",
-      "figmaSvg": "figma/transformgesture-calculatepan.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-calculatepan__ideal__default.svg"
     },
     {
       "componentId": "TransformGesture/CalculateRotation",
@@ -1706,7 +1706,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CalculateRotationPreview",
-      "figmaSvg": "figma/transformgesture-calculaterotation.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-calculaterotation__ideal__default.svg"
     },
     {
       "componentId": "TransformGesture/CalculateZoom",
@@ -1716,7 +1716,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CalculateZoomPreview",
-      "figmaSvg": "figma/transformgesture-calculatezoom.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-calculatezoom__ideal__default.svg"
     },
     {
       "componentId": "TransformGesture/DetectTransformGestures",
@@ -1726,7 +1726,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DetectTransformGesturesPreview",
-      "figmaSvg": "figma/transformgesture-detecttransformgestures.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-detecttransformgestures__ideal__default.svg"
     },
     {
       "componentId": "AspectRatio/SimpleAspectRatio",
@@ -1736,7 +1736,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleAspectRatioPreview",
-      "figmaSvg": "figma/aspectratio-simpleaspectratio.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/aspectratio-simpleaspectratio__ideal__default.svg"
     },
     {
       "componentId": "Box/SimpleBox",
@@ -1746,7 +1746,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleBoxPreview",
-      "figmaSvg": "figma/box-simplebox.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/box-simplebox__ideal__default.svg"
     },
     {
       "componentId": "BoxWithConstraints/BoxWithConstraintsSample",
@@ -1756,7 +1756,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BoxWithConstraintsSamplePreview",
-      "figmaSvg": "figma/boxwithconstraints-boxwithconstraintssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/boxwithconstraints-boxwithconstraintssample__ideal__default.svg"
     },
     {
       "componentId": "Column/SimpleAlignInColumn",
@@ -1766,7 +1766,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleAlignInColumnPreview",
-      "figmaSvg": "figma/column-simplealignincolumn.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/column-simplealignincolumn__ideal__default.svg"
     },
     {
       "componentId": "Column/SimpleColumn",
@@ -1776,7 +1776,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleColumnPreview",
-      "figmaSvg": "figma/column-simplecolumn.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/column-simplecolumn__ideal__default.svg"
     },
     {
       "componentId": "Column/SimpleRelativeToSiblings",
@@ -1786,7 +1786,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleRelativeToSiblingsPreview",
-      "figmaSvg": "figma/column-simplerelativetosiblings.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/column-simplerelativetosiblings__ideal__default.svg"
     },
     {
       "componentId": "Column/SimpleRelativeToSiblingsInColumn",
@@ -1796,7 +1796,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleRelativeToSiblingsInColumnPreview",
-      "figmaSvg": "figma/column-simplerelativetosiblingsincolumn.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/column-simplerelativetosiblingsincolumn__ideal__default.svg"
     },
     {
       "componentId": "ContextualFlowColumn/ContextualFlowColMaxLineDynamicSeeMore",
@@ -1806,7 +1806,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ContextualFlowColMaxLineDynamicSeeMorePreview",
-      "figmaSvg": "figma/contextualflowcolumn-contextualflowcolmaxlinedynamicseemore.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contextualflowcolumn-contextualflowcolmaxlinedynamicseemore__ideal__default.svg"
     },
     {
       "componentId": "ContextualFlowColumn/ContextualFlowColumn_ItemPosition",
@@ -1816,7 +1816,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ContextualFlowColumn_ItemPositionPreview",
-      "figmaSvg": "figma/contextualflowcolumn-contextualflowcolumn-itemposition.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contextualflowcolumn-contextualflowcolumn_itemposition__ideal__default.svg"
     },
     {
       "componentId": "ContextualFlowRow/ContextualFlowRow_ItemPosition",
@@ -1826,7 +1826,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ContextualFlowRow_ItemPositionPreview",
-      "figmaSvg": "figma/contextualflowrow-contextualflowrow-itemposition.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contextualflowrow-contextualflowrow_itemposition__ideal__default.svg"
     },
     {
       "componentId": "ContextualFlowRow/ContextualFlowRowMaxLineDynamicSeeMore",
@@ -1836,7 +1836,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ContextualFlowRowMaxLineDynamicSeeMorePreview",
-      "figmaSvg": "figma/contextualflowrow-contextualflowrowmaxlinedynamicseemore.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contextualflowrow-contextualflowrowmaxlinedynamicseemore__ideal__default.svg"
     },
     {
       "componentId": "FlexBox/FlexAlignSelfBaselineSample",
@@ -2165,7 +2165,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFlowColumnPreview",
-      "figmaSvg": "figma/flowcolumn-simpleflowcolumn.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowcolumn-simpleflowcolumn__ideal__default.svg"
     },
     {
       "componentId": "FlowColumn/SimpleFlowColumn_EqualWidth",
@@ -2175,7 +2175,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFlowColumn_EqualWidthPreview",
-      "figmaSvg": "figma/flowcolumn-simpleflowcolumn-equalwidth.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowcolumn-simpleflowcolumn_equalwidth__ideal__default.svg"
     },
     {
       "componentId": "FlowColumn/SimpleFlowColumnMaxLinesDynamicSeeMore",
@@ -2195,7 +2195,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFlowColumnMaxLinesWithSeeMorePreview",
-      "figmaSvg": "figma/flowcolumn-simpleflowcolumnmaxlineswithseemore.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowcolumn-simpleflowcolumnmaxlineswithseemore__ideal__default.svg"
     },
     {
       "componentId": "FlowRow/SimpleFlowRow",
@@ -2205,7 +2205,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFlowRowPreview",
-      "figmaSvg": "figma/flowrow-simpleflowrow.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowrow-simpleflowrow__ideal__default.svg"
     },
     {
       "componentId": "FlowRow/SimpleFlowRow_EqualHeight",
@@ -2215,7 +2215,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFlowRow_EqualHeightPreview",
-      "figmaSvg": "figma/flowrow-simpleflowrow-equalheight.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowrow-simpleflowrow_equalheight__ideal__default.svg"
     },
     {
       "componentId": "FlowRow/SimpleFlowRowMaxLinesDynamicSeeMore",
@@ -2235,7 +2235,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFlowRowMaxLinesWithSeeMorePreview",
-      "figmaSvg": "figma/flowrow-simpleflowrowmaxlineswithseemore.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowrow-simpleflowrowmaxlineswithseemore__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridConfigurationDslSample",
@@ -2245,7 +2245,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GridConfigurationDslSamplePreview",
-      "figmaSvg": "figma/grid-gridconfigurationdslsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridconfigurationdslsample__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridWithAreaRanges",
@@ -2255,7 +2255,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GridWithAreaRangesPreview",
-      "figmaSvg": "figma/grid-gridwitharearanges.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwitharearanges__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridWithAutoPlacement",
@@ -2265,7 +2265,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GridWithAutoPlacementPreview",
-      "figmaSvg": "figma/grid-gridwithautoplacement.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithautoplacement__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridWithConstraints",
@@ -2275,7 +2275,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GridWithConstraintsPreview",
-      "figmaSvg": "figma/grid-gridwithconstraints.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithconstraints__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridWithLazyList",
@@ -2285,7 +2285,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GridWithLazyListPreview",
-      "figmaSvg": "figma/grid-gridwithlazylist.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithlazylist__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridWithNamedAreas",
@@ -2295,7 +2295,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GridWithNamedAreasPreview",
-      "figmaSvg": "figma/grid-gridwithnamedareas.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithnamedareas__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridWithOneDimensionalAreas",
@@ -2305,7 +2305,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GridWithOneDimensionalAreasPreview",
-      "figmaSvg": "figma/grid-gridwithonedimensionalareas.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithonedimensionalareas__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridWithSpanningItems",
@@ -2315,7 +2315,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GridWithSpanningItemsPreview",
-      "figmaSvg": "figma/grid-gridwithspanningitems.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithspanningitems__ideal__default.svg"
     },
     {
       "componentId": "Grid/SimpleGrid",
@@ -2325,7 +2325,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleGridPreview",
-      "figmaSvg": "figma/grid-simplegrid.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-simplegrid__ideal__default.svg"
     },
     {
       "componentId": "Intrinsic/MatchParentDividerForAspectRatio",
@@ -2335,7 +2335,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MatchParentDividerForAspectRatioPreview",
-      "figmaSvg": "figma/intrinsic-matchparentdividerforaspectratio.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/intrinsic-matchparentdividerforaspectratio__ideal__default.svg"
     },
     {
       "componentId": "Intrinsic/MatchParentDividerForText",
@@ -2345,7 +2345,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MatchParentDividerForTextPreview",
-      "figmaSvg": "figma/intrinsic-matchparentdividerfortext.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/intrinsic-matchparentdividerfortext__ideal__default.svg"
     },
     {
       "componentId": "Intrinsic/SameWidthBoxes",
@@ -2355,7 +2355,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SameWidthBoxesPreview",
-      "figmaSvg": "figma/intrinsic-samewidthboxes.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/intrinsic-samewidthboxes__ideal__default.svg"
     },
     {
       "componentId": "Intrinsic/SameWidthTextBoxes",
@@ -2365,7 +2365,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SameWidthTextBoxesPreview",
-      "figmaSvg": "figma/intrinsic-samewidthtextboxes.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/intrinsic-samewidthtextboxes__ideal__default.svg"
     },
     {
       "componentId": "LayoutOffset/AbsoluteOffsetModifier",
@@ -2375,7 +2375,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AbsoluteOffsetModifierPreview",
-      "figmaSvg": "figma/layoutoffset-absoluteoffsetmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutoffset-absoluteoffsetmodifier__ideal__default.svg"
     },
     {
       "componentId": "LayoutOffset/AbsoluteOffsetPxModifier",
@@ -2385,7 +2385,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AbsoluteOffsetPxModifierPreview",
-      "figmaSvg": "figma/layoutoffset-absoluteoffsetpxmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutoffset-absoluteoffsetpxmodifier__ideal__default.svg"
     },
     {
       "componentId": "LayoutOffset/OffsetModifier",
@@ -2395,7 +2395,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OffsetModifierPreview",
-      "figmaSvg": "figma/layoutoffset-offsetmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutoffset-offsetmodifier__ideal__default.svg"
     },
     {
       "componentId": "LayoutOffset/OffsetPxModifier",
@@ -2405,7 +2405,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OffsetPxModifierPreview",
-      "figmaSvg": "figma/layoutoffset-offsetpxmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutoffset-offsetpxmodifier__ideal__default.svg"
     },
     {
       "componentId": "LayoutPadding/AbsolutePaddingModifier",
@@ -2415,7 +2415,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AbsolutePaddingModifierPreview",
-      "figmaSvg": "figma/layoutpadding-absolutepaddingmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-absolutepaddingmodifier__ideal__default.svg"
     },
     {
       "componentId": "LayoutPadding/PaddingAllModifier",
@@ -2425,7 +2425,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PaddingAllModifierPreview",
-      "figmaSvg": "figma/layoutpadding-paddingallmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-paddingallmodifier__ideal__default.svg"
     },
     {
       "componentId": "LayoutPadding/PaddingModifier",
@@ -2435,7 +2435,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PaddingModifierPreview",
-      "figmaSvg": "figma/layoutpadding-paddingmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-paddingmodifier__ideal__default.svg"
     },
     {
       "componentId": "LayoutPadding/PaddingValuesModifier",
@@ -2445,7 +2445,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PaddingValuesModifierPreview",
-      "figmaSvg": "figma/layoutpadding-paddingvaluesmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-paddingvaluesmodifier__ideal__default.svg"
     },
     {
       "componentId": "LayoutPadding/SymmetricPaddingModifier",
@@ -2455,7 +2455,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SymmetricPaddingModifierPreview",
-      "figmaSvg": "figma/layoutpadding-symmetricpaddingmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-symmetricpaddingmodifier__ideal__default.svg"
     },
     {
       "componentId": "RelativePaddingFrom/PaddingFromBaselineSampleDp",
@@ -2465,7 +2465,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PaddingFromBaselineSampleDpPreview",
-      "figmaSvg": "figma/relativepaddingfrom-paddingfrombaselinesampledp.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/relativepaddingfrom-paddingfrombaselinesampledp__ideal__default.svg"
     },
     {
       "componentId": "RelativePaddingFrom/PaddingFromBaselineSampleTextUnit",
@@ -2475,7 +2475,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PaddingFromBaselineSampleTextUnitPreview",
-      "figmaSvg": "figma/relativepaddingfrom-paddingfrombaselinesampletextunit.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/relativepaddingfrom-paddingfrombaselinesampletextunit__ideal__default.svg"
     },
     {
       "componentId": "RelativePaddingFrom/PaddingFromSample",
@@ -2485,7 +2485,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PaddingFromSamplePreview",
-      "figmaSvg": "figma/relativepaddingfrom-paddingfromsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/relativepaddingfrom-paddingfromsample__ideal__default.svg"
     },
     {
       "componentId": "Row/SimpleAlignByInRow",
@@ -2495,7 +2495,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleAlignByInRowPreview",
-      "figmaSvg": "figma/row-simplealignbyinrow.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/row-simplealignbyinrow__ideal__default.svg"
     },
     {
       "componentId": "Row/SimpleAlignInRow",
@@ -2505,7 +2505,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleAlignInRowPreview",
-      "figmaSvg": "figma/row-simplealigninrow.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/row-simplealigninrow__ideal__default.svg"
     },
     {
       "componentId": "Row/SimpleRow",
@@ -2515,7 +2515,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleRowPreview",
-      "figmaSvg": "figma/row-simplerow.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/row-simplerow__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/DefaultMinSizeSample",
@@ -2525,7 +2525,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DefaultMinSizeSamplePreview",
-      "figmaSvg": "figma/sizemodifier-defaultminsizesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-defaultminsizesample__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/FillHalfHeightModifier",
@@ -2535,7 +2535,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FillHalfHeightModifierPreview",
-      "figmaSvg": "figma/sizemodifier-fillhalfheightmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-fillhalfheightmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/FillHalfSizeModifier",
@@ -2545,7 +2545,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FillHalfSizeModifierPreview",
-      "figmaSvg": "figma/sizemodifier-fillhalfsizemodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-fillhalfsizemodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/FillHalfWidthModifier",
@@ -2555,7 +2555,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FillHalfWidthModifierPreview",
-      "figmaSvg": "figma/sizemodifier-fillhalfwidthmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-fillhalfwidthmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleFillHeightModifier",
@@ -2565,7 +2565,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFillHeightModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplefillheightmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplefillheightmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleFillModifier",
@@ -2575,7 +2575,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFillModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplefillmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplefillmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleFillWidthModifier",
@@ -2585,7 +2585,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFillWidthModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplefillwidthmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplefillwidthmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleHeightModifier",
@@ -2595,7 +2595,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleHeightModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simpleheightmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simpleheightmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleRequiredHeightModifier",
@@ -2605,7 +2605,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleRequiredHeightModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplerequiredheightmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplerequiredheightmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleRequiredSizeModifier",
@@ -2615,7 +2615,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleRequiredSizeModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplerequiredsizemodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplerequiredsizemodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleRequiredWidthModifier",
@@ -2625,7 +2625,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleRequiredWidthModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplerequiredwidthmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplerequiredwidthmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleSizeModifier",
@@ -2635,7 +2635,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleSizeModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplesizemodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplesizemodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleSizeModifierWithDpSize",
@@ -2645,7 +2645,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleSizeModifierWithDpSizePreview",
-      "figmaSvg": "figma/sizemodifier-simplesizemodifierwithdpsize.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplesizemodifierwithdpsize__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleWidthModifier",
@@ -2655,7 +2655,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleWidthModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplewidthmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplewidthmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleWrapContentAlignedModifier",
@@ -2665,7 +2665,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleWrapContentAlignedModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplewrapcontentalignedmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplewrapcontentalignedmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleWrapContentHorizontallyAlignedModifier",
@@ -2675,7 +2675,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleWrapContentHorizontallyAlignedModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplewrapcontenthorizontallyalignedmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplewrapcontenthorizontallyalignedmodifier__ideal__default.svg"
     },
     {
       "componentId": "SizeModifier/SimpleWrapContentVerticallyAlignedModifier",
@@ -2685,7 +2685,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleWrapContentVerticallyAlignedModifierPreview",
-      "figmaSvg": "figma/sizemodifier-simplewrapcontentverticallyalignedmodifier.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplewrapcontentverticallyalignedmodifier__ideal__default.svg"
     },
     {
       "componentId": "Spacer/SpacerExample",
@@ -2695,7 +2695,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SpacerExamplePreview",
-      "figmaSvg": "figma/spacer-spacerexample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/spacer-spacerexample__ideal__default.svg"
     },
     {
       "componentId": "VisibleModifier/VisibleModifierSample",
@@ -2705,7 +2705,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "VisibleModifierSamplePreview",
-      "figmaSvg": "figma/visiblemodifier-visiblemodifiersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/visiblemodifier-visiblemodifiersample__ideal__default.svg"
     },
     {
       "componentId": "WindowInsets/FitInsideOutsideExample",
@@ -2715,7 +2715,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FitInsideOutsideExamplePreview",
-      "figmaSvg": "figma/windowinsets-fitinsideoutsideexample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/windowinsets-fitinsideoutsideexample__ideal__default.svg"
     },
     {
       "componentId": "WindowInsetsConnection/windowInsetsNestedScrollDemo",
@@ -2765,7 +2765,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AlignmentLineSamplePreview",
-      "figmaSvg": "figma/alignmentline-alignmentlinesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/alignmentline-alignmentlinesample__ideal__default.svg"
     },
     {
       "componentId": "Alpha/AlphaSample",
@@ -2775,7 +2775,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AlphaSamplePreview",
-      "figmaSvg": "figma/alpha-alphasample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/alpha-alphasample__ideal__default.svg"
     },
     {
       "componentId": "AndroidView/AndroidDrawableInDrawScopeSample",
@@ -2925,7 +2925,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DrawWithCacheModifierSamplePreview",
-      "figmaSvg": "figma/drawmodifier-drawwithcachemodifiersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawmodifier-drawwithcachemodifiersample__ideal__default.svg"
     },
     {
       "componentId": "DrawModifier/DrawWithCacheModifierStateParameterSample",
@@ -2935,7 +2935,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DrawWithCacheModifierStateParameterSamplePreview",
-      "figmaSvg": "figma/drawmodifier-drawwithcachemodifierstateparametersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawmodifier-drawwithcachemodifierstateparametersample__ideal__default.svg"
     },
     {
       "componentId": "Focus/CancelFocusMoveSample",
@@ -2945,7 +2945,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CancelFocusMoveSamplePreview",
-      "figmaSvg": "figma/focus-cancelfocusmovesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-cancelfocusmovesample__ideal__default.svg"
     },
     {
       "componentId": "Focus/CaptureFocusSample",
@@ -2965,7 +2965,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ClearFocusSamplePreview",
-      "figmaSvg": "figma/focus-clearfocussample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-clearfocussample__ideal__default.svg"
     },
     {
       "componentId": "Focus/CreateFocusRequesterRefsSample",
@@ -2975,7 +2975,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CreateFocusRequesterRefsSamplePreview",
-      "figmaSvg": "figma/focus-createfocusrequesterrefssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-createfocusrequesterrefssample__ideal__default.svg"
     },
     {
       "componentId": "Focus/CustomFocusEnterSample",
@@ -2985,7 +2985,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CustomFocusEnterSamplePreview",
-      "figmaSvg": "figma/focus-customfocusentersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-customfocusentersample__ideal__default.svg"
     },
     {
       "componentId": "Focus/CustomFocusExitSample",
@@ -2995,7 +2995,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CustomFocusExitSamplePreview",
-      "figmaSvg": "figma/focus-customfocusexitsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-customfocusexitsample__ideal__default.svg"
     },
     {
       "componentId": "Focus/CustomFocusOrderSample",
@@ -3005,7 +3005,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CustomFocusOrderSamplePreview",
-      "figmaSvg": "figma/focus-customfocusordersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-customfocusordersample__ideal__default.svg"
     },
     {
       "componentId": "Focus/FocusableSampleUsingLowerLevelFocusTarget",
@@ -3015,7 +3015,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FocusableSampleUsingLowerLevelFocusTargetPreview",
-      "figmaSvg": "figma/focus-focusablesampleusinglowerlevelfocustarget.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-focusablesampleusinglowerlevelfocustarget__ideal__default.svg"
     },
     {
       "componentId": "Focus/FocusPropertiesSample",
@@ -3025,7 +3025,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FocusPropertiesSamplePreview",
-      "figmaSvg": "figma/focus-focuspropertiessample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-focuspropertiessample__ideal__default.svg"
     },
     {
       "componentId": "Focus/FocusRestorerCustomFallbackSample",
@@ -3035,7 +3035,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FocusRestorerCustomFallbackSamplePreview",
-      "figmaSvg": "figma/focus-focusrestorercustomfallbacksample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-focusrestorercustomfallbacksample__ideal__default.svg"
     },
     {
       "componentId": "Focus/FocusRestorerSample",
@@ -3045,7 +3045,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FocusRestorerSamplePreview",
-      "figmaSvg": "figma/focus-focusrestorersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-focusrestorersample__ideal__default.svg"
     },
     {
       "componentId": "Focus/MoveFocusSample",
@@ -3055,7 +3055,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MoveFocusSamplePreview",
-      "figmaSvg": "figma/focus-movefocussample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-movefocussample__ideal__default.svg"
     },
     {
       "componentId": "Focus/RequestFocusSample",
@@ -3065,7 +3065,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RequestFocusSamplePreview",
-      "figmaSvg": "figma/focus-requestfocussample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-requestfocussample__ideal__default.svg"
     },
     {
       "componentId": "Focus/RestoreFocusSample",
@@ -3075,7 +3075,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RestoreFocusSamplePreview",
-      "figmaSvg": "figma/focus-restorefocussample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-restorefocussample__ideal__default.svg"
     },
     {
       "componentId": "FocusAwareInput/KeyEventIsAltPressedSample",
@@ -3085,7 +3085,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "KeyEventIsAltPressedSamplePreview",
-      "figmaSvg": "figma/focusawareinput-keyeventisaltpressedsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventisaltpressedsample__ideal__default.svg"
     },
     {
       "componentId": "FocusAwareInput/KeyEventIsCtrlPressedSample",
@@ -3095,7 +3095,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "KeyEventIsCtrlPressedSamplePreview",
-      "figmaSvg": "figma/focusawareinput-keyeventisctrlpressedsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventisctrlpressedsample__ideal__default.svg"
     },
     {
       "componentId": "FocusAwareInput/KeyEventIsMetaPressedSample",
@@ -3105,7 +3105,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "KeyEventIsMetaPressedSamplePreview",
-      "figmaSvg": "figma/focusawareinput-keyeventismetapressedsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventismetapressedsample__ideal__default.svg"
     },
     {
       "componentId": "FocusAwareInput/KeyEventIsShiftPressedSample",
@@ -3115,7 +3115,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "KeyEventIsShiftPressedSamplePreview",
-      "figmaSvg": "figma/focusawareinput-keyeventisshiftpressedsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventisshiftpressedsample__ideal__default.svg"
     },
     {
       "componentId": "FocusAwareInput/KeyEventSample",
@@ -3125,7 +3125,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "KeyEventSamplePreview",
-      "figmaSvg": "figma/focusawareinput-keyeventsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventsample__ideal__default.svg"
     },
     {
       "componentId": "FocusAwareInput/KeyEventTypeSample",
@@ -3135,7 +3135,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "KeyEventTypeSamplePreview",
-      "figmaSvg": "figma/focusawareinput-keyeventtypesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventtypesample__ideal__default.svg"
     },
     {
       "componentId": "FocusAwareInput/PreRotaryEventSample",
@@ -3145,7 +3145,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PreRotaryEventSamplePreview",
-      "figmaSvg": "figma/focusawareinput-prerotaryeventsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-prerotaryeventsample__ideal__default.svg"
     },
     {
       "componentId": "FocusAwareInput/RotaryEventSample",
@@ -3155,7 +3155,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RotaryEventSamplePreview",
-      "figmaSvg": "figma/focusawareinput-rotaryeventsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-rotaryeventsample__ideal__default.svg"
     },
     {
       "componentId": "InspectableModifier/InspectableModifierSample",
@@ -3165,7 +3165,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InspectableModifierSamplePreview",
-      "figmaSvg": "figma/inspectablemodifier-inspectablemodifiersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/inspectablemodifier-inspectablemodifiersample__ideal__default.svg"
     },
     {
       "componentId": "InspectorInfoInComposedModifier/InspectorInfoInComposedModifierSample",
@@ -3175,7 +3175,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InspectorInfoInComposedModifierSamplePreview",
-      "figmaSvg": "figma/inspectorinfoincomposedmodifier-inspectorinfoincomposedmodifiersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/inspectorinfoincomposedmodifier-inspectorinfoincomposedmodifiersample__ideal__default.svg"
     },
     {
       "componentId": "InspectorInfoInComposedModifier/InspectorInfoInComposedModifierWithArgumentsSample",
@@ -3185,7 +3185,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InspectorInfoInComposedModifierWithArgumentsSamplePreview",
-      "figmaSvg": "figma/inspectorinfoincomposedmodifier-inspectorinfoincomposedmodifierwithargumentssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/inspectorinfoincomposedmodifier-inspectorinfoincomposedmodifierwithargumentssample__ideal__default.svg"
     },
     {
       "componentId": "LayerModifier/AnimateFadeIn",
@@ -3195,7 +3195,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AnimateFadeInPreview",
-      "figmaSvg": "figma/layermodifier-animatefadein.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layermodifier-animatefadein__ideal__default.svg"
     },
     {
       "componentId": "LayerModifier/ChangeOpacity",
@@ -3205,7 +3205,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ChangeOpacityPreview",
-      "figmaSvg": "figma/layermodifier-changeopacity.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layermodifier-changeopacity__ideal__default.svg"
     },
     {
       "componentId": "LayerModifier/CompositingStrategyModulateAlpha",
@@ -3225,7 +3225,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CompositingStrategyOffscreenLayerOutsetsPreview",
-      "figmaSvg": "figma/layermodifier-compositingstrategyoffscreenlayeroutsets.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layermodifier-compositingstrategyoffscreenlayeroutsets__ideal__default.svg"
     },
     {
       "componentId": "Layout/ConvenienceLayoutModifierSample",
@@ -3235,7 +3235,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ConvenienceLayoutModifierSamplePreview",
-      "figmaSvg": "figma/layout-conveniencelayoutmodifiersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layout-conveniencelayoutmodifiersample__ideal__default.svg"
     },
     {
       "componentId": "Layout/LayoutModifierNodeSample",
@@ -3245,7 +3245,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LayoutModifierNodeSamplePreview",
-      "figmaSvg": "figma/layout-layoutmodifiernodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layout-layoutmodifiernodesample__ideal__default.svg"
     },
     {
       "componentId": "Layout/LayoutModifierSample",
@@ -3255,7 +3255,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LayoutModifierSamplePreview",
-      "figmaSvg": "figma/layout-layoutmodifiersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layout-layoutmodifiersample__ideal__default.svg"
     },
     {
       "componentId": "Lighting/IlluminateSample",
@@ -3305,7 +3305,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "animateContentSizeAfterLookaheadPassPreview",
-      "figmaSvg": "figma/lookaheadscope-animatecontentsizeafterlookaheadpass.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadscope-animatecontentsizeafterlookaheadpass__ideal__default.svg"
     },
     {
       "componentId": "LookaheadScope/approachLayoutSample",
@@ -3315,7 +3315,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "approachLayoutSamplePreview",
-      "figmaSvg": "figma/lookaheadscope-approachlayoutsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadscope-approachlayoutsample__ideal__default.svg"
     },
     {
       "componentId": "LookaheadScope/LookaheadLayoutCoordinatesSample",
@@ -3325,7 +3325,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LookaheadLayoutCoordinatesSamplePreview",
-      "figmaSvg": "figma/lookaheadscope-lookaheadlayoutcoordinatessample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadscope-lookaheadlayoutcoordinatessample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/DelegatedNodeSampleExplicit",
@@ -3335,7 +3335,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DelegatedNodeSampleExplicitPreview",
-      "figmaSvg": "figma/modifier-delegatednodesampleexplicit.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-delegatednodesampleexplicit__ideal__default.svg"
     },
     {
       "componentId": "Modifier/DelegatedNodeSampleImplicit",
@@ -3345,7 +3345,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DelegatedNodeSampleImplicitPreview",
-      "figmaSvg": "figma/modifier-delegatednodesampleimplicit.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-delegatednodesampleimplicit__ideal__default.svg"
     },
     {
       "componentId": "Modifier/GlobalPositionAwareModifierNodeSample",
@@ -3355,7 +3355,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GlobalPositionAwareModifierNodeSamplePreview",
-      "figmaSvg": "figma/modifier-globalpositionawaremodifiernodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-globalpositionawaremodifiernodesample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/JustReadingOrProvidingModifierLocalNodeSample",
@@ -3365,7 +3365,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "JustReadingOrProvidingModifierLocalNodeSamplePreview",
-      "figmaSvg": "figma/modifier-justreadingorprovidingmodifierlocalnodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-justreadingorprovidingmodifierlocalnodesample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/LayoutAwareModifierNodeSample",
@@ -3375,7 +3375,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LayoutAwareModifierNodeSamplePreview",
-      "figmaSvg": "figma/modifier-layoutawaremodifiernodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-layoutawaremodifiernodesample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/LazyDelegationExample",
@@ -3385,7 +3385,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LazyDelegationExamplePreview",
-      "figmaSvg": "figma/modifier-lazydelegationexample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-lazydelegationexample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/ModifierFactorySample",
@@ -3395,7 +3395,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierFactorySamplePreview",
-      "figmaSvg": "figma/modifier-modifierfactorysample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifierfactorysample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/ModifierNodeCoroutineScopeSample",
@@ -3405,7 +3405,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierNodeCoroutineScopeSamplePreview",
-      "figmaSvg": "figma/modifier-modifiernodecoroutinescopesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifiernodecoroutinescopesample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/ModifierNodeElementSample",
@@ -3415,7 +3415,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierNodeElementSamplePreview",
-      "figmaSvg": "figma/modifier-modifiernodeelementsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifiernodeelementsample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/ModifierNodeResetSample",
@@ -3425,7 +3425,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierNodeResetSamplePreview",
-      "figmaSvg": "figma/modifier-modifiernoderesetsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifiernoderesetsample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/ModifierParameterSample",
@@ -3435,7 +3435,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierParameterSamplePreview",
-      "figmaSvg": "figma/modifier-modifierparametersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifierparametersample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/ModifierUsageSample",
@@ -3445,7 +3445,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierUsageSamplePreview",
-      "figmaSvg": "figma/modifier-modifierusagesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifierusagesample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/PointerInputModifierNodeSample",
@@ -3455,7 +3455,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PointerInputModifierNodeSamplePreview",
-      "figmaSvg": "figma/modifier-pointerinputmodifiernodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-pointerinputmodifiernodesample__ideal__default.svg"
     },
     {
       "componentId": "Modifier/SemanticsModifierNodeSample",
@@ -3465,7 +3465,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SemanticsModifierNodeSamplePreview",
-      "figmaSvg": "figma/modifier-semanticsmodifiernodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-semanticsmodifiernodesample__ideal__default.svg"
     },
     {
       "componentId": "ModifierCompositionLocal/CompositionLocalConsumingModifierObserverNodeSample",
@@ -3475,7 +3475,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CompositionLocalConsumingModifierObserverNodeSamplePreview",
-      "figmaSvg": "figma/modifiercompositionlocal-compositionlocalconsumingmodifierobservernodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifiercompositionlocal-compositionlocalconsumingmodifierobservernodesample__ideal__default.svg"
     },
     {
       "componentId": "ModifierCompositionLocal/CompositionLocalConsumingModifierSample",
@@ -3485,7 +3485,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CompositionLocalConsumingModifierSamplePreview",
-      "figmaSvg": "figma/modifiercompositionlocal-compositionlocalconsumingmodifiersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifiercompositionlocal-compositionlocalconsumingmodifiersample__ideal__default.svg"
     },
     {
       "componentId": "ModifierLocal/ModifierLocalChildParentCommunicationInterLayoutNodeSample",
@@ -3495,7 +3495,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierLocalChildParentCommunicationInterLayoutNodeSamplePreview",
-      "figmaSvg": "figma/modifierlocal-modifierlocalchildparentcommunicationinterlayoutnodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifierlocal-modifierlocalchildparentcommunicationinterlayoutnodesample__ideal__default.svg"
     },
     {
       "componentId": "ModifierLocal/ModifierLocalChildParentCommunicationWithinLayoutNodeSample",
@@ -3505,7 +3505,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierLocalChildParentCommunicationWithinLayoutNodeSamplePreview",
-      "figmaSvg": "figma/modifierlocal-modifierlocalchildparentcommunicationwithinlayoutnodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifierlocal-modifierlocalchildparentcommunicationwithinlayoutnodesample__ideal__default.svg"
     },
     {
       "componentId": "ModifierLocal/ModifierLocalParentChildCommunicationInterLayoutNodeSample",
@@ -3515,7 +3515,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierLocalParentChildCommunicationInterLayoutNodeSamplePreview",
-      "figmaSvg": "figma/modifierlocal-modifierlocalparentchildcommunicationinterlayoutnodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifierlocal-modifierlocalparentchildcommunicationinterlayoutnodesample__ideal__default.svg"
     },
     {
       "componentId": "ModifierLocal/ModifierLocalParentChildCommunicationWithinLayoutNodeSample",
@@ -3525,7 +3525,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModifierLocalParentChildCommunicationWithinLayoutNodeSamplePreview",
-      "figmaSvg": "figma/modifierlocal-modifierlocalparentchildcommunicationwithinlayoutnodesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifierlocal-modifierlocalparentchildcommunicationwithinlayoutnodesample__ideal__default.svg"
     },
     {
       "componentId": "NestedScroll/NestedScrollConnectionSample",
@@ -3545,7 +3545,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "NestedScrollDispatcherSamplePreview",
-      "figmaSvg": "figma/nestedscroll-nestedscrolldispatchersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/nestedscroll-nestedscrolldispatchersample__ideal__default.svg"
     },
     {
       "componentId": "NestedScrollInterop/ComposeInCooperatingViewNestedScrollInteropSample",
@@ -3575,7 +3575,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OnGloballyPositionedPreview",
-      "figmaSvg": "figma/ongloballypositioned-ongloballypositioned.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/ongloballypositioned-ongloballypositioned__ideal__default.svg"
     },
     {
       "componentId": "OnPlaced/OnPlaced",
@@ -3585,7 +3585,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OnPlacedPreview",
-      "figmaSvg": "figma/onplaced-onplaced.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/onplaced-onplaced__ideal__default.svg"
     },
     {
       "componentId": "Painter/PainterModifierSample",
@@ -3634,7 +3634,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PointerIconSamplePreview",
-      "figmaSvg": "figma/pointericon-pointericonsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pointericon-pointericonsample__ideal__default.svg"
     },
     {
       "componentId": "PointerIcon/StylusHoverIconSample",
@@ -3644,7 +3644,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "StylusHoverIconSamplePreview",
-      "figmaSvg": "figma/pointericon-stylushovericonsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pointericon-stylushovericonsample__ideal__default.svg"
     },
     {
       "componentId": "Popup/PopupFromServiceSample",
@@ -3754,7 +3754,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RotateSamplePreview",
-      "figmaSvg": "figma/rotate-rotatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/rotate-rotatesample__ideal__default.svg"
     },
     {
       "componentId": "Scale/ScaleNonUniformSample",
@@ -3764,7 +3764,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScaleNonUniformSamplePreview",
-      "figmaSvg": "figma/scale-scalenonuniformsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scale-scalenonuniformsample__ideal__default.svg"
     },
     {
       "componentId": "Scale/ScaleUniformSample",
@@ -3774,7 +3774,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScaleUniformSamplePreview",
-      "figmaSvg": "figma/scale-scaleuniformsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scale-scaleuniformsample__ideal__default.svg"
     },
     {
       "componentId": "SemanticsProperties/HintTextSample",
@@ -3834,7 +3834,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ShadowSamplePreview",
-      "figmaSvg": "figma/shadow-shadowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/shadow-shadowsample__ideal__default.svg"
     },
     {
       "componentId": "SoftwareKeyboardController/SoftwareKeyboardControllerSample",
@@ -3874,7 +3874,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InsetsRulersAlphaSamplePreview",
-      "figmaSvg": "figma/windowinsetsrulers-insetsrulersalphasample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/windowinsetsrulers-insetsrulersalphasample__ideal__default.svg"
     },
     {
       "componentId": "WindowInsetsRulers/MaximumSample",
@@ -3884,7 +3884,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MaximumSamplePreview",
-      "figmaSvg": "figma/windowinsetsrulers-maximumsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/windowinsetsrulers-maximumsample__ideal__default.svg"
     },
     {
       "componentId": "WindowInsetsRulers/SourceAndTargetInsetsSample",
@@ -3904,7 +3904,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "WindowInsetsRulersSamplePreview",
-      "figmaSvg": "figma/windowinsetsrulers-windowinsetsrulerssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/windowinsetsrulers-windowinsetsrulerssample__ideal__default.svg"
     },
     {
       "componentId": "ZIndexModifier/ZIndexModifierSample",
@@ -3914,7 +3914,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ZIndexModifierSamplePreview",
-      "figmaSvg": "figma/zindexmodifier-zindexmodifiersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/zindexmodifier-zindexmodifiersample__ideal__default.svg"
     },
     {
       "componentId": "Brush/CompositeShaderSample",
@@ -4092,7 +4092,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BaselineShiftAnnotatedStringSamplePreview",
-      "figmaSvg": "figma/baselineshift-baselineshiftannotatedstringsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/baselineshift-baselineshiftannotatedstringsample__ideal__default.svg"
     },
     {
       "componentId": "BaselineShift/BaselineShiftSample",
@@ -4102,7 +4102,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BaselineShiftSamplePreview",
-      "figmaSvg": "figma/baselineshift-baselineshiftsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/baselineshift-baselineshiftsample__ideal__default.svg"
     },
     {
       "componentId": "DrawAnnotation/DrawAnnotationSample",
@@ -4272,7 +4272,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ParagraphStyleAnnotatedStringsSamplePreview",
-      "figmaSvg": "figma/paragraphstyle-paragraphstyleannotatedstringssample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/paragraphstyle-paragraphstyleannotatedstringssample__ideal__default.svg"
     },
     {
       "componentId": "ParagraphStyle/ParagraphStyleSample",
@@ -4282,7 +4282,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ParagraphStyleSamplePreview",
-      "figmaSvg": "figma/paragraphstyle-paragraphstylesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/paragraphstyle-paragraphstylesample__ideal__default.svg"
     },
     {
       "componentId": "SpanStyle/SpanStyleBrushSample",
@@ -4292,7 +4292,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SpanStyleBrushSamplePreview",
-      "figmaSvg": "figma/spanstyle-spanstylebrushsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/spanstyle-spanstylebrushsample__ideal__default.svg"
     },
     {
       "componentId": "SpanStyle/SpanStyleSample",
@@ -4302,7 +4302,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SpanStyleSamplePreview",
-      "figmaSvg": "figma/spanstyle-spanstylesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/spanstyle-spanstylesample__ideal__default.svg"
     },
     {
       "componentId": "TextDecoration/TextDecorationCombinedSample",
@@ -4312,7 +4312,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextDecorationCombinedSamplePreview",
-      "figmaSvg": "figma/textdecoration-textdecorationcombinedsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textdecoration-textdecorationcombinedsample__ideal__default.svg"
     },
     {
       "componentId": "TextDecoration/TextDecorationLineThroughSample",
@@ -4322,7 +4322,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextDecorationLineThroughSamplePreview",
-      "figmaSvg": "figma/textdecoration-textdecorationlinethroughsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textdecoration-textdecorationlinethroughsample__ideal__default.svg"
     },
     {
       "componentId": "TextDecoration/TextDecorationUnderlineSample",
@@ -4332,7 +4332,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextDecorationUnderlineSamplePreview",
-      "figmaSvg": "figma/textdecoration-textdecorationunderlinesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textdecoration-textdecorationunderlinesample__ideal__default.svg"
     },
     {
       "componentId": "TextMotion/TextMotionSample",
@@ -4342,7 +4342,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextMotionSamplePreview",
-      "figmaSvg": "figma/textmotion-textmotionsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textmotion-textmotionsample__ideal__default.svg"
     },
     {
       "componentId": "TextOverflow/TextOverflowClipSample",
@@ -4352,7 +4352,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextOverflowClipSamplePreview",
-      "figmaSvg": "figma/textoverflow-textoverflowclipsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textoverflow-textoverflowclipsample__ideal__default.svg"
     },
     {
       "componentId": "TextOverflow/TextOverflowEllipsisSample",
@@ -4362,7 +4362,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextOverflowEllipsisSamplePreview",
-      "figmaSvg": "figma/textoverflow-textoverflowellipsissample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textoverflow-textoverflowellipsissample__ideal__default.svg"
     },
     {
       "componentId": "TextOverflow/TextOverflowVisibleFixedSizeSample",
@@ -4372,7 +4372,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextOverflowVisibleFixedSizeSamplePreview",
-      "figmaSvg": "figma/textoverflow-textoverflowvisiblefixedsizesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textoverflow-textoverflowvisiblefixedsizesample__ideal__default.svg"
     },
     {
       "componentId": "TextOverflow/TextOverflowVisibleMinHeightSample",
@@ -4382,7 +4382,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextOverflowVisibleMinHeightSamplePreview",
-      "figmaSvg": "figma/textoverflow-textoverflowvisibleminheightsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textoverflow-textoverflowvisibleminheightsample__ideal__default.svg"
     },
     {
       "componentId": "TextStyle/TextStyleBrushSample",
@@ -4392,7 +4392,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextStyleBrushSamplePreview",
-      "figmaSvg": "figma/textstyle-textstylebrushsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textstyle-textstylebrushsample__ideal__default.svg"
     },
     {
       "componentId": "TextStyle/TextStyleSample",
@@ -4402,7 +4402,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextStyleSamplePreview",
-      "figmaSvg": "figma/textstyle-textstylesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textstyle-textstylesample__ideal__default.svg"
     },
     {
       "componentId": "Dp/DpSample",
@@ -4412,7 +4412,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DpSamplePreview",
-      "figmaSvg": "figma/dp-dpsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/dp-dpsample__ideal__default.svg"
     },
     {
       "componentId": "Dp/ToPxSample",
@@ -4481,7 +4481,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ColorAnimationSamplePreview",
-      "figmaSvg": "figma/animatedvalue-animation-coloranimationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-coloranimationsample__ideal__default.svg"
     },
     {
       "componentId": "AnimatedVisibility/AddAnimatedVisibilityToGenericTransitionSample",
@@ -4677,7 +4677,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AnimateContentPreview",
-      "figmaSvg": "figma/animationmodifier-animatecontent.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animationmodifier-animatecontent__ideal__default.svg"
     },
     {
       "componentId": "Crossfade/CrossfadeSample",
@@ -4687,7 +4687,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CrossfadeSamplePreview",
-      "figmaSvg": "figma/crossfade-crossfadesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/crossfade-crossfadesample__ideal__default.svg"
     },
     {
       "componentId": "EnterExitTransition/EnterExitTransitionConfigSample",
@@ -4707,7 +4707,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CustomizedLookaheadAnimationVisualDebuggingSamplePreview",
-      "figmaSvg": "figma/lookaheadanimationvisualdebug-customizedlookaheadanimationvisualdebuggingsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadanimationvisualdebug-customizedlookaheadanimationvisualdebuggingsample__ideal__default.svg"
     },
     {
       "componentId": "LookaheadAnimationVisualDebug/LookaheadAnimationVisualDebuggingSample",
@@ -4717,7 +4717,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LookaheadAnimationVisualDebuggingSamplePreview",
-      "figmaSvg": "figma/lookaheadanimationvisualdebug-lookaheadanimationvisualdebuggingsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadanimationvisualdebug-lookaheadanimationvisualdebuggingsample__ideal__default.svg"
     },
     {
       "componentId": "SharedTransition/DynamicallyEnabledSharedElementInPagerSample",
@@ -4836,7 +4836,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "GestureAnimationSamplePreview",
-      "figmaSvg": "figma/transition-animation-gestureanimationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transition-animation-gestureanimationsample__ideal__default.svg"
     },
     {
       "componentId": "Transition (Animation)/InfiniteTransitionSample",
@@ -4846,7 +4846,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AnimationInfiniteTransitionSamplePreview",
-      "figmaSvg": "figma/transition-animation-infinitetransitionsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transition-animation-infinitetransitionsample__ideal__default.svg"
     },
     {
       "componentId": "Animatable/AnimatableAnimateToGenericsType",
@@ -4886,7 +4886,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AlphaAnimationSamplePreview",
-      "figmaSvg": "figma/animatedvalue-animation-core-alphaanimationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-core-alphaanimationsample__ideal__default.svg"
     },
     {
       "componentId": "AnimatedValue (Animation Core)/AnimateOffsetSample",
@@ -4896,7 +4896,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AnimateOffsetSamplePreview",
-      "figmaSvg": "figma/animatedvalue-animation-core-animateoffsetsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-core-animateoffsetsample__ideal__default.svg"
     },
     {
       "componentId": "AnimatedValue (Animation Core)/ArbitraryValueTypeTransitionSample",
@@ -4906,7 +4906,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ArbitraryValueTypeTransitionSamplePreview",
-      "figmaSvg": "figma/animatedvalue-animation-core-arbitraryvaluetypetransitionsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-core-arbitraryvaluetypetransitionsample__ideal__default.svg"
     },
     {
       "componentId": "AnimatedValue (Animation Core)/DpAnimationSample",
@@ -4916,7 +4916,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DpAnimationSamplePreview",
-      "figmaSvg": "figma/animatedvalue-animation-core-dpanimationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-core-dpanimationsample__ideal__default.svg"
     },
     {
       "componentId": "AnimationSpec/InfiniteProgressIndicator",
@@ -4926,7 +4926,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InfiniteProgressIndicatorPreview",
-      "figmaSvg": "figma/animationspec-infiniteprogressindicator.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animationspec-infiniteprogressindicator__ideal__default.svg"
     },
     {
       "componentId": "InfiniteTransition/InfiniteTransitionAnimateValueSample",
@@ -4936,7 +4936,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InfiniteTransitionAnimateValueSamplePreview",
-      "figmaSvg": "figma/infinitetransition-infinitetransitionanimatevaluesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/infinitetransition-infinitetransitionanimatevaluesample__ideal__default.svg"
     },
     {
       "componentId": "InfiniteTransition/InfiniteTransitionSample",
@@ -4946,7 +4946,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AnimationCoreInfiniteTransitionSamplePreview",
-      "figmaSvg": "figma/infinitetransition-infinitetransitionsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/infinitetransition-infinitetransitionsample__ideal__default.svg"
     },
     {
       "componentId": "KeyframesWithSplineBuilder/PeriodicKeyframesWithSplines",
@@ -4956,7 +4956,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PeriodicKeyframesWithSplinesPreview",
-      "figmaSvg": "figma/keyframeswithsplinebuilder-periodickeyframeswithsplines.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/keyframeswithsplinebuilder-periodickeyframeswithsplines__ideal__default.svg"
     },
     {
       "componentId": "PathEasing/PathEasingSample",
@@ -4966,7 +4966,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PathEasingSamplePreview",
-      "figmaSvg": "figma/patheasing-patheasingsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/patheasing-patheasingsample__ideal__default.svg"
     },
     {
       "componentId": "Transition (Animation Core)/AnimateFloatSample",
@@ -5061,7 +5061,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DelegatedStateSamplePreview",
-      "figmaSvg": "figma/effect-delegatedstatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/effect-delegatedstatesample__ideal__default.svg"
     },
     {
       "componentId": "Effect/DerivedStateSample",
@@ -5071,7 +5071,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DerivedStateSamplePreview",
-      "figmaSvg": "figma/effect-derivedstatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/effect-derivedstatesample__ideal__default.svg"
     },
     {
       "componentId": "Effect/DestructuredStateSample",
@@ -5081,7 +5081,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DestructuredStateSamplePreview",
-      "figmaSvg": "figma/effect-destructuredstatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/effect-destructuredstatesample__ideal__default.svg"
     },
     {
       "componentId": "Effect/SimpleStateSample",
@@ -5091,7 +5091,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleStateSamplePreview",
-      "figmaSvg": "figma/effect-simplestatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/effect-simplestatesample__ideal__default.svg"
     },
     {
       "componentId": "Key/LocallyUniqueKeys",
@@ -5101,7 +5101,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LocallyUniqueKeysPreview",
-      "figmaSvg": "figma/key-locallyuniquekeys.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/key-locallyuniquekeys__ideal__default.svg"
     },
     {
       "componentId": "Key/MoreCorrectUniqueKeys",
@@ -5111,7 +5111,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MoreCorrectUniqueKeysPreview",
-      "figmaSvg": "figma/key-morecorrectuniquekeys.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/key-morecorrectuniquekeys__ideal__default.svg"
     },
     {
       "componentId": "Key/NotAlwaysUniqueKeys",
@@ -5121,7 +5121,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "NotAlwaysUniqueKeysPreview",
-      "figmaSvg": "figma/key-notalwaysuniquekeys.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/key-notalwaysuniquekeys__ideal__default.svg"
     },
     {
       "componentId": "RememberSaveable/RememberSaveable",
@@ -5131,7 +5131,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RememberSaveablePreview",
-      "figmaSvg": "figma/remembersaveable-remembersaveable.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveable__ideal__default.svg"
     },
     {
       "componentId": "RememberSaveable/RememberSaveableCustomSaver",
@@ -5141,7 +5141,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RememberSaveableCustomSaverPreview",
-      "figmaSvg": "figma/remembersaveable-remembersaveablecustomsaver.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablecustomsaver__ideal__default.svg"
     },
     {
       "componentId": "RememberSaveable/RememberSaveableWithMutableState",
@@ -5151,7 +5151,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RememberSaveableWithMutableStatePreview",
-      "figmaSvg": "figma/remembersaveable-remembersaveablewithmutablestate.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablewithmutablestate__ideal__default.svg"
     },
     {
       "componentId": "RememberSaveable/RememberSaveableWithMutableStateAndCustomSaver",
@@ -5161,7 +5161,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RememberSaveableWithMutableStateAndCustomSaverPreview",
-      "figmaSvg": "figma/remembersaveable-remembersaveablewithmutablestateandcustomsaver.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablewithmutablestateandcustomsaver__ideal__default.svg"
     },
     {
       "componentId": "RememberSaveable/RememberSaveableWithSerializer",
@@ -5171,7 +5171,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RememberSaveableWithSerializerPreview",
-      "figmaSvg": "figma/remembersaveable-remembersaveablewithserializer.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablewithserializer__ideal__default.svg"
     },
     {
       "componentId": "RememberSaveable/RememberSaveableWithSerializerAndMutableState",
@@ -5181,7 +5181,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RememberSaveableWithSerializerAndMutableStatePreview",
-      "figmaSvg": "figma/remembersaveable-remembersaveablewithserializerandmutablestate.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablewithserializerandmutablestate__ideal__default.svg"
     },
     {
       "componentId": "SaveableStateHolder/SimpleNavigationWithSaveableStateSample",
@@ -5191,7 +5191,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleNavigationWithSaveableStateSamplePreview",
-      "figmaSvg": "figma/saveablestateholder-simplenavigationwithsaveablestatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/saveablestateholder-simplenavigationwithsaveablestatesample__ideal__default.svg"
     },
     {
       "componentId": "Saver/CustomSaverSample",
@@ -5201,7 +5201,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CustomSaverSamplePreview",
-      "figmaSvg": "figma/saver-customsaversample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/saver-customsaversample__ideal__default.svg"
     },
     {
       "componentId": "Saver/ListSaverSample",
@@ -5211,7 +5211,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ListSaverSamplePreview",
-      "figmaSvg": "figma/saver-listsaversample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/saver-listsaversample__ideal__default.svg"
     },
     {
       "componentId": "Saver/MapSaverSample",
@@ -5221,7 +5221,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MapSaverSamplePreview",
-      "figmaSvg": "figma/saver-mapsaversample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/saver-mapsaversample__ideal__default.svg"
     },
     {
       "componentId": "AlertDialog/AlertDialogSample",
@@ -5231,7 +5231,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AlertDialogSamplePreview",
-      "figmaSvg": "figma/alertdialog-alertdialogsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/alertdialog-alertdialogsample__ideal__default.svg"
     },
     {
       "componentId": "AlertDialog/CustomAlertDialogSample",
@@ -5241,7 +5241,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CustomAlertDialogSamplePreview",
-      "figmaSvg": "figma/alertdialog-customalertdialogsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/alertdialog-customalertdialogsample__ideal__default.svg"
     },
     {
       "componentId": "AppBar/SimpleBottomAppBar",
@@ -5251,7 +5251,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleBottomAppBarPreview",
-      "figmaSvg": "figma/appbar-simplebottomappbar.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/appbar-simplebottomappbar__ideal__default.svg"
     },
     {
       "componentId": "AppBar/SimpleTopAppBar",
@@ -5261,7 +5261,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleTopAppBarPreview",
-      "figmaSvg": "figma/appbar-simpletopappbar.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/appbar-simpletopappbar__ideal__default.svg"
     },
     {
       "componentId": "BackdropScaffold/BackdropScaffoldSample",
@@ -5271,7 +5271,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BackdropScaffoldSamplePreview",
-      "figmaSvg": "figma/backdropscaffold-backdropscaffoldsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/backdropscaffold-backdropscaffoldsample__ideal__default.svg"
     },
     {
       "componentId": "Badge/BottomNavigationItemWithBadge",
@@ -5281,7 +5281,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BottomNavigationItemWithBadgePreview",
-      "figmaSvg": "figma/badge-bottomnavigationitemwithbadge.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/badge-bottomnavigationitemwithbadge__ideal__default.svg"
     },
     {
       "componentId": "BottomNavigation/BottomNavigationSample",
@@ -5291,7 +5291,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BottomNavigationSamplePreview",
-      "figmaSvg": "figma/bottomnavigation-bottomnavigationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bottomnavigation-bottomnavigationsample__ideal__default.svg"
     },
     {
       "componentId": "BottomSheetScaffold/BottomSheetScaffoldSample",
@@ -5301,7 +5301,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BottomSheetScaffoldSamplePreview",
-      "figmaSvg": "figma/bottomsheetscaffold-bottomsheetscaffoldsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bottomsheetscaffold-bottomsheetscaffoldsample__ideal__default.svg"
     },
     {
       "componentId": "Button/ButtonSample",
@@ -5311,7 +5311,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ButtonSamplePreview",
-      "figmaSvg": "figma/button-buttonsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/button-buttonsample__ideal__default.svg"
     },
     {
       "componentId": "Button/ButtonWithIconSample",
@@ -5321,7 +5321,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ButtonWithIconSamplePreview",
-      "figmaSvg": "figma/button-buttonwithiconsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/button-buttonwithiconsample__ideal__default.svg"
     },
     {
       "componentId": "Button/OutlinedButtonSample",
@@ -5331,7 +5331,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OutlinedButtonSamplePreview",
-      "figmaSvg": "figma/button-outlinedbuttonsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/button-outlinedbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "Button/TextButtonSample",
@@ -5341,7 +5341,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextButtonSamplePreview",
-      "figmaSvg": "figma/button-textbuttonsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/button-textbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "Card/CardSample",
@@ -5351,7 +5351,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CardSamplePreview",
-      "figmaSvg": "figma/card-cardsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/card-cardsample__ideal__default.svg"
     },
     {
       "componentId": "Card/ClickableCardSample",
@@ -5361,7 +5361,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ClickableCardSamplePreview",
-      "figmaSvg": "figma/card-clickablecardsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/card-clickablecardsample__ideal__default.svg"
     },
     {
       "componentId": "Chip/ChipGroupReflowSample",
@@ -5371,7 +5371,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ChipGroupReflowSamplePreview",
-      "figmaSvg": "figma/chip-chipgroupreflowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-chipgroupreflowsample__ideal__default.svg"
     },
     {
       "componentId": "Chip/ChipGroupSingleLineSample",
@@ -5381,7 +5381,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ChipGroupSingleLineSamplePreview",
-      "figmaSvg": "figma/chip-chipgroupsinglelinesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-chipgroupsinglelinesample__ideal__default.svg"
     },
     {
       "componentId": "Chip/ChipSample",
@@ -5391,7 +5391,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ChipSamplePreview",
-      "figmaSvg": "figma/chip-chipsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-chipsample__ideal__default.svg"
     },
     {
       "componentId": "Chip/FilterChipSample",
@@ -5401,7 +5401,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FilterChipSamplePreview",
-      "figmaSvg": "figma/chip-filterchipsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-filterchipsample__ideal__default.svg"
     },
     {
       "componentId": "Chip/FilterChipWithLeadingIconSample",
@@ -5411,7 +5411,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FilterChipWithLeadingIconSamplePreview",
-      "figmaSvg": "figma/chip-filterchipwithleadingiconsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-filterchipwithleadingiconsample__ideal__default.svg"
     },
     {
       "componentId": "Chip/OutlinedChipWithIconSample",
@@ -5421,7 +5421,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OutlinedChipWithIconSamplePreview",
-      "figmaSvg": "figma/chip-outlinedchipwithiconsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-outlinedchipwithiconsample__ideal__default.svg"
     },
     {
       "componentId": "Chip/OutlinedFilterChipSample",
@@ -5431,7 +5431,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OutlinedFilterChipSamplePreview",
-      "figmaSvg": "figma/chip-outlinedfilterchipsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-outlinedfilterchipsample__ideal__default.svg"
     },
     {
       "componentId": "ContentAlpha/ContentAlphaSample",
@@ -5441,7 +5441,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ContentAlphaSamplePreview",
-      "figmaSvg": "figma/contentalpha-contentalphasample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contentalpha-contentalphasample__ideal__default.svg"
     },
     {
       "componentId": "Drawer/BottomDrawerSample",
@@ -5451,7 +5451,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "BottomDrawerSamplePreview",
-      "figmaSvg": "figma/drawer-bottomdrawersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawer-bottomdrawersample__ideal__default.svg"
     },
     {
       "componentId": "Drawer/ModalDrawerSample",
@@ -5461,7 +5461,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModalDrawerSamplePreview",
-      "figmaSvg": "figma/drawer-modaldrawersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawer-modaldrawersample__ideal__default.svg"
     },
     {
       "componentId": "Elevation/AbsoluteElevationSample",
@@ -5471,7 +5471,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "AbsoluteElevationSamplePreview",
-      "figmaSvg": "figma/elevation-absoluteelevationsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/elevation-absoluteelevationsample__ideal__default.svg"
     },
     {
       "componentId": "ExposedDropdownMenu/EditableExposedDropdownMenuSample",
@@ -5501,7 +5501,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FluidExtendedFabPreview",
-      "figmaSvg": "figma/floatingactionbutton-fluidextendedfab.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/floatingactionbutton-fluidextendedfab__ideal__default.svg"
     },
     {
       "componentId": "FloatingActionButton/SimpleExtendedFabWithIcon",
@@ -5511,7 +5511,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleExtendedFabWithIconPreview",
-      "figmaSvg": "figma/floatingactionbutton-simpleextendedfabwithicon.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/floatingactionbutton-simpleextendedfabwithicon__ideal__default.svg"
     },
     {
       "componentId": "FloatingActionButton/SimpleFab",
@@ -5521,7 +5521,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleFabPreview",
-      "figmaSvg": "figma/floatingactionbutton-simplefab.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/floatingactionbutton-simplefab__ideal__default.svg"
     },
     {
       "componentId": "IconButton/IconButtonSample",
@@ -5531,7 +5531,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "IconButtonSamplePreview",
-      "figmaSvg": "figma/iconbutton-iconbuttonsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/iconbutton-iconbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "IconButton/IconToggleButtonSample",
@@ -5541,7 +5541,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "IconToggleButtonSamplePreview",
-      "figmaSvg": "figma/iconbutton-icontogglebuttonsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/iconbutton-icontogglebuttonsample__ideal__default.svg"
     },
     {
       "componentId": "List/ClickableListItems",
@@ -5551,7 +5551,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ClickableListItemsPreview",
-      "figmaSvg": "figma/list-clickablelistitems.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-clickablelistitems__ideal__default.svg"
     },
     {
       "componentId": "List/OneLineListItems",
@@ -5561,7 +5561,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "OneLineListItemsPreview",
-      "figmaSvg": "figma/list-onelinelistitems.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-onelinelistitems__ideal__default.svg"
     },
     {
       "componentId": "List/ThreeLineListItems",
@@ -5571,7 +5571,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ThreeLineListItemsPreview",
-      "figmaSvg": "figma/list-threelinelistitems.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-threelinelistitems__ideal__default.svg"
     },
     {
       "componentId": "List/TwoLineListItems",
@@ -5581,7 +5581,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TwoLineListItemsPreview",
-      "figmaSvg": "figma/list-twolinelistitems.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-twolinelistitems__ideal__default.svg"
     },
     {
       "componentId": "Menu/MenuSample",
@@ -5591,7 +5591,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MenuSamplePreview",
-      "figmaSvg": "figma/menu-menusample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/menu-menusample__ideal__default.svg"
     },
     {
       "componentId": "Menu/MenuWithScrollStateSample",
@@ -5601,7 +5601,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MenuWithScrollStateSamplePreview",
-      "figmaSvg": "figma/menu-menuwithscrollstatesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/menu-menuwithscrollstatesample__ideal__default.svg"
     },
     {
       "componentId": "ModalBottomSheet/ModalBottomSheetSample",
@@ -5611,7 +5611,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ModalBottomSheetSamplePreview",
-      "figmaSvg": "figma/modalbottomsheet-modalbottomsheetsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modalbottomsheet-modalbottomsheetsample__ideal__default.svg"
     },
     {
       "componentId": "NavigationRail/NavigationRailSample",
@@ -5621,7 +5621,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "NavigationRailSamplePreview",
-      "figmaSvg": "figma/navigationrail-navigationrailsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/navigationrail-navigationrailsample__ideal__default.svg"
     },
     {
       "componentId": "ProgressIndicator/CircularProgressIndicatorSample",
@@ -5631,7 +5631,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CircularProgressIndicatorSamplePreview",
-      "figmaSvg": "figma/progressindicator-circularprogressindicatorsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/progressindicator-circularprogressindicatorsample__ideal__default.svg"
     },
     {
       "componentId": "ProgressIndicator/LinearProgressIndicatorSample",
@@ -5641,7 +5641,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "LinearProgressIndicatorSamplePreview",
-      "figmaSvg": "figma/progressindicator-linearprogressindicatorsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/progressindicator-linearprogressindicatorsample__ideal__default.svg"
     },
     {
       "componentId": "PullRefresh/CustomPullRefreshSample",
@@ -5651,7 +5651,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CustomPullRefreshSamplePreview",
-      "figmaSvg": "figma/pullrefresh-custompullrefreshsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pullrefresh-custompullrefreshsample__ideal__default.svg"
     },
     {
       "componentId": "PullRefresh/PullRefreshIndicatorTransformSample",
@@ -5661,7 +5661,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PullRefreshIndicatorTransformSamplePreview",
-      "figmaSvg": "figma/pullrefresh-pullrefreshindicatortransformsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pullrefresh-pullrefreshindicatortransformsample__ideal__default.svg"
     },
     {
       "componentId": "PullRefresh/PullRefreshSample",
@@ -5671,7 +5671,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "PullRefreshSamplePreview",
-      "figmaSvg": "figma/pullrefresh-pullrefreshsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pullrefresh-pullrefreshsample__ideal__default.svg"
     },
     {
       "componentId": "Scaffold/ScaffoldWithBottomBarAndCutout",
@@ -5681,7 +5681,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScaffoldWithBottomBarAndCutoutPreview",
-      "figmaSvg": "figma/scaffold-scaffoldwithbottombarandcutout.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-scaffoldwithbottombarandcutout__ideal__default.svg"
     },
     {
       "componentId": "Scaffold/ScaffoldWithCoroutinesSnackbar",
@@ -5691,7 +5691,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScaffoldWithCoroutinesSnackbarPreview",
-      "figmaSvg": "figma/scaffold-scaffoldwithcoroutinessnackbar.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-scaffoldwithcoroutinessnackbar__ideal__default.svg"
     },
     {
       "componentId": "Scaffold/ScaffoldWithCustomSnackbar",
@@ -5701,7 +5701,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScaffoldWithCustomSnackbarPreview",
-      "figmaSvg": "figma/scaffold-scaffoldwithcustomsnackbar.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-scaffoldwithcustomsnackbar__ideal__default.svg"
     },
     {
       "componentId": "Scaffold/ScaffoldWithSimpleSnackbar",
@@ -5711,7 +5711,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ScaffoldWithSimpleSnackbarPreview",
-      "figmaSvg": "figma/scaffold-scaffoldwithsimplesnackbar.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-scaffoldwithsimplesnackbar__ideal__default.svg"
     },
     {
       "componentId": "Scaffold/SimpleScaffoldWithTopBar",
@@ -5721,7 +5721,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SimpleScaffoldWithTopBarPreview",
-      "figmaSvg": "figma/scaffold-simplescaffoldwithtopbar.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-simplescaffoldwithtopbar__ideal__default.svg"
     },
     {
       "componentId": "SelectionControls/CheckboxSample",
@@ -5731,7 +5731,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "CheckboxSamplePreview",
-      "figmaSvg": "figma/selectioncontrols-checkboxsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-checkboxsample__ideal__default.svg"
     },
     {
       "componentId": "SelectionControls/RadioButtonSample",
@@ -5741,7 +5741,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RadioButtonSamplePreview",
-      "figmaSvg": "figma/selectioncontrols-radiobuttonsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-radiobuttonsample__ideal__default.svg"
     },
     {
       "componentId": "SelectionControls/RadioGroupSample",
@@ -5751,7 +5751,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RadioGroupSamplePreview",
-      "figmaSvg": "figma/selectioncontrols-radiogroupsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-radiogroupsample__ideal__default.svg"
     },
     {
       "componentId": "SelectionControls/SwitchSample",
@@ -5761,7 +5761,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SwitchSamplePreview",
-      "figmaSvg": "figma/selectioncontrols-switchsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-switchsample__ideal__default.svg"
     },
     {
       "componentId": "SelectionControls/TriStateCheckboxSample",
@@ -5771,7 +5771,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TriStateCheckboxSamplePreview",
-      "figmaSvg": "figma/selectioncontrols-tristatecheckboxsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-tristatecheckboxsample__ideal__default.svg"
     },
     {
       "componentId": "Slider/RangeSliderSample",
@@ -5781,7 +5781,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "RangeSliderSamplePreview",
-      "figmaSvg": "figma/slider-rangeslidersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/slider-rangeslidersample__ideal__default.svg"
     },
     {
       "componentId": "Slider/SliderSample",
@@ -5791,7 +5791,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SliderSamplePreview",
-      "figmaSvg": "figma/slider-slidersample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/slider-slidersample__ideal__default.svg"
     },
     {
       "componentId": "Slider/StepRangeSliderSample",
@@ -5821,7 +5821,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ClickableSurfaceSamplePreview",
-      "figmaSvg": "figma/surface-clickablesurfacesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/surface-clickablesurfacesample__ideal__default.svg"
     },
     {
       "componentId": "Surface/SelectableSurfaceSample",
@@ -5831,7 +5831,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SelectableSurfaceSamplePreview",
-      "figmaSvg": "figma/surface-selectablesurfacesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/surface-selectablesurfacesample__ideal__default.svg"
     },
     {
       "componentId": "Surface/SurfaceSample",
@@ -5841,7 +5841,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SurfaceSamplePreview",
-      "figmaSvg": "figma/surface-surfacesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/surface-surfacesample__ideal__default.svg"
     },
     {
       "componentId": "Surface/ToggleableSurfaceSample",
@@ -5851,7 +5851,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ToggleableSurfaceSamplePreview",
-      "figmaSvg": "figma/surface-toggleablesurfacesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/surface-toggleablesurfacesample__ideal__default.svg"
     },
     {
       "componentId": "Swipeable/SwipeableSample",
@@ -5861,7 +5861,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SwipeableSamplePreview",
-      "figmaSvg": "figma/swipeable-swipeablesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/swipeable-swipeablesample__ideal__default.svg"
     },
     {
       "componentId": "SwipeToDismiss/SwipeToDismissListItems",
@@ -5871,7 +5871,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "SwipeToDismissListItemsPreview",
-      "figmaSvg": "figma/swipetodismiss-swipetodismisslistitems.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/swipetodismiss-swipetodismisslistitems__ideal__default.svg"
     },
     {
       "componentId": "Tab/FancyIndicatorContainerTabs",
@@ -5881,7 +5881,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FancyIndicatorContainerTabsPreview",
-      "figmaSvg": "figma/tab-fancyindicatorcontainertabs.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-fancyindicatorcontainertabs__ideal__default.svg"
     },
     {
       "componentId": "Tab/FancyIndicatorTabs",
@@ -5891,7 +5891,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FancyIndicatorTabsPreview",
-      "figmaSvg": "figma/tab-fancyindicatortabs.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-fancyindicatortabs__ideal__default.svg"
     },
     {
       "componentId": "Tab/FancyTabs",
@@ -5901,7 +5901,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "FancyTabsPreview",
-      "figmaSvg": "figma/tab-fancytabs.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-fancytabs__ideal__default.svg"
     },
     {
       "componentId": "Tab/TextTabs",
@@ -5911,7 +5911,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "TextTabsPreview",
-      "figmaSvg": "figma/tab-texttabs.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-texttabs__ideal__default.svg"
     },
     {
       "componentId": "Text/TextWithLinks",
@@ -6051,7 +6051,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "MaterialThemeSamplePreview",
-      "figmaSvg": "figma/theme-materialthemesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/theme-materialthemesample__ideal__default.svg"
     },
     {
       "componentId": "Theme/ThemeColorSample",
@@ -6061,7 +6061,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ThemeColorSamplePreview",
-      "figmaSvg": "figma/theme-themecolorsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/theme-themecolorsample__ideal__default.svg"
     },
     {
       "componentId": "Theme/ThemeTextStyleSample",
@@ -6071,7 +6071,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "ThemeTextStyleSamplePreview",
-      "figmaSvg": "figma/theme-themetextstylesample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/theme-themetextstylesample__ideal__default.svg"
     }
   ]
 }

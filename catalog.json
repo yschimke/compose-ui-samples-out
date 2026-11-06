@@ -14,7 +14,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/anchoreddraggable-anchoreddraggabledynamicanchorssample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnchoredDraggableDynamicAnchorsSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/anchoreddraggable-anchoreddraggabledynamicanchorssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -162,7 +163,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basicmarquee-basicfocusablemarqueesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -203,7 +205,8 @@
           "previewParams": {
             "showBackground": true
           },
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basicmarquee-basicmarqueesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -298,7 +301,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldannotatedoutputtransformationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldAnnotatedOutputTransformationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldannotatedoutputtransformationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -336,7 +340,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldchangeiterationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldChangeIterationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldchangeiterationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -374,7 +379,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldchangereverseiterationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldChangeReverseIterationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldchangereverseiterationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -412,7 +418,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldcustominputtransformationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldCustomInputTransformationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldcustominputtransformationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -450,7 +457,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfielddecoratorsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldDecoratorSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfielddecoratorsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -504,7 +512,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldinputtransformationbyvaluechoosesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldInputTransformationByValueChooseSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldinputtransformationbyvaluechoosesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -542,7 +551,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldinputtransformationbyvaluereplacesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldInputTransformationByValueReplaceSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldinputtransformationbyvaluereplacesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -580,7 +590,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldinputtransformationmaxlengthcustom__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldInputTransformationMaxLengthCustomPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldinputtransformationmaxlengthcustom__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -618,7 +629,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldoutputtransformationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldOutputTransformationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldoutputtransformationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -694,7 +706,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldtrackedrangepropertiessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldTrackedRangePropertiesSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldtrackedrangepropertiessample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -732,7 +745,8 @@
           "height": 86,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldtrackedrangesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldTrackedRangeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldtrackedrangesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -770,7 +784,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldtrackedrangetextrangesettersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldTrackedRangeTextRangeSetterSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldtrackedrangetextrangesettersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -808,7 +823,8 @@
           "height": 169,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldtrackedrangetoggleboldsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldTrackedRangeToggleBoldSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldtrackedrangetoggleboldsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -878,7 +894,8 @@
           "height": 259,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldundosample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldUndoSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfield-basictextfieldundosample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1191,7 +1208,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfieldvalue-basictextfieldwithvalueonvaluechangesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldWithValueOnValueChangeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/basictextfieldvalue-basictextfieldwithvalueonvaluechangesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1229,7 +1247,8 @@
           "height": 95,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/border-bordersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BorderSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/border-bordersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1283,7 +1302,8 @@
           "height": 95,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/border-bordersamplewithbrush__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BorderSampleWithBrushPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/border-bordersamplewithbrush__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1338,7 +1358,8 @@
           "height": 95,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/border-bordersamplewithdataclass__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BorderSampleWithDataClassPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/border-bordersamplewithdataclass__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1393,7 +1414,8 @@
           "height": 349,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/border-bordersamplewithdynamicdata__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BorderSampleWithDynamicDataPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/border-bordersamplewithdynamicdata__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1539,7 +1561,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/bringintoview-bringintoviewsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BringIntoViewSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bringintoview-bringintoviewsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1577,7 +1600,8 @@
           "height": 626,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/bringintoview-bringpartofcomposableintoviewsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BringPartOfComposableIntoViewSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bringintoview-bringpartofcomposableintoviewsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1647,7 +1671,8 @@
           "height": 788,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/canvas-canvaspiechartsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CanvasPieChartSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/canvas-canvaspiechartsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1723,7 +1748,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/clickable-clickablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ClickableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/clickable-clickablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1886,7 +1912,8 @@
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/darktheme-darkthemesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DarkThemeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/darktheme-darkthemesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1924,7 +1951,8 @@
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggable-draggablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DraggableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggable-draggablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -1962,7 +1990,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggable2d-draggable2dsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.Draggable2DSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggable2d-draggable2dsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2000,7 +2029,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-awaitdragorcancellationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AwaitDragOrCancellationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-awaitdragorcancellationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2038,7 +2068,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-awaithorizontaldragorcancellationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AwaitHorizontalDragOrCancellationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-awaithorizontaldragorcancellationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2076,7 +2107,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-awaitverticaldragorcancellationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AwaitVerticalDragOrCancellationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-awaitverticaldragorcancellationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2114,7 +2146,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-detectdraggesturessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectDragGesturesSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-detectdraggesturessample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2152,7 +2185,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-detectdragwithlongpressgesturessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectDragWithLongPressGesturesSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-detectdragwithlongpressgesturessample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2190,7 +2224,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-detecthorizontaldraggesturessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectHorizontalDragGesturesSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-detecthorizontaldraggesturessample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2228,7 +2263,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-detectverticaldraggesturessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectVerticalDragGesturesSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-detectverticaldraggesturessample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2266,7 +2302,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-dragsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DragSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-dragsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2304,7 +2341,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-horizontaldragsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.HorizontalDragSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-horizontaldragsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2342,7 +2380,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-verticaldragsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.VerticalDragSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/draggesturedetector-verticaldragsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2380,7 +2419,8 @@
           "height": 95,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawbackground-drawbackgroundcolor__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawBackgroundColorPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawbackground-drawbackgroundcolor__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2434,7 +2474,8 @@
           "height": 95,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawbackground-drawbackgroundshapedbrush__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawBackgroundShapedBrushPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawbackground-drawbackgroundshapedbrush__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2489,7 +2530,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusable-focusablefocusgroupsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusableFocusGroupSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusable-focusablefocusgroupsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2649,7 +2691,8 @@
           "height": 169,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusable-focusablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusable-focusablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2719,7 +2762,8 @@
           "height": 378,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusable-focusgroupsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusGroupSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusable-focusgroupsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -2980,7 +3024,8 @@
           "height": 336,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/hoverable-hoverablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.HoverableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/hoverable-hoverablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3132,7 +3177,8 @@
           "height": 259,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/indication-indicationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IndicationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/indication-indicationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3201,7 +3247,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/inlinetextcontent-inlinetextcontentsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InlineTextContentSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/inlinetextcontent-inlinetextcontentsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3239,7 +3286,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/interactionsource-interactionsourceflowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InteractionSourceFlowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/interactionsource-interactionsourceflowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3306,7 +3354,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/interactionsource-simpleinteractionsourcesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleInteractionSourceSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/interactionsource-simpleinteractionsourcesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -3999,7 +4048,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/keyboardtype-pincodeentryrowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PinCodeEntryRowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/keyboardtype-pincodeentryrowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4074,7 +4124,8 @@
           "height": 381,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazydsl-animateitemsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimateItemSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-animateitemsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4174,7 +4225,8 @@
           "height": 430,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazydsl-lazycolumnsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LazyColumnSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-lazycolumnsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4212,7 +4264,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazydsl-lazycolumnwithlazyrowssample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.LazyDslSamplesKt.LazyColumnWithLazyRowsSample",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-lazycolumnwithlazyrowssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4444,7 +4497,8 @@
           "height": 254,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazydsl-lazylistcustomscrollusinglazylayoutscrollscopesample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.LazyDslSamplesKt.LazyListCustomScrollUsingLazyLayoutScrollScopeSample",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-lazylistcustomscrollusinglazylayoutscrollscopesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4665,7 +4719,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazydsl-lazyrowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LazyRowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-lazyrowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4703,7 +4758,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazydsl-stickyheadergridsample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.LazyDslSamplesKt.StickyHeaderGridSample",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-stickyheadergridsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4787,7 +4843,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazydsl-stickyheaderheaderindexsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.StickyHeaderHeaderIndexSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-stickyheaderheaderindexsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -4901,7 +4958,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazydsl-stickyheaderlistsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.StickyHeaderListSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazydsl-stickyheaderlistsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -5993,7 +6051,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazylayout-lazylayoutitemprovidersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LazyLayoutItemProviderSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazylayout-lazylayoutitemprovidersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -6031,7 +6090,8 @@
           "height": 1565,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazylayout-lazylayoutprefetchstatesample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.LazyLayoutSamplesKt.LazyLayoutPrefetchStateSample",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazylayout-lazylayoutprefetchstatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -6131,7 +6191,8 @@
           "height": 1313,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazylayout-lazylayoutsample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.LazyLayoutSamplesKt.LazyLayoutSample",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazylayout-lazylayoutsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -6169,7 +6230,8 @@
           "height": 1313,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lazylayout-lazylayoutscrollablesample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.LazyLayoutSamplesKt.LazyLayoutScrollableSample",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lazylayout-lazylayoutscrollablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7098,7 +7160,8 @@
           "height": 394,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/overscroll-overscrollsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OverscrollSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/overscroll-overscrollsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7136,7 +7199,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/overscroll-overscrollwithdraggable_after__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OverscrollWithDraggable_AfterPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/overscroll-overscrollwithdraggable_after__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7174,7 +7238,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/overscroll-overscrollwithdraggable_before__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OverscrollWithDraggable_BeforePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/overscroll-overscrollwithdraggable_before__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7212,7 +7277,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-animatescrollpagesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimateScrollPageSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-animatescrollpagesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7296,7 +7362,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-custompagesizesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomPageSizeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-custompagesizesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7377,7 +7444,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-horizontalpagerwithscrollablecontent__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.HorizontalPagerWithScrollableContentPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-horizontalpagerwithscrollablecontent__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7696,7 +7764,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-observingstatechangesinpagerstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ObservingStateChangesInPagerStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-observingstatechangesinpagerstatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7749,7 +7818,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-pagercustomanimatescrolltopage__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PagerCustomAnimateScrollToPagePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-pagercustomanimatescrolltopage__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7833,7 +7903,8 @@
           "height": 1711,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-pagercustomscrollusinglazylayoutscrollscopesample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.PagerSamplesKt.PagerCustomScrollUsingLazyLayoutScrollScopeSample",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-pagercustomscrollusinglazylayoutscrollscopesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7917,7 +7988,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-pagerwithstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PagerWithStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-pagerwithstatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -7970,7 +8042,8 @@
           "height": 1176,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-scrolltopagesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollToPageSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-scrolltopagesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8054,7 +8127,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-simplehorizontalpagersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleHorizontalPagerSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-simplehorizontalpagersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8107,7 +8181,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-simpleverticalpagersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleVerticalPagerSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pager-simpleverticalpagersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8460,7 +8535,8 @@
           "height": 11,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/progresssemantics-determinateprogresssemanticssample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DeterminateProgressSemanticsSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/progresssemantics-determinateprogresssemanticssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8498,7 +8574,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/progresssemantics-indeterminateprogresssemanticssample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IndeterminateProgressSemanticsSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/progresssemantics-indeterminateprogresssemanticssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8586,7 +8663,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scrollable-canscrollsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CanScrollSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollable-canscrollsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8624,7 +8702,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scrollable-focusscrollinginlazyrowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusScrollingInLazyRowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollable-focusscrollinginlazyrowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8719,7 +8798,8 @@
           "height": 394,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scrollable-scrollablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollable-scrollablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8757,7 +8837,8 @@
           "height": 394,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scrollable2d-scrollable2dsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.Scrollable2DSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollable2d-scrollable2dsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -8795,7 +8876,8 @@
           "height": 394,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scrollablearea-scrollableareasample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollableAreaSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scrollablearea-scrollableareasample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9434,7 +9516,8 @@
           "height": 893,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scroller-controlledscrollablerowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ControlledScrollableRowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scroller-controlledscrollablerowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9529,7 +9612,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scroller-horizontalscrollsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.HorizontalScrollSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scroller-horizontalscrollsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9567,7 +9651,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scroller-verticalscrollexample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.VerticalScrollExamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scroller-verticalscrollexample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9605,7 +9690,8 @@
           "height": 306,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selectable-selectablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectable-selectablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9643,7 +9729,8 @@
           "height": 172,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selection-disableselectionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DisableSelectionSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-disableselectionsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9681,7 +9768,8 @@
           "height": 169,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selection-extendselectionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ExtendSelectionSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-extendselectionsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9751,7 +9839,8 @@
           "height": 169,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selection-selectallsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectAllSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectallsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9821,7 +9910,8 @@
           "height": 129,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selection-selectionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectionSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectionsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9859,7 +9949,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selection-selectionstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectionStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectionstatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9897,7 +9988,8 @@
           "height": 212,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selection-selectquerysample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectQuerySamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectquerysample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -9967,7 +10059,8 @@
           "height": 255,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selection-selectthirdtextsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectThirdTextSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selection-selectthirdtextsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10037,7 +10130,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/snapflingbehavior-snapflingbehaviorcustomizedsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SnapFlingBehaviorCustomizedSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/snapflingbehavior-snapflingbehaviorcustomizedsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10104,7 +10198,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/snapflingbehavior-snapflingbehaviorsimplesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SnapFlingBehaviorSimpleSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/snapflingbehavior-snapflingbehaviorsimplesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10171,7 +10266,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/snapflingbehavior-snapflingbehaviorsnapposition__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SnapFlingBehaviorSnapPositionPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/snapflingbehavior-snapflingbehaviorsnapposition__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10314,7 +10410,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/style-stylestatekeysample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.StyleStateKeySamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/style-stylestatekeysample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10390,7 +10487,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/tapgesture-awaitlongpressorcancellationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AwaitLongPressOrCancellationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tapgesture-awaitlongpressorcancellationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10428,7 +10526,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textautosize-textautosizebasictextsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAutoSizeBasicTextSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textautosize-textautosizebasictextsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10466,7 +10565,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/toggleable-toggleablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ToggleableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/toggleable-toggleablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10504,7 +10604,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/toggleable-tristatetoggleablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TriStateToggleableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/toggleable-tristatetoggleablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10542,7 +10643,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformable-transformableanimatebysample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TransformableAnimateBySamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformable-transformableanimatebysample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10580,7 +10682,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformable-transformablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TransformableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformable-transformablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10618,7 +10721,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformable-transformablesampleinsidescroll__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TransformableSampleInsideScrollPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformable-transformablesampleinsidescroll__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10656,7 +10760,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-calculatecentroidsize__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CalculateCentroidSizePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-calculatecentroidsize__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10694,7 +10799,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-calculatepan__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CalculatePanPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-calculatepan__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10732,7 +10838,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-calculaterotation__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CalculateRotationPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-calculaterotation__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10770,7 +10877,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-calculatezoom__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CalculateZoomPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-calculatezoom__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10808,7 +10916,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-detecttransformgestures__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectTransformGesturesPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transformgesture-detecttransformgestures__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10846,7 +10955,8 @@
           "height": 132,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/aspectratio-simpleaspectratio__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleAspectRatioPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/aspectratio-simpleaspectratio__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10884,7 +10994,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/box-simplebox__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleBoxPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/box-simplebox__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10951,7 +11062,8 @@
           "height": 526,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/boxwithconstraints-boxwithconstraintssample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BoxWithConstraintsSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/boxwithconstraints-boxwithconstraintssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -10989,7 +11101,8 @@
           "height": 420,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/column-simplealignincolumn__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleAlignInColumnPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/column-simplealignincolumn__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -11027,7 +11140,8 @@
           "height": 1365,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/column-simplecolumn__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleColumnPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/column-simplecolumn__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -11065,7 +11179,8 @@
           "height": 315,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/column-simplerelativetosiblings__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleRelativeToSiblingsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/column-simplerelativetosiblings__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -11103,7 +11218,8 @@
           "height": 315,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/column-simplerelativetosiblingsincolumn__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleRelativeToSiblingsInColumnPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/column-simplerelativetosiblingsincolumn__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -11141,7 +11257,8 @@
           "height": 631,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contextualflowcolumn-contextualflowcolmaxlinedynamicseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContextualFlowColMaxLineDynamicSeeMorePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contextualflowcolumn-contextualflowcolmaxlinedynamicseemore__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -11344,7 +11461,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contextualflowcolumn-contextualflowcolumn_itemposition__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContextualFlowColumn_ItemPositionPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contextualflowcolumn-contextualflowcolumn_itemposition__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -11578,7 +11696,8 @@
           "height": 551,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contextualflowrow-contextualflowrow_itemposition__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContextualFlowRow_ItemPositionPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contextualflowrow-contextualflowrow_itemposition__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -11812,7 +11931,8 @@
           "height": 421,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contextualflowrow-contextualflowrowmaxlinedynamicseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContextualFlowRowMaxLineDynamicSeeMorePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contextualflowrow-contextualflowrowmaxlinedynamicseemore__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -12890,7 +13010,8 @@
           "height": 737,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumn__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumnPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowcolumn-simpleflowcolumn__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -13213,13 +13334,14 @@
           "height": 1001,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumn_equalwidth__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumn_EqualWidthPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowcolumn-simpleflowcolumn_equalwidth__ideal__default.svg"
         },
         {
           "variant": "ideal",
           "path": "images/flowcolumn-simpleflowcolumn_equalwidth/ideal__default__platform-android.png",
           "state": "default",
-          "width": 479,
+          "width": 540,
           "height": 1001,
           "props": {
             "platform": "android"
@@ -13755,7 +13877,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumnmaxlineswithseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumnMaxLinesWithSeeMorePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowcolumn-simpleflowcolumnmaxlineswithseemore__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -14138,7 +14261,8 @@
           "height": 1341,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowrow-simpleflowrow__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRowPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowrow-simpleflowrow__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -14492,14 +14616,15 @@
           "height": 975,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowrow-simpleflowrow_equalheight__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRow_EqualHeightPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowrow-simpleflowrow_equalheight__ideal__default.svg"
         },
         {
           "variant": "ideal",
           "path": "images/flowrow-simpleflowrow_equalheight/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 1100,
+          "height": 988,
           "props": {
             "platform": "android"
           },
@@ -15320,7 +15445,8 @@
           "height": 421,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowrow-simpleflowrowmaxlineswithseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRowMaxLinesWithSeeMorePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowrow-simpleflowrowmaxlineswithseemore__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -15689,7 +15815,8 @@
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-gridconfigurationdslsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GridConfigurationDslSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridconfigurationdslsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -15727,7 +15854,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-gridwitharearanges__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GridWithAreaRangesPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwitharearanges__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -15765,7 +15893,8 @@
           "height": 151,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-gridwithautoplacement__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GridWithAutoPlacementPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithautoplacement__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -15803,7 +15932,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-gridwithconstraints__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GridWithConstraintsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithconstraints__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -15954,7 +16084,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-gridwithlazylist__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GridWithLazyListPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithlazylist__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16175,7 +16306,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-gridwithnamedareas__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GridWithNamedAreasPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithnamedareas__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16213,7 +16345,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-gridwithonedimensionalareas__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GridWithOneDimensionalAreasPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithonedimensionalareas__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16251,7 +16384,8 @@
           "height": 221,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-gridwithspanningitems__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GridWithSpanningItemsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-gridwithspanningitems__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16289,7 +16423,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/grid-simplegrid__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleGridPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/grid-simplegrid__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16327,7 +16462,8 @@
           "height": 524,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/intrinsic-matchparentdividerforaspectratio__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MatchParentDividerForAspectRatioPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/intrinsic-matchparentdividerforaspectratio__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16365,7 +16501,8 @@
           "height": 215,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/intrinsic-matchparentdividerfortext__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MatchParentDividerForTextPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/intrinsic-matchparentdividerfortext__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16403,7 +16540,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/intrinsic-samewidthboxes__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SameWidthBoxesPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/intrinsic-samewidthboxes__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16441,7 +16579,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/intrinsic-samewidthtextboxes__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SameWidthTextBoxesPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/intrinsic-samewidthtextboxes__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16479,7 +16618,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutoffset-absoluteoffsetmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AbsoluteOffsetModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutoffset-absoluteoffsetmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16517,7 +16657,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutoffset-absoluteoffsetpxmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AbsoluteOffsetPxModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutoffset-absoluteoffsetpxmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16555,7 +16696,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutoffset-offsetmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OffsetModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutoffset-offsetmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16593,7 +16735,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutoffset-offsetpxmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OffsetPxModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutoffset-offsetpxmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16631,7 +16774,8 @@
           "height": 289,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutpadding-absolutepaddingmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AbsolutePaddingModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-absolutepaddingmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16684,7 +16828,8 @@
           "height": 237,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutpadding-paddingallmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PaddingAllModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-paddingallmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16737,7 +16882,8 @@
           "height": 289,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutpadding-paddingmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PaddingModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-paddingmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16790,7 +16936,8 @@
           "height": 157,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutpadding-paddingvaluesmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PaddingValuesModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-paddingvaluesmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16843,7 +16990,8 @@
           "height": 289,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutpadding-symmetricpaddingmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SymmetricPaddingModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layoutpadding-symmetricpaddingmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16896,7 +17044,8 @@
           "height": 227,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/relativepaddingfrom-paddingfrombaselinesampledp__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PaddingFromBaselineSampleDpPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/relativepaddingfrom-paddingfrombaselinesampledp__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16934,7 +17083,8 @@
           "height": 227,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/relativepaddingfrom-paddingfrombaselinesampletextunit__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PaddingFromBaselineSampleTextUnitPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/relativepaddingfrom-paddingfrombaselinesampletextunit__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -16972,7 +17122,8 @@
           "height": 88,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/relativepaddingfrom-paddingfromsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PaddingFromSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/relativepaddingfrom-paddingfromsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17010,7 +17161,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/row-simplealignbyinrow__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleAlignByInRowPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/row-simplealignbyinrow__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17048,7 +17200,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/row-simplealigninrow__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleAlignInRowPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/row-simplealigninrow__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17086,7 +17239,8 @@
           "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/row-simplerow__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleRowPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/row-simplerow__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17124,7 +17278,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-defaultminsizesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DefaultMinSizeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-defaultminsizesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17162,7 +17317,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-fillhalfheightmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FillHalfHeightModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-fillhalfheightmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17200,7 +17356,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-fillhalfsizemodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FillHalfSizeModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-fillhalfsizemodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17238,7 +17395,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-fillhalfwidthmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FillHalfWidthModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-fillhalfwidthmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17276,7 +17434,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplefillheightmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFillHeightModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplefillheightmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17314,7 +17473,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplefillmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFillModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplefillmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17352,7 +17512,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplefillwidthmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFillWidthModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplefillwidthmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17390,7 +17551,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simpleheightmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleHeightModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simpleheightmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17428,7 +17590,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplerequiredheightmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleRequiredHeightModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplerequiredheightmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17466,7 +17629,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplerequiredsizemodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleRequiredSizeModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplerequiredsizemodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17504,7 +17668,8 @@
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplerequiredwidthmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleRequiredWidthModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplerequiredwidthmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17542,7 +17707,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplesizemodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleSizeModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplesizemodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17580,7 +17746,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplesizemodifierwithdpsize__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleSizeModifierWithDpSizePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplesizemodifierwithdpsize__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17618,7 +17785,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplewidthmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleWidthModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplewidthmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17656,7 +17824,8 @@
           "height": 105,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplewrapcontentalignedmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleWrapContentAlignedModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplewrapcontentalignedmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17694,7 +17863,8 @@
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplewrapcontenthorizontallyalignedmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleWrapContentHorizontallyAlignedModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplewrapcontenthorizontallyalignedmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17732,7 +17902,8 @@
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplewrapcontentverticallyalignedmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleWrapContentVerticallyAlignedModifierPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/sizemodifier-simplewrapcontentverticallyalignedmodifier__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17770,7 +17941,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/spacer-spacerexample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SpacerExamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/spacer-spacerexample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17808,7 +17980,8 @@
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/visiblemodifier-visiblemodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.VisibleModifierSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/visiblemodifier-visiblemodifiersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -17846,7 +18019,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/windowinsets-fitinsideoutsideexample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FitInsideOutsideExamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/windowinsets-fitinsideoutsideexample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18046,7 +18220,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/alignmentline-alignmentlinesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AlignmentLineSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/alignmentline-alignmentlinesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18084,7 +18259,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/alpha-alphasample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AlphaSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/alpha-alphasample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18607,7 +18783,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawmodifier-drawwithcachemodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawWithCacheModifierSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawmodifier-drawwithcachemodifiersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18645,7 +18822,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawmodifier-drawwithcachemodifierstateparametersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawWithCacheModifierStateParameterSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawmodifier-drawwithcachemodifierstateparametersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18683,7 +18861,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-cancelfocusmovesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CancelFocusMoveSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-cancelfocusmovesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18759,7 +18938,8 @@
           "height": 789,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-clearfocussample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ClearFocusSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-clearfocussample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18797,7 +18977,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-createfocusrequesterrefssample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CreateFocusRequesterRefsSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-createfocusrequesterrefssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18835,7 +19016,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-customfocusentersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomFocusEnterSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-customfocusentersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18873,7 +19055,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-customfocusexitsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomFocusExitSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-customfocusexitsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18911,7 +19094,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-customfocusordersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomFocusOrderSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-customfocusordersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18949,7 +19133,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-focusablesampleusinglowerlevelfocustarget__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusableSampleUsingLowerLevelFocusTargetPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-focusablesampleusinglowerlevelfocustarget__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -18987,7 +19172,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-focuspropertiessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusPropertiesSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-focuspropertiessample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19025,7 +19211,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-focusrestorercustomfallbacksample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusRestorerCustomFallbackSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-focusrestorercustomfallbacksample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19185,7 +19372,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-focusrestorersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusRestorerSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-focusrestorersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19345,7 +19533,8 @@
           "height": 504,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-movefocussample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MoveFocusSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-movefocussample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19505,7 +19694,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-requestfocussample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RequestFocusSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-requestfocussample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19543,7 +19733,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focus-restorefocussample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RestoreFocusSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focus-restorefocussample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19703,7 +19894,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusawareinput-keyeventisaltpressedsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.KeyEventIsAltPressedSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventisaltpressedsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19741,7 +19933,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusawareinput-keyeventisctrlpressedsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.KeyEventIsCtrlPressedSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventisctrlpressedsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19779,7 +19972,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusawareinput-keyeventismetapressedsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.KeyEventIsMetaPressedSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventismetapressedsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19817,7 +20011,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusawareinput-keyeventisshiftpressedsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.KeyEventIsShiftPressedSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventisshiftpressedsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19855,7 +20050,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusawareinput-keyeventsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.KeyEventSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19893,7 +20089,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusawareinput-keyeventtypesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.KeyEventTypeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-keyeventtypesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -19931,7 +20128,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusawareinput-prerotaryeventsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PreRotaryEventSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-prerotaryeventsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20010,7 +20208,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/focusawareinput-rotaryeventsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RotaryEventSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/focusawareinput-rotaryeventsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20048,7 +20247,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/inspectablemodifier-inspectablemodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InspectableModifierSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/inspectablemodifier-inspectablemodifiersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20086,7 +20286,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/inspectorinfoincomposedmodifier-inspectorinfoincomposedmodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InspectorInfoInComposedModifierSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/inspectorinfoincomposedmodifier-inspectorinfoincomposedmodifiersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20124,7 +20325,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/inspectorinfoincomposedmodifier-inspectorinfoincomposedmodifierwithargumentssample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InspectorInfoInComposedModifierWithArgumentsSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/inspectorinfoincomposedmodifier-inspectorinfoincomposedmodifierwithargumentssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20162,7 +20364,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layermodifier-animatefadein__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimateFadeInPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layermodifier-animatefadein__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20200,7 +20403,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layermodifier-changeopacity__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ChangeOpacityPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layermodifier-changeopacity__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20276,7 +20480,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layermodifier-compositingstrategyoffscreenlayeroutsets__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CompositingStrategyOffscreenLayerOutsetsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layermodifier-compositingstrategyoffscreenlayeroutsets__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20314,7 +20519,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layout-conveniencelayoutmodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ConvenienceLayoutModifierSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layout-conveniencelayoutmodifiersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20352,7 +20558,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layout-layoutmodifiernodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LayoutModifierNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layout-layoutmodifiernodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20390,7 +20597,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layout-layoutmodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LayoutModifierSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/layout-layoutmodifiersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20528,7 +20736,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lookaheadscope-animatecontentsizeafterlookaheadpass__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.animateContentSizeAfterLookaheadPassPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadscope-animatecontentsizeafterlookaheadpass__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20566,7 +20775,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lookaheadscope-approachlayoutsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.approachLayoutSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadscope-approachlayoutsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20604,7 +20814,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lookaheadscope-lookaheadlayoutcoordinatessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LookaheadLayoutCoordinatesSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadscope-lookaheadlayoutcoordinatessample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20703,7 +20914,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-delegatednodesampleexplicit__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DelegatedNodeSampleExplicitPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-delegatednodesampleexplicit__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20741,7 +20953,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-delegatednodesampleimplicit__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DelegatedNodeSampleImplicitPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-delegatednodesampleimplicit__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20779,7 +20992,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-globalpositionawaremodifiernodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GlobalPositionAwareModifierNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-globalpositionawaremodifiernodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20817,7 +21031,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-justreadingorprovidingmodifierlocalnodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.JustReadingOrProvidingModifierLocalNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-justreadingorprovidingmodifierlocalnodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20855,7 +21070,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-layoutawaremodifiernodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LayoutAwareModifierNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-layoutawaremodifiernodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20893,7 +21109,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-lazydelegationexample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LazyDelegationExamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-lazydelegationexample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20931,7 +21148,8 @@
           "height": 52,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-modifierfactorysample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierFactorySamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifierfactorysample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -20969,7 +21187,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-modifiernodecoroutinescopesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierNodeCoroutineScopeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifiernodecoroutinescopesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21007,7 +21226,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-modifiernodeelementsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierNodeElementSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifiernodeelementsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21045,7 +21265,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-modifiernoderesetsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierNodeResetSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifiernoderesetsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21083,7 +21304,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-modifierparametersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierParameterSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifierparametersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21121,7 +21343,8 @@
           "height": 211,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-modifierusagesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierUsageSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-modifierusagesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21175,7 +21398,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-pointerinputmodifiernodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PointerInputModifierNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-pointerinputmodifiernodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21213,7 +21437,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifier-semanticsmodifiernodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SemanticsModifierNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifier-semanticsmodifiernodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21251,7 +21476,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifiercompositionlocal-compositionlocalconsumingmodifierobservernodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CompositionLocalConsumingModifierObserverNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifiercompositionlocal-compositionlocalconsumingmodifierobservernodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21289,7 +21515,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifiercompositionlocal-compositionlocalconsumingmodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CompositionLocalConsumingModifierSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifiercompositionlocal-compositionlocalconsumingmodifiersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21327,7 +21554,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifierlocal-modifierlocalchildparentcommunicationinterlayoutnodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierLocalChildParentCommunicationInterLayoutNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifierlocal-modifierlocalchildparentcommunicationinterlayoutnodesample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -21353,7 +21581,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifierlocal-modifierlocalchildparentcommunicationwithinlayoutnodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierLocalChildParentCommunicationWithinLayoutNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifierlocal-modifierlocalchildparentcommunicationwithinlayoutnodesample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -21379,7 +21608,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifierlocal-modifierlocalparentchildcommunicationinterlayoutnodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierLocalParentChildCommunicationInterLayoutNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifierlocal-modifierlocalparentchildcommunicationinterlayoutnodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21417,7 +21647,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modifierlocal-modifierlocalparentchildcommunicationwithinlayoutnodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModifierLocalParentChildCommunicationWithinLayoutNodeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modifierlocal-modifierlocalparentchildcommunicationwithinlayoutnodesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21748,7 +21979,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/nestedscroll-nestedscrolldispatchersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NestedScrollDispatcherSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/nestedscroll-nestedscrolldispatchersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -21977,7 +22209,8 @@
           "height": 106,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/ongloballypositioned-ongloballypositioned__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OnGloballyPositionedPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/ongloballypositioned-ongloballypositioned__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -22015,7 +22248,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/onplaced-onplaced__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OnPlacedPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/onplaced-onplaced__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -22167,7 +22401,8 @@
           "height": 129,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pointericon-pointericonsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PointerIconSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pointericon-pointericonsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -22205,7 +22440,8 @@
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pointericon-stylushovericonsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.StylusHoverIconSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pointericon-stylushovericonsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -22569,7 +22805,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/rotate-rotatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RotateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/rotate-rotatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -22607,7 +22844,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scale-scalenonuniformsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaleNonUniformSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scale-scalenonuniformsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -22645,7 +22883,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scale-scaleuniformsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaleUniformSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scale-scaleuniformsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -22900,7 +23139,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/shadow-shadowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ShadowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/shadow-shadowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -23120,7 +23360,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/windowinsetsrulers-insetsrulersalphasample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InsetsRulersAlphaSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/windowinsetsrulers-insetsrulersalphasample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -23158,7 +23399,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/windowinsetsrulers-maximumsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MaximumSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/windowinsetsrulers-maximumsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -23234,7 +23476,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/windowinsetsrulers-windowinsetsrulerssample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.WindowInsetsRulersSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/windowinsetsrulers-windowinsetsrulerssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -23272,7 +23515,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/zindexmodifier-zindexmodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ZIndexModifierSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/zindexmodifier-zindexmodifiersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -23773,7 +24017,8 @@
           "height": 60,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/baselineshift-baselineshiftannotatedstringsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BaselineShiftAnnotatedStringSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/baselineshift-baselineshiftannotatedstringsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -23811,7 +24056,8 @@
           "height": 88,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/baselineshift-baselineshiftsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BaselineShiftSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/baselineshift-baselineshiftsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24314,7 +24560,8 @@
           "height": 409,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/paragraphstyle-paragraphstyleannotatedstringssample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ParagraphStyleAnnotatedStringsSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/paragraphstyle-paragraphstyleannotatedstringssample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24352,7 +24599,8 @@
           "height": 304,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/paragraphstyle-paragraphstylesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ParagraphStyleSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/paragraphstyle-paragraphstylesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24390,7 +24638,8 @@
           "height": 49,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/spanstyle-spanstylebrushsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SpanStyleBrushSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/spanstyle-spanstylebrushsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24428,7 +24677,8 @@
           "height": 49,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/spanstyle-spanstylesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SpanStyleSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/spanstyle-spanstylesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24466,7 +24716,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textdecoration-textdecorationcombinedsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextDecorationCombinedSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textdecoration-textdecorationcombinedsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24504,7 +24755,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textdecoration-textdecorationlinethroughsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextDecorationLineThroughSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textdecoration-textdecorationlinethroughsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24542,7 +24794,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textdecoration-textdecorationunderlinesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextDecorationUnderlineSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textdecoration-textdecorationunderlinesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24580,7 +24833,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textmotion-textmotionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextMotionSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textmotion-textmotionsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24618,7 +24872,8 @@
           "height": 184,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textoverflow-textoverflowclipsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextOverflowClipSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textoverflow-textoverflowclipsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24656,7 +24911,8 @@
           "height": 107,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textoverflow-textoverflowellipsissample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextOverflowEllipsisSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textoverflow-textoverflowellipsissample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24694,7 +24950,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textoverflow-textoverflowvisiblefixedsizesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextOverflowVisibleFixedSizeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textoverflow-textoverflowvisiblefixedsizesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24732,7 +24989,8 @@
           "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textoverflow-textoverflowvisibleminheightsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextOverflowVisibleMinHeightSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textoverflow-textoverflowvisibleminheightsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24770,7 +25028,8 @@
           "height": 49,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textstyle-textstylebrushsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextStyleBrushSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textstyle-textstylebrushsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24808,7 +25067,8 @@
           "height": 49,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textstyle-textstylesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextStyleSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/textstyle-textstylesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -24846,7 +25106,8 @@
           "height": 52,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/dp-dpsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DpSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/dp-dpsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -25140,7 +25401,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-coloranimationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ColorAnimationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-coloranimationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -25806,7 +26068,8 @@
           "height": 149,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animationmodifier-animatecontent__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimateContentPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animationmodifier-animatecontent__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -25860,7 +26123,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/crossfade-crossfadesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CrossfadeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/crossfade-crossfadesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -25955,7 +26219,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lookaheadanimationvisualdebug-customizedlookaheadanimationvisualdebuggingsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomizedLookaheadAnimationVisualDebuggingSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadanimationvisualdebug-customizedlookaheadanimationvisualdebuggingsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -25993,7 +26258,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lookaheadanimationvisualdebug-lookaheadanimationvisualdebuggingsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LookaheadAnimationVisualDebuggingSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/lookaheadanimationvisualdebug-lookaheadanimationvisualdebuggingsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -26655,7 +26921,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transition-animation-gestureanimationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GestureAnimationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transition-animation-gestureanimationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -26731,7 +26998,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transition-animation-infinitetransitionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimationInfiniteTransitionSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/transition-animation-infinitetransitionsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -26854,7 +27122,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-core-alphaanimationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AlphaAnimationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-core-alphaanimationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -26892,7 +27161,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-core-animateoffsetsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimateOffsetSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-core-animateoffsetsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -26930,7 +27200,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-core-arbitraryvaluetypetransitionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ArbitraryValueTypeTransitionSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-core-arbitraryvaluetypetransitionsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -26968,7 +27239,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-core-dpanimationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DpAnimationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animatedvalue-animation-core-dpanimationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27006,7 +27278,8 @@
           "height": 79,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animationspec-infiniteprogressindicator__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InfiniteProgressIndicatorPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/animationspec-infiniteprogressindicator__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27090,7 +27363,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/infinitetransition-infinitetransitionanimatevaluesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InfiniteTransitionAnimateValueSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/infinitetransition-infinitetransitionanimatevaluesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27128,7 +27402,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/infinitetransition-infinitetransitionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimationCoreInfiniteTransitionSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/infinitetransition-infinitetransitionsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27166,7 +27441,8 @@
           "height": 394,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/keyframeswithsplinebuilder-periodickeyframeswithsplines__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PeriodicKeyframesWithSplinesPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/keyframeswithsplinebuilder-periodickeyframeswithsplines__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27204,7 +27480,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/patheasing-patheasingsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PathEasingSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/patheasing-patheasingsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27731,7 +28008,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/effect-delegatedstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DelegatedStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/effect-delegatedstatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27801,7 +28079,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/effect-derivedstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DerivedStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/effect-derivedstatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27839,7 +28118,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/effect-destructuredstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DestructuredStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/effect-destructuredstatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27909,7 +28189,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/effect-simplestatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/effect-simplestatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -27979,7 +28260,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/key-locallyuniquekeys__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LocallyUniqueKeysPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/key-locallyuniquekeys__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28017,7 +28299,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/key-morecorrectuniquekeys__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MoreCorrectUniqueKeysPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/key-morecorrectuniquekeys__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28055,7 +28338,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/key-notalwaysuniquekeys__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NotAlwaysUniqueKeysPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/key-notalwaysuniquekeys__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28093,7 +28377,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/remembersaveable-remembersaveable__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RememberSaveablePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveable__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28131,7 +28416,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/remembersaveable-remembersaveablecustomsaver__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RememberSaveableCustomSaverPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablecustomsaver__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28169,7 +28455,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/remembersaveable-remembersaveablewithmutablestate__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RememberSaveableWithMutableStatePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablewithmutablestate__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28207,7 +28494,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/remembersaveable-remembersaveablewithmutablestateandcustomsaver__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RememberSaveableWithMutableStateAndCustomSaverPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablewithmutablestateandcustomsaver__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28245,7 +28533,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/remembersaveable-remembersaveablewithserializer__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RememberSaveableWithSerializerPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablewithserializer__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28283,7 +28572,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/remembersaveable-remembersaveablewithserializerandmutablestate__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RememberSaveableWithSerializerAndMutableStatePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/remembersaveable-remembersaveablewithserializerandmutablestate__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28321,7 +28611,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/saveablestateholder-simplenavigationwithsaveablestatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleNavigationWithSaveableStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/saveablestateholder-simplenavigationwithsaveablestatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28405,7 +28696,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/saver-customsaversample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomSaverSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/saver-customsaversample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28443,7 +28735,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/saver-listsaversample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ListSaverSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/saver-listsaversample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28481,7 +28774,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/saver-mapsaversample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MapSaverSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/saver-mapsaversample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28519,7 +28813,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/alertdialog-alertdialogsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AlertDialogSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/alertdialog-alertdialogsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28557,7 +28852,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/alertdialog-customalertdialogsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomAlertDialogSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/alertdialog-customalertdialogsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28595,7 +28891,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/appbar-simplebottomappbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleBottomAppBarPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/appbar-simplebottomappbar__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28694,7 +28991,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/appbar-simpletopappbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleTopAppBarPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/appbar-simpletopappbar__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28793,7 +29091,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/backdropscaffold-backdropscaffoldsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BackdropScaffoldSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/backdropscaffold-backdropscaffoldsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28882,7 +29181,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/badge-bottomnavigationitemwithbadge__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationItemWithBadgePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/badge-bottomnavigationitemwithbadge__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -28957,7 +29257,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/bottomnavigation-bottomnavigationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bottomnavigation-bottomnavigationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29056,7 +29357,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/bottomsheetscaffold-bottomsheetscaffoldsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bottomsheetscaffold-bottomsheetscaffoldsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29165,7 +29467,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/button-buttonsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ButtonSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/button-buttonsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29235,7 +29538,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/button-buttonwithiconsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ButtonWithIconSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/button-buttonwithiconsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29305,7 +29609,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/button-outlinedbuttonsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OutlinedButtonSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/button-outlinedbuttonsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29375,7 +29680,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/button-textbuttonsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextButtonSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/button-textbuttonsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29445,7 +29751,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/card-cardsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CardSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/card-cardsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29493,7 +29800,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/card-clickablecardsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ClickableCardSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/card-clickablecardsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29541,7 +29849,8 @@
           "height": 252,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/chip-chipgroupreflowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ChipGroupReflowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-chipgroupreflowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -29941,7 +30250,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/chip-chipgroupsinglelinesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ChipGroupSingleLineSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-chipgroupsinglelinesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30305,7 +30615,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/chip-chipsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ChipSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-chipsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30375,7 +30686,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/chip-filterchipsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FilterChipSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-filterchipsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30445,7 +30757,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/chip-filterchipwithleadingiconsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FilterChipWithLeadingIconSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-filterchipwithleadingiconsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30515,7 +30828,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/chip-outlinedchipwithiconsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OutlinedChipWithIconSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-outlinedchipwithiconsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30585,7 +30899,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/chip-outlinedfilterchipsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OutlinedFilterChipSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/chip-outlinedfilterchipsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30655,7 +30970,8 @@
           "height": 258,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contentalpha-contentalphasample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContentAlphaSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/contentalpha-contentalphasample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30693,7 +31009,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawer-bottomdrawersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomDrawerSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawer-bottomdrawersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30808,7 +31125,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawer-modaldrawersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModalDrawerSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawer-modaldrawersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -30929,7 +31247,8 @@
           "height": 1,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/elevation-absoluteelevationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AbsoluteElevationSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/elevation-absoluteelevationsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31043,7 +31362,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/floatingactionbutton-fluidextendedfab__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FluidExtendedFabPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/floatingactionbutton-fluidextendedfab__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31113,7 +31433,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/floatingactionbutton-simpleextendedfabwithicon__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleExtendedFabWithIconPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/floatingactionbutton-simpleextendedfabwithicon__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31183,7 +31504,8 @@
           "height": 147,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/floatingactionbutton-simplefab__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFabPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/floatingactionbutton-simplefab__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31253,7 +31575,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/iconbutton-iconbuttonsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconButtonSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/iconbutton-iconbuttonsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31312,7 +31635,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/iconbutton-icontogglebuttonsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconToggleButtonSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/iconbutton-icontogglebuttonsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31371,7 +31695,8 @@
           "height": 258,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/list-clickablelistitems__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ClickableListItemsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-clickablelistitems__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31460,7 +31785,8 @@
           "height": 1092,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/list-onelinelistitems__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineListItemsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-onelinelistitems__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31498,7 +31824,8 @@
           "height": 1170,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/list-threelinelistitems__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineListItemsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-threelinelistitems__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31536,7 +31863,8 @@
           "height": 938,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/list-twolinelistitems__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineListItemsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-twolinelistitems__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31574,7 +31902,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/menu-menusample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MenuSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/menu-menusample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31633,7 +31962,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/menu-menuwithscrollstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MenuWithScrollStateSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/menu-menuwithscrollstatesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31692,7 +32022,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/modalbottomsheet-modalbottomsheetsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModalBottomSheetSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modalbottomsheet-modalbottomsheetsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31791,7 +32122,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/navigationrail-navigationrailsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/navigationrail-navigationrailsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31905,7 +32237,8 @@
           "height": 310,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/progressindicator-circularprogressindicatorsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CircularProgressIndicatorSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/progressindicator-circularprogressindicatorsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -31975,7 +32308,8 @@
           "height": 216,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/progressindicator-linearprogressindicatorsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LinearProgressIndicatorSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/progressindicator-linearprogressindicatorsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32059,7 +32393,8 @@
           "height": 1890,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pullrefresh-custompullrefreshsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomPullRefreshSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pullrefresh-custompullrefreshsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32097,7 +32432,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pullrefresh-pullrefreshindicatortransformsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PullRefreshIndicatorTransformSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pullrefresh-pullrefreshindicatortransformsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32145,7 +32481,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pullrefresh-pullrefreshsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PullRefreshSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/pullrefresh-pullrefreshsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32193,7 +32530,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-scaffoldwithbottombarandcutout__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithBottomBarAndCutoutPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-scaffoldwithbottombarandcutout__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32307,7 +32645,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-scaffoldwithcoroutinessnackbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithCoroutinesSnackbarPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-scaffoldwithcoroutinessnackbar__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32377,7 +32716,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-scaffoldwithcustomsnackbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithCustomSnackbarPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-scaffoldwithcustomsnackbar__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32447,7 +32787,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-scaffoldwithsimplesnackbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithSimpleSnackbarPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-scaffoldwithsimplesnackbar__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32517,7 +32858,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-simplescaffoldwithtopbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleScaffoldWithTopBarPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/scaffold-simplescaffoldwithtopbar__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32622,7 +32964,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selectioncontrols-checkboxsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CheckboxSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-checkboxsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32697,7 +33040,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selectioncontrols-radiobuttonsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RadioButtonSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-radiobuttonsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32766,7 +33110,8 @@
           "height": 441,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selectioncontrols-radiogroupsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RadioGroupSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-radiogroupsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32895,7 +33240,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selectioncontrols-switchsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SwitchSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-switchsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -32979,7 +33325,8 @@
           "height": 510,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/selectioncontrols-tristatecheckboxsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TriStateCheckboxSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-tristatecheckboxsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33124,7 +33471,8 @@
           "height": 169,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/slider-rangeslidersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RangeSliderSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/slider-rangeslidersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33183,7 +33531,8 @@
           "height": 169,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/slider-slidersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SliderSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/slider-slidersample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33338,7 +33687,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/surface-clickablesurfacesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ClickableSurfaceSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/surface-clickablesurfacesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33376,7 +33726,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/surface-selectablesurfacesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectableSurfaceSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/surface-selectablesurfacesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33414,7 +33765,8 @@
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/surface-surfacesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SurfaceSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/surface-surfacesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33452,7 +33804,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/surface-toggleablesurfacesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ToggleableSurfaceSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/surface-toggleablesurfacesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33490,7 +33843,8 @@
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/swipeable-swipeablesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SwipeableSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/swipeable-swipeablesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33528,7 +33882,8 @@
           "height": 2100,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/swipetodismiss-swipetodismisslistitems__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SwipeToDismissListItemsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/swipetodismiss-swipetodismisslistitems__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33675,7 +34030,8 @@
           "height": 189,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/tab-fancyindicatorcontainertabs__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyIndicatorContainerTabsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-fancyindicatorcontainertabs__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33790,7 +34146,8 @@
           "height": 189,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/tab-fancyindicatortabs__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyIndicatorTabsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-fancyindicatortabs__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -33905,7 +34262,8 @@
           "height": 246,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/tab-fancytabs__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyTabsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-fancytabs__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -34004,7 +34362,8 @@
           "height": 189,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/tab-texttabs__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextTabsPreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-texttabs__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -34707,7 +35066,8 @@
           "height": 126,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/theme-materialthemesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MaterialThemeSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/theme-materialthemesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -34777,7 +35137,8 @@
           "height": 1050,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/theme-themecolorsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThemeColorSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/theme-themecolorsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -34815,7 +35176,8 @@
           "height": 95,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/theme-themetextstylesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThemeTextStyleSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/theme-themetextstylesample__ideal__default.svg"
         },
         {
           "variant": "ideal",
@@ -34870,10 +35232,22 @@
     "androidx.compose.material:material"
   ],
   "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-11-06T18:47:53.036Z",
+  "generatedAt": "2026-11-06T21:15:31.155Z",
   "display": {
     "role": "samples"
   },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":catalog",
+      "previewIdPrefix": ""
+    }
+  ],
   "componentsFile": "components.json",
   "source": {
     "repo": "yschimke/compose-ui-samples",

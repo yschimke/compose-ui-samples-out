@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-06T18:48:10.715Z",
+  "generatedAt": "2026-11-06T21:15:51.038Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ui-samples",
     "ref": "main",
     "events": [
+      {
+        "sha": "512aec1b64c75149d76424a85191a8b96661cd31",
+        "subject": "feat: publish a live bundle, and seed the random samples on Android too (#3)",
+        "at": "2026-11-06T21:02:37Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0c3fe627d60c8f31f0f62052b89543ba2f6c096d",
         "subject": "fix: let the catalog publish past the semantics gate (#2)",
