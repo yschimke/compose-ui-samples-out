@@ -700,7 +700,7 @@
     "functionName": "BorderSampleWithDynamicDataAndroidPreview",
     "module": "catalog-android",
     "renderBasename": "BorderSampleWithDynamicDataAndroidPreview-7db50e64.png",
-    "sha256": "fa7801780bef655b837fdea2d6e679022ed7679eea6a5e8da1c7228a0b578e8d",
+    "sha256": "cbeceef94e5f825365aaea65e0c3b94cf046dfe2294aa4357968574f9fa76cf4",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.BottomDrawerSampleAndroidPreview": {
@@ -1060,7 +1060,7 @@
     "functionName": "ContextualFlowColumn_ItemPositionAndroidPreview",
     "module": "catalog-android",
     "renderBasename": "ContextualFlowColumn_ItemPositionAndroidPreview-9e094cf2.png",
-    "sha256": "604712f198edee9738c4a4d9da82523a5fb777de73f01dad610385f6f8c783ed",
+    "sha256": "09544ad646a8fdd06d204f0b89a73efc6f9630066f61f80baac335570f0eb903",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.ContextualFlowRowMaxLineDynamicSeeMoreAndroidPreview": {
@@ -1076,7 +1076,7 @@
     "functionName": "ContextualFlowRow_ItemPositionAndroidPreview",
     "module": "catalog-android",
     "renderBasename": "ContextualFlowRow_ItemPositionAndroidPreview-a4cb5267.png",
-    "sha256": "c9e5345f2a4ced0962551ce45808f601b70b6252ead3b9e4f30acbac11199fc5",
+    "sha256": "6a8fcb7faef370d4474da2ec3428b55e6b916ac44e68511fbb220e0e80789590",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.ControlledScrollableRowSampleAndroidPreview": {
@@ -2055,6 +2055,14 @@
     "sha256": "b454bbbabbec03aa922fa2d2bda9e98ca37aaadfb2896a5a32977d002660f952",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FocusableSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "FocusableSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "FocusableSampleAndroidPreview-843d0d33.png",
+    "sha256": "a09bab060f636ec878e9de7cc35ca8cb5a7aa74f557fd1543fb023f6ea2f0ef1",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FocusableSampleUsingLowerLevelFocusTargetAndroidPreview": {
     "captureLabel": "",
     "functionName": "FocusableSampleUsingLowerLevelFocusTargetAndroidPreview",
@@ -2093,14 +2101,6 @@
     "module": "catalog-android",
     "renderBasename": "FontFamilySerifSampleAndroidPreview-f3200f0c.png",
     "sha256": "0a029ae127c1e7b1db09038d845e613df899874e331cf8381e7f4b3a5ab700ab",
-    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
-  },
-  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FoundationFocusableSampleAndroidPreview": {
-    "captureLabel": "",
-    "functionName": "FoundationFocusableSampleAndroidPreview",
-    "module": "catalog-android",
-    "renderBasename": "FoundationFocusableSampleAndroidPreview-2e2c832d.png",
-    "sha256": "a09bab060f636ec878e9de7cc35ca8cb5a7aa74f557fd1543fb023f6ea2f0ef1",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FullyLoadedTransitionAndroidPreview": {
@@ -3948,7 +3948,7 @@
     "functionName": "SimpleFlowColumn_EqualWidthAndroidPreview",
     "module": "catalog-android",
     "renderBasename": "SimpleFlowColumn_EqualWidthAndroidPreview-05291778.png",
-    "sha256": "c1be530fe57294e779d8a7bd2f2f6b82f929e864e2e7f0f2145b401f3c0e066d",
+    "sha256": "1ff5824854e72ee77c02f72caa90c7a530a80111dc62e03b1198ac7f5ae577f7",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SimpleFlowRowAndroidPreview": {
@@ -3980,7 +3980,7 @@
     "functionName": "SimpleFlowRow_EqualHeightAndroidPreview",
     "module": "catalog-android",
     "renderBasename": "SimpleFlowRow_EqualHeightAndroidPreview-138a0070.png",
-    "sha256": "4231090b73462f619318fcee710f4533c6658dbbdfbd4ee55d8f2368effbb630",
+    "sha256": "414e085ce1d74859e01f4879a7b4e26daa9aa296ca79c851e9c09d52cba6abe3",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SimpleGridAndroidPreview": {
@@ -4717,14 +4717,6 @@
     "module": "catalog-android",
     "renderBasename": "TwoLineListItemsAndroidPreview-3f325cfe.png",
     "sha256": "9f7773f3770b99e4604d9a077568e11b9f615e5dcb7b55fa6aebcc6d594a5e16",
-    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
-  },
-  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UiFocusableSampleAndroidPreview": {
-    "captureLabel": "",
-    "functionName": "UiFocusableSampleAndroidPreview",
-    "module": "catalog-android",
-    "renderBasename": "UiFocusableSampleAndroidPreview-e80fe6b3.png",
-    "sha256": "77532d1dbfd96f6c6834b1feab5e233de30c4be4b46ec6cabcd1509b2b33f7c6",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UnitSpacePolygonShapeSampleAndroidPreview": {
@@ -6231,20 +6223,20 @@
     "sha256": "8342d5e42963d46cf3319649aaee3f4946adb945b7991ba5eb577a4b9f911829",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.FocusableSamplePreview": {
+    "captureLabel": "",
+    "functionName": "FocusableSamplePreview",
+    "module": "catalog",
+    "renderBasename": "FocusableSamplePreview-42f7a7f2.png",
+    "sha256": "0ecc85e0221fc9fad56088d267d108fe32a3711a7fad43c2cb8a696b19d0e47a",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.FocusableSampleUsingLowerLevelFocusTargetPreview": {
     "captureLabel": "",
     "functionName": "FocusableSampleUsingLowerLevelFocusTargetPreview",
     "module": "catalog",
     "renderBasename": "FocusableSampleUsingLowerLevelFocusTargetPreview-25c4d253.png",
     "sha256": "c3087446afe87c5da27035fd77db71f3d9911966b3cd33a452f80d731fbf8159",
-    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
-  },
-  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.FoundationFocusableSamplePreview": {
-    "captureLabel": "",
-    "functionName": "FoundationFocusableSamplePreview",
-    "module": "catalog",
-    "renderBasename": "FoundationFocusableSamplePreview-e167f74a.png",
-    "sha256": "0ecc85e0221fc9fad56088d267d108fe32a3711a7fad43c2cb8a696b19d0e47a",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.GestureAnimationSamplePreview": {
@@ -8205,14 +8197,6 @@
     "module": "catalog",
     "renderBasename": "TwoLineListItemsPreview-1cfb04ad.png",
     "sha256": "1a1afb89d25be513466f361abd76f294a1f63fab34b909b20f6f5ad492af02f1",
-    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
-  },
-  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.UiFocusableSamplePreview": {
-    "captureLabel": "",
-    "functionName": "UiFocusableSamplePreview",
-    "module": "catalog",
-    "renderBasename": "UiFocusableSamplePreview-a397918d.png",
-    "sha256": "c3087446afe87c5da27035fd77db71f3d9911966b3cd33a452f80d731fbf8159",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.VerticalDragSamplePreview": {
