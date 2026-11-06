@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1164 2100" width="1164" height="2100" role="img" aria-label="LazyGrid/LazyHorizontalGridSpanSample layout wireframe">
+  <title>LazyGrid/LazyHorizontalGridSpanSample — layout wireframe (slots + tokens)</title>
+  <rect width="1164" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="1007" width="210" height="86" fill="none" fill-opacity="0" stroke="#888888" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="1019" font-family="system-ui, sans-serif" font-size="9" fill="#888888">◻ #FF888888</text>
+  </g>
+  <g>
+    <rect x="306" y="315" width="102" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="309" y="327" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF</text>
+  </g>
+  <g>
+    <rect x="306" y="1029" width="102" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="309" y="1041" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF</text>
+  </g>
+  <g>
+    <rect x="306" y="1743" width="102" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="309" y="1755" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF</text>
+  </g>
+  <g>
+    <rect x="558" y="315" width="102" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="561" y="327" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF</text>
+  </g>
+  <g>
+    <rect x="558" y="1029" width="102" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="561" y="1041" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF</text>
+  </g>
+  <g>
+    <rect x="756" y="1007" width="210" height="86" fill="none" fill-opacity="0" stroke="#888888" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="759" y="1019" font-family="system-ui, sans-serif" font-size="9" fill="#888888">◻ #FF888888</text>
+  </g>
+  <g>
+    <rect x="1062" y="315" width="102" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="1065" y="327" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF</text>
+  </g>
+  <g>
+    <rect x="1062" y="1029" width="102" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="1065" y="1041" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF</text>
+  </g>
+  <g>
+    <rect x="1062" y="1743" width="102" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="1065" y="1755" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="315" viewBox="0 0 1050 315" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+      <g id="ReusableComposeNode">
+        <rect x="0" y="78" width="525" height="158" fill="#00FFFF"/>
+      </g>
+      <g id="ReusableComposeNode">
+        <rect x="525" y="0" width="525" height="158" fill="#FFFF00"/>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

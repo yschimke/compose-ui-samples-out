@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" width="126" height="126" role="img" aria-label="SelectionControls/SwitchSample layout wireframe">
+  <title>SelectionControls/SwitchSample — layout wireframe (slots + tokens)</title>
+  <rect width="126" height="126" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="126" height="126" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="126" height="126" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="19" y="37" width="89" height="53" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="19" y="37" width="89" height="53" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M82.5,37 H82.5 A26.5,26.5 0 0 1 109,63.5 V63.5 A26.5,26.5 0 0 1 82.5,90 H82.5 A26.5,26.5 0 0 1 56,63.5 V63.5 A26.5,26.5 0 0 1 82.5,37 Z" fill="#018786" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="59" y="49" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF018786</text>
+  </g>
+</svg>

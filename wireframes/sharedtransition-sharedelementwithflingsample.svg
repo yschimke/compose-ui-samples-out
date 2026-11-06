@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="SharedTransition/SharedElementWithFlingSample layout wireframe">
+  <title>SharedTransition/SharedElementWithFlingSample — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="26" y="26" width="998" height="2048" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="26" y="26" width="998" height="2048" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="26" y="26" width="998" height="2048" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="26" y="26" width="998" height="2048" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M125.80250000000001,26 H924.1975 A99.80250000000001,99.80250000000001 0 0 1 1024,125.80250000000001 V924.1975 A99.80250000000001,99.80250000000001 0 0 1 924.1975,1024 H125.80250000000001 A99.80250000000001,99.80250000000001 0 0 1 26,924.1975 V125.80250000000001 A99.80250000000001,99.80250000000001 0 0 1 125.80250000000001,26 Z" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+</svg>

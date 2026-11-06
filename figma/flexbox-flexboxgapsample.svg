@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="525" height="337" viewBox="0 0 525 337" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+      <g id="ReusableComposeNode">
+        <rect x="0" y="0" width="158" height="158" fill="#0000FF"/>
+      </g>
+      <g id="ReusableComposeNode">
+        <rect x="179" y="0" width="158" height="158" fill="#0000FF"/>
+      </g>
+      <g id="ReusableComposeNode">
+        <rect x="358" y="0" width="158" height="158" fill="#0000FF"/>
+      </g>
+      <g id="ReusableComposeNode">
+        <rect x="0" y="179" width="158" height="158" fill="#0000FF"/>
+      </g>
+      <g id="ReusableComposeNode">
+        <rect x="179" y="179" width="158" height="158" fill="#0000FF"/>
+      </g>
+      <g id="ReusableComposeNode">
+        <rect x="358" y="179" width="158" height="158" fill="#0000FF"/>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="SharedTransition/NestedSharedBoundsSample layout wireframe">
+  <title>SharedTransition/NestedSharedBoundsSample — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="#000000" fill-opacity="0.533" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#88000000</text>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M365,1889 H685 A79,79 0 0 1 764,1968 V1968 A79,79 0 0 1 685,2047 H365 A79,79 0 0 1 286,1968 V1968 A79,79 0 0 1 365,1889 Z" fill="#FFFFFF" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="289" y="1901" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FFFFFFFF  pad 20.0dp</text>
+  </g>
+  <g>
+    <rect x="312" y="1915" width="426" height="106" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="338" y="1941" width="54" height="54" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="471" y="1941" width="54" height="54" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M658,1941 H658 A27,27 0 0 1 685,1968 V1968 A27,27 0 0 1 658,1995 H658 A27,27 0 0 1 631,1968 V1968 A27,27 0 0 1 658,1941 Z" fill="#3367BA" fill-opacity="1" stroke="#7A7A33" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="634" y="1953" font-family="system-ui, sans-serif" font-size="9" fill="#7A7A33">#FF3367BA  pad ·</text>
+  </g>
+</svg>

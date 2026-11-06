@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 210" width="1050" height="210" role="img" aria-label="FlexBox/SimpleFlexBox layout wireframe">
+  <title>FlexBox/SimpleFlexBox — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="210" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="210" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="210" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="210" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="210" height="210" fill="#FF00FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFF00FF</text>
+  </g>
+  <g>
+    <rect x="62" y="84" width="86" height="43" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="210" y="0" width="328" height="210" fill="#FFFF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="213" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFF00</text>
+  </g>
+  <g>
+    <rect x="303" y="84" width="143" height="43" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="538" y="0" width="512" height="210" fill="#00FF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="541" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FF00</text>
+  </g>
+  <g>
+    <rect x="723" y="84" width="143" height="43" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

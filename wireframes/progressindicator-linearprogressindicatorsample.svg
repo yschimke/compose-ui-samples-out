@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 216" width="630" height="216" role="img" aria-label="ProgressIndicator/LinearProgressIndicatorSample layout wireframe">
+  <title>ProgressIndicator/LinearProgressIndicatorSample — layout wireframe (slots + tokens)</title>
+  <rect width="630" height="216" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="630" height="216" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="630" height="216" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="630" height="216" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="630" height="11" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M192.5,106 H437.5 A10.5,10.5 0 0 1 448,116.5 V190.5 A10.5,10.5 0 0 1 437.5,201 H192.5 A10.5,10.5 0 0 1 182,190.5 V116.5 A10.5,10.5 0 0 1 192.5,106 Z" fill="#FFFFFF" fill-opacity="1" stroke="#000000" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="185" y="118" font-family="system-ui, sans-serif" font-size="9" fill="#000000">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="224" y="127" width="182" height="53" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="224" y="133" width="182" height="42" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

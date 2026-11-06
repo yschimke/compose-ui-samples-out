@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="Transition (Animation Core)/SeekingAnimationSample layout wireframe">
+  <title>Transition (Animation Core)/SeekingAnimationSample — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="169" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="169" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M10.5,0 H199.5 A10.5,10.5 0 0 1 210,10.5 V158.5 A10.5,10.5 0 0 1 199.5,169 H10.5 A10.5,10.5 0 0 1 0,158.5 V10.5 A10.5,10.5 0 0 1 10.5,0 Z" fill="#6200EE" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="42" y="21" width="126" height="127" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="21" width="126" height="127" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M220.5,0 H409.5 A10.5,10.5 0 0 1 420,10.5 V116.5 A10.5,10.5 0 0 1 409.5,127 H220.5 A10.5,10.5 0 0 1 210,116.5 V10.5 A10.5,10.5 0 0 1 220.5,0 Z" fill="#6200EE" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="213" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="252" y="21" width="126" height="85" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="252" y="21" width="126" height="85" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M430.5,0 H619.5 A10.5,10.5 0 0 1 630,10.5 V158.5 A10.5,10.5 0 0 1 619.5,169 H430.5 A10.5,10.5 0 0 1 420,158.5 V10.5 A10.5,10.5 0 0 1 430.5,0 Z" fill="#6200EE" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="423" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="462" y="21" width="126" height="127" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="462" y="21" width="126" height="127" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M640.5,0 H829.5 A10.5,10.5 0 0 1 840,10.5 V116.5 A10.5,10.5 0 0 1 829.5,127 H640.5 A10.5,10.5 0 0 1 630,116.5 V10.5 A10.5,10.5 0 0 1 640.5,0 Z" fill="#6200EE" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="633" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="672" y="21" width="126" height="85" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="672" y="21" width="126" height="85" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M850.5,0 H1039.5 A10.5,10.5 0 0 1 1050,10.5 V158.5 A10.5,10.5 0 0 1 1039.5,169 H850.5 A10.5,10.5 0 0 1 840,158.5 V10.5 A10.5,10.5 0 0 1 850.5,0 Z" fill="#6200EE" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="843" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="882" y="21" width="126" height="127" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="882" y="21" width="126" height="127" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="26" y="195" width="998" height="126" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="26" y="195" width="998" height="126" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="26" y="195" width="998" height="126" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="26" y="232" width="53" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M52.5,232 H52.5 A26.5,26.5 0 0 1 79,258.5 V258.5 A26.5,26.5 0 0 1 52.5,285 H52.5 A26.5,26.5 0 0 1 26,258.5 V258.5 A26.5,26.5 0 0 1 52.5,232 Z" fill="#6200EE" fill-opacity="1" stroke="#4F8A4A" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="29" y="244" font-family="system-ui, sans-serif" font-size="9" fill="#4F8A4A">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="0" y="347" width="131" height="131" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="347" width="131" height="131" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="347" width="131" height="131" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="394" y="1158" width="263" height="263" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="397" y="1170" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+</svg>

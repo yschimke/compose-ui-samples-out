@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="126" viewBox="0 0 126 126" text-rendering="geometricPrecision" font-family="sans-serif">
+<defs>
+  <filter id="shadow-3" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="1.5" stdDeviation="1.79" flood-color="#000000" flood-opacity="0.26"/>
+  </filter>
+</defs>
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="Box">
+      <g id="Spacer">
+        <g transform="translate(19 37) scale(1 1)">
+          <path d="M18.38,26.5 L70.88,26.5" fill="none" stroke="#018786" stroke-opacity="0.54" stroke-width="36.75" stroke-linecap="round"/>
+        </g>
+      </g>
+      <g id="Spacer" filter="url(#shadow-3)">
+        <rect x="56" y="37" width="53" height="53" rx="26.5" ry="26.5" fill="#018786"/>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

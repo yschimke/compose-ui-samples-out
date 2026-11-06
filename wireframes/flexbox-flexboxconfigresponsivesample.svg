@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 789 526" width="789" height="526" role="img" aria-label="FlexBox/FlexBoxConfigResponsiveSample layout wireframe">
+  <title>FlexBox/FlexBoxConfigResponsiveSample — layout wireframe (slots + tokens)</title>
+  <rect width="789" height="526" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="789" height="526" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="789" height="526" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="789" height="526" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="263" height="263" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="263" y="0" width="263" height="263" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="266" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="526" y="0" width="263" height="263" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="529" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="0" y="263" width="263" height="263" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="275" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+</svg>

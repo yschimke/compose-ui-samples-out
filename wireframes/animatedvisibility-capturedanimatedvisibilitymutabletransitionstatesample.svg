@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 712 357" width="712" height="357" role="img" aria-label="AnimatedVisibility/CapturedAnimatedVisibilityMutableTransitionStateSample layout wireframe">
+  <title>AnimatedVisibility/CapturedAnimatedVisibilityMutableTransitionStateSample — layout wireframe (slots + tokens)</title>
+  <rect width="712" height="357" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="712" height="357" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="712" height="357" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="712" height="357" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M10.5,16 H158.5 A10.5,10.5 0 0 1 169,26.5 V100.5 A10.5,10.5 0 0 1 158.5,111 H10.5 A10.5,10.5 0 0 1 0,100.5 V26.5 A10.5,10.5 0 0 1 10.5,16 Z" fill="#6200EE" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="28" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="42" y="37" width="85" height="53" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="42" width="85" height="43" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="147" width="712" height="43" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="94" width="263" height="263" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M21,94 H242 A21,21 0 0 1 263,115 V336 A21,21 0 0 1 242,357 H21 A21,21 0 0 1 0,336 V115 A21,21 0 0 1 21,94 Z" fill="#FF0000" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="106" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFF0000</text>
+  </g>
+</svg>

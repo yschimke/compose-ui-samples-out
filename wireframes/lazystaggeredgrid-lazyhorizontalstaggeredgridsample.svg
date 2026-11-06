@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1058 2100" width="1058" height="2100" role="img" aria-label="LazyStaggeredGrid/LazyHorizontalStaggeredGridSample layout wireframe">
+  <title>LazyStaggeredGrid/LazyHorizontalStaggeredGridSample — layout wireframe (slots + tokens)</title>
+  <rect width="1058" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="329" width="139" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="45" y="341" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="42" y="1029" width="139" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="45" y="1041" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="42" y="1729" width="139" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="45" y="1741" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="265" y="329" width="139" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="268" y="341" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="265" y="1029" width="139" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="268" y="1041" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="265" y="1729" width="139" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="268" y="1741" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="488" y="329" width="179" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="491" y="341" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="488" y="1029" width="307" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="491" y="1041" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="488" y="1729" width="306" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="491" y="1741" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+  <g>
+    <rect x="751" y="329" width="307" height="43" fill="none" fill-opacity="0" stroke="#0000FF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="754" y="341" font-family="system-ui, sans-serif" font-size="9" fill="#0000FF">◻ #FF0000FF  pad 16.0dp</text>
+  </g>
+</svg>

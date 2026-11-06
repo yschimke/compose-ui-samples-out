@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 1050" width="1050" height="1050" role="img" aria-label="Blur/ImageBlurSample layout wireframe">
+  <title>Blur/ImageBlurSample — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="1050" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="1050" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="1050" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M13.125,0 H1036.875 A13.125,13.125 0 0 1 1050,13.125 V1036.875 A13.125,13.125 0 0 1 1036.875,1050 H13.125 A13.125,13.125 0 0 1 0,1036.875 V13.125 A13.125,13.125 0 0 1 13.125,0 Z" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+</svg>

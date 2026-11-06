@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 663 126" width="663" height="126" role="img" aria-label="Card/ClickableCardSample layout wireframe">
+  <title>Card/ClickableCardSample — layout wireframe (slots + tokens)</title>
+  <rect width="663" height="126" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="663" height="126" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="663" height="126" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M10.5,42 H652.5 A10.5,10.5 0 0 1 663,52.5 V74.5 A10.5,10.5 0 0 1 652.5,85 H10.5 A10.5,10.5 0 0 1 0,74.5 V52.5 A10.5,10.5 0 0 1 10.5,42 Z" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="54" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
+    <rect x="0" y="42" width="663" height="43" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

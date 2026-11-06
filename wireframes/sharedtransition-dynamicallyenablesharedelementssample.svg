@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="SharedTransition/DynamicallyEnableSharedElementsSample layout wireframe">
+  <title>SharedTransition/DynamicallyEnableSharedElementsSample — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="126" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M147.5,16 H294.5 A10.5,10.5 0 0 1 305,26.5 V100.5 A10.5,10.5 0 0 1 294.5,111 H147.5 A10.5,10.5 0 0 1 137,100.5 V26.5 A10.5,10.5 0 0 1 147.5,16 Z" fill="#6200EE" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="140" y="28" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="179" y="37" width="84" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="180" y="42" width="83" height="43" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M451.5,16 H598.5 A10.5,10.5 0 0 1 609,26.5 V100.5 A10.5,10.5 0 0 1 598.5,111 H451.5 A10.5,10.5 0 0 1 441,100.5 V26.5 A10.5,10.5 0 0 1 451.5,16 Z" fill="#6200EE" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="444" y="28" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="483" y="37" width="84" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="484" y="42" width="82" height="43" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M756.5,16 H903.5 A10.5,10.5 0 0 1 914,26.5 V100.5 A10.5,10.5 0 0 1 903.5,111 H756.5 A10.5,10.5 0 0 1 746,100.5 V26.5 A10.5,10.5 0 0 1 756.5,16 Z" fill="#6200EE" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="749" y="28" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="788" y="37" width="84" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="789" y="42" width="83" height="43" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="126" width="1050" height="1974" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="126" width="1050" height="1974" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="126" width="1050" height="1974" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="126" width="1050" height="1974" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="126" width="1050" height="1974" fill="none" fill-opacity="0" stroke="#7A7A33" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="263" y="851" width="525" height="525" fill="#FF0000" fill-opacity="1" stroke="#5B6470" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="266" y="863" font-family="system-ui, sans-serif" font-size="9" fill="#5B6470">#FFFF0000</text>
+  </g>
+  <g>
+    <rect x="483" y="1037" width="85" height="154" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

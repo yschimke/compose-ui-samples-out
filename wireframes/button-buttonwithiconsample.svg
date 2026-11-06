@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 239 126" width="239" height="126" role="img" aria-label="Button/ButtonWithIconSample layout wireframe">
+  <title>Button/ButtonWithIconSample — layout wireframe (slots + tokens)</title>
+  <rect width="239" height="126" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="239" height="126" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="239" height="126" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M10.5,16 H228.5 A10.5,10.5 0 0 1 239,26.5 V100.5 A10.5,10.5 0 0 1 228.5,111 H10.5 A10.5,10.5 0 0 1 0,100.5 V26.5 A10.5,10.5 0 0 1 10.5,16 Z" fill="#6200EE" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="28" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FF6200EE</text>
+  </g>
+  <g>
+    <rect x="42" y="37" width="155" height="53" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="40" width="47" height="47" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="89" y="53" width="21" height="21" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="110" y="43" width="87" height="42" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

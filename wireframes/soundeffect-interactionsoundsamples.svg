@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 603 465" width="603" height="465" role="img" aria-label="SoundEffect/InteractionSoundSamples layout wireframe">
+  <title>SoundEffect/InteractionSoundSamples — layout wireframe (slots + tokens)</title>
+  <rect width="603" height="465" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="603" height="465" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="603" height="465" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="42" width="519" height="381" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="42" width="519" height="43" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M94.5,96 H257.5 A52.5,52.5 0 0 1 310,148.5 V148.5 A52.5,52.5 0 0 1 257.5,201 H94.5 A52.5,52.5 0 0 1 42,148.5 V148.5 A52.5,52.5 0 0 1 94.5,96 Z" fill="#6750A4" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="45" y="108" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF6750A4</text>
+  </g>
+  <g>
+    <rect x="105" y="117" width="142" height="63" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="105" y="122" width="142" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="211" width="424" height="86" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M94.5,308 H327.5 A52.5,52.5 0 0 1 380,360.5 V360.5 A52.5,52.5 0 0 1 327.5,413 H94.5 A52.5,52.5 0 0 1 42,360.5 V360.5 A52.5,52.5 0 0 1 94.5,308 Z" fill="#6750A4" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="45" y="320" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF6750A4</text>
+  </g>
+  <g>
+    <rect x="105" y="329" width="212" height="63" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="105" y="334" width="212" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

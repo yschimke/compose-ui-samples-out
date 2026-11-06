@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 149" width="144" height="149" role="img" aria-label="AnimationModifier/AnimateContent layout wireframe">
+  <title>AnimationModifier/AnimateContent — layout wireframe (slots + tokens)</title>
+  <rect width="144" height="149" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="144" height="149" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="144" height="149" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M72,53 H72 A19,19 0 0 1 91,72 V77 A19,19 0 0 1 72,96 H72 A19,19 0 0 1 53,77 V72 A19,19 0 0 1 72,53 Z" fill="#0000FF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="56" y="65" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FF0000FF  pad 20.0dp</text>
+  </g>
+  <g>
+    <rect x="53" y="53" width="38" height="43" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 656 474" width="656" height="474" role="img" aria-label="FlexBox/FlexBoxWrapSample layout wireframe">
+  <title>FlexBox/FlexBoxWrapSample — layout wireframe (slots + tokens)</title>
+  <rect width="656" height="474" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="656" height="474" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="656" height="474" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="656" height="474" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="158" y="0" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="161" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="316" y="0" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="319" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="474" y="0" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="477" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="0" y="158" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="170" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="158" y="158" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="161" y="170" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="316" y="158" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="319" y="170" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="474" y="158" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="477" y="170" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="0" y="316" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="328" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+  <g>
+    <rect x="158" y="316" width="158" height="158" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="161" y="328" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+  </g>
+</svg>

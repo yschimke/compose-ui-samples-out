@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 295" width="355" height="295" role="img" aria-label="Dialog/DialogWithBlurSample layout wireframe">
+  <title>Dialog/DialogWithBlurSample — layout wireframe (slots + tokens)</title>
+  <rect width="355" height="295" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="355" height="295" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="355" height="295" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="63" width="229" height="169" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="126" y="126" width="103" height="43" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="LookaheadScope/LookaheadLayoutCoordinatesSample layout wireframe">
+  <title>LookaheadScope/LookaheadLayoutCoordinatesSample — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M96.5925,39 H244.4075 A57.5925,57.5925 0 0 1 302,96.5925 V191.4075 A57.5925,57.5925 0 0 1 244.4075,249 H96.5925 A57.5925,57.5925 0 0 1 39,191.4075 V96.5925 A57.5925,57.5925 0 0 1 96.5925,39 Z" fill="#FF6F69" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="42" y="51" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFF6F69  pad 15.0dp</text>
+  </g>
+  <g>
+    <path d="M96.5925,327 H244.4075 A57.5925,57.5925 0 0 1 302,384.5925 V479.4075 A57.5925,57.5925 0 0 1 244.4075,537 H96.5925 A57.5925,57.5925 0 0 1 39,479.4075 V384.5925 A57.5925,57.5925 0 0 1 96.5925,327 Z" fill="#FFCC5C" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="42" y="339" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFFCC5C  pad 15.0dp</text>
+  </g>
+  <g>
+    <path d="M96.5925,615 H244.4075 A57.5925,57.5925 0 0 1 302,672.5925 V767.4075 A57.5925,57.5925 0 0 1 244.4075,825 H96.5925 A57.5925,57.5925 0 0 1 39,767.4075 V672.5925 A57.5925,57.5925 0 0 1 96.5925,615 Z" fill="#264653" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="42" y="627" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF264653  pad 15.0dp</text>
+  </g>
+  <g>
+    <path d="M96.5925,903 H244.4075 A57.5925,57.5925 0 0 1 302,960.5925 V1055.4075 A57.5925,57.5925 0 0 1 244.4075,1113 H96.5925 A57.5925,57.5925 0 0 1 39,1055.4075 V960.5925 A57.5925,57.5925 0 0 1 96.5925,903 Z" fill="#2A9D84" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="42" y="915" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF2A9D84  pad 15.0dp</text>
+  </g>
+</svg>

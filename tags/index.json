@@ -1,0 +1,29 @@
+{
+  "schema": "compose-preview-tags/v1",
+  "previews": {
+    "setframerate-setframeratesample__ideal__default": {
+      "frameRateTag": {
+        "count": 1,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 788,
+          "height": 148
+        },
+        "space": "render-pixels"
+      }
+    },
+    "setframeratecategory-setframeratecategorysample__ideal__default": {
+      "frameRateTag": {
+        "count": 1,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 788,
+          "height": 148
+        },
+        "space": "render-pixels"
+      }
+    }
+  }
+}

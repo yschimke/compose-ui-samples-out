@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788 788" width="788" height="788" role="img" aria-label="SetFrameRateCategory/SetFrameRateCategorySample layout wireframe">
+  <title>SetFrameRateCategory/SetFrameRateCategorySample — layout wireframe (slots + tokens)</title>
+  <rect width="788" height="788" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="788" height="788" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="788" height="788" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="788" height="788" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M73.99875,0 H714.00125 A73.99875,73.99875 0 0 1 788,73.99875 V74.00125 A73.99875,73.99875 0 0 1 714.00125,148 H73.99875 A73.99875,73.99875 0 0 1 0,74.00125 V73.99875 A73.99875,73.99875 0 0 1 73.99875,0 Z" fill="#000000" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF000000</text>
+  </g>
+  <g>
+    <rect x="63" y="21" width="662" height="106" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="21" width="662" height="106" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

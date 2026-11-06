@@ -1,0 +1,51 @@
+{
+  "schema": "compose-preview-activity/v1",
+  "generatedAt": "2026-11-06T18:48:10.715Z",
+  "windowDays": 30,
+  "code": {
+    "repo": "yschimke/compose-ui-samples",
+    "ref": "main",
+    "events": [
+      {
+        "sha": "0c3fe627d60c8f31f0f62052b89543ba2f6c096d",
+        "subject": "fix: let the catalog publish past the semantics gate (#2)",
+        "at": "2026-11-06T18:34:04Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0993be46a7aca12d79d09b881016479edfa4c087",
+        "subject": "fix: withhold the previews that fail the first catalog publish (#1)",
+        "at": "2026-11-06T12:00:29Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "20a0cd4fa9c81cc728817b545471879aa33caa44",
+        "subject": "ci: add the PR title and agent attribution checks the repo policy requires",
+        "at": "2026-11-06T10:39:54Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "79397d6640414ad857cef12b30d387289e9df328",
+        "subject": "feat: add an Android render lane from the AndroidX snapshot sample artifacts",
+        "at": "2026-11-06T10:37:56Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e556fa2ec4fa1923593be9cba3dd2f8b964692d7",
+        "subject": "feat: publish the AndroidX Compose samples (all but material3) as one catalog",
+        "at": "2026-11-06T08:36:12Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      }
+    ]
+  }
+}

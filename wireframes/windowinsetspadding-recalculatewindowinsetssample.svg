@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="WindowInsetsPadding/recalculateWindowInsetsSample layout wireframe">
+  <title>WindowInsetsPadding/recalculateWindowInsetsSample — layout wireframe (slots + tokens)</title>
+  <rect width="1050" height="2100" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="1050" height="700" fill="#FF00FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFF00FF</text>
+  </g>
+  <g>
+    <rect x="0" y="700" width="1050" height="700" fill="#FFFF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="712" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFF00</text>
+  </g>
+  <g>
+    <path d="M365.5,711 H684.5 A52.5,52.5 0 0 1 737,763.5 V763.5 A52.5,52.5 0 0 1 684.5,816 H365.5 A52.5,52.5 0 0 1 313,763.5 V763.5 A52.5,52.5 0 0 1 365.5,711 Z" fill="#6750A4" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="316" y="723" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF6750A4</text>
+  </g>
+  <g>
+    <rect x="376" y="732" width="298" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="376" y="737" width="298" height="53" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M366.5,1285 H683.5 A52.5,52.5 0 0 1 736,1337.5 V1337.5 A52.5,52.5 0 0 1 683.5,1390 H366.5 A52.5,52.5 0 0 1 314,1337.5 V1337.5 A52.5,52.5 0 0 1 366.5,1285 Z" fill="#6750A4" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="317" y="1297" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF6750A4</text>
+  </g>
+  <g>
+    <rect x="377" y="1306" width="296" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="377" y="1311" width="296" height="53" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="1400" width="1050" height="700" fill="#00FFFF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="1412" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FFFF</text>
+  </g>
+</svg>

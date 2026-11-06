@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="Column">
+      <g id="BoxKt">
+        <rect x="39" y="39" width="263" height="210" rx="57.59" ry="57.59" fill="#FF6F69"/>
+      </g>
+      <g id="BoxKt">
+        <rect x="39" y="327" width="263" height="210" rx="57.59" ry="57.59" fill="#FFCC5C"/>
+      </g>
+      <g id="BoxKt">
+        <rect x="39" y="615" width="263" height="210" rx="57.59" ry="57.59" fill="#264653"/>
+      </g>
+      <g id="BoxKt">
+        <rect x="39" y="903" width="263" height="210" rx="57.59" ry="57.59" fill="#2A9D84"/>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

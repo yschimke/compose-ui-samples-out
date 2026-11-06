@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1050" height="2100" viewBox="0 0 1050 2100" text-rendering="geometricPrecision" font-family="sans-serif">
+<defs>
+  <g id="material-icon-materialiconsoutlined-share">
+    <path d="M18 16.08 c -0.76 0 -1.44 0.3 -1.96 0.77 L8.91 12.7 c 0.05 -0.23 0.09 -0.46 0.09 -0.7 s -0.04 -0.47 -0.09 -0.7 l7.05 -4.11 c 0.54 0.5 1.25 0.81 2.04 0.81 c 1.66 0 3 -1.34 3 -3 s -1.34 -3 -3 -3 s -3 1.34 -3 3 c 0 0.24 0.04 0.47 0.09 0.7 L8.04 9.81 C 7.5 9.31 6.79 9 6 9 c -1.66 0 -3 1.34 -3 3 s 1.34 3 3 3 c 0.79 0 1.5 -0.31 2.04 -0.81 l7.12 4.16 c -0.05 0.21 -0.08 0.43 -0.08 0.65 c 0 1.61 1.31 2.92 2.92 2.92 s 2.92 -1.31 2.92 -2.92 c 0 -1.61 -1.31 -2.92 -2.92 -2.92 Z M18 4 c 0.55 0 1 0.45 1 1 s -0.45 1 -1 1 s -1 -0.45 -1 -1 s 0.45 -1 1 -1 Z M6 13 c -0.55 0 -1 -0.45 -1 -1 s 0.45 -1 1 -1 s 1 0.45 1 1 s -0.45 1 -1 1 Z M18 20.02 c -0.55 0 -1 -0.45 -1 -1 s 0.45 -1 1 -1 s 1 0.45 1 1 s -0.45 1 -1 1 Z" fill="#000000"/>
+  </g>
+  <g id="material-icon-materialiconsoutlined-favorite">
+    <path d="M12 21.35 l-1.45 -1.32 C 5.4 15.36 2 12.28 2 8.5 C 2 5.42 4.42 3 7.5 3 c 1.74 0 3.41 0.81 4.5 2.09 C 13.09 3.81 14.76 3 16.5 3 C 19.58 3 22 5.42 22 8.5 c 0 3.78 -3.4 6.86 -8.55 11.54 L12 21.35 Z" fill="#000000"/>
+  </g>
+  <g id="material-icon-materialiconsoutlined-create">
+    <path d="M3 17.25 V21 h3.75 L17.81 9.94 l-3.75 -3.75 L3 17.25 Z M5.92 19 H5 v-0.92 l9.06 -9.06 l0.92 0.92 L5.92 19 Z M20.71 5.63 l-2.34 -2.34 c -0.2 -0.2 -0.45 -0.29 -0.71 -0.29 s -0.51 0.1 -0.7 0.29 l-1.83 1.83 l3.75 3.75 l1.83 -1.83 c 0.39 -0.39 0.39 -1.02 0 -1.41 Z" fill="#FFFFFF"/>
+  </g>
+</defs>
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+      <rect x="0" y="0" width="1050" height="2100" fill="#000000" fill-opacity="0.53"/>
+      <g id="ReusableComposeNode">
+        <rect x="286" y="1889" width="478" height="158" rx="79" ry="79" fill="#FFFFFF"/>
+        <g id="ReusableComposeNode">
+          <g id="ReusableComposeNode" data-material-icon="share" data-material-icon-style="Outlined" data-material-icon-url="https://fonts.gstatic.com/s/i/materialiconsoutlined/share/v1/24px.svg">
+            <g transform="translate(338 1941) scale(2.25 2.25)">
+              <use href="#material-icon-materialiconsoutlined-share" xlink:href="#material-icon-materialiconsoutlined-share"/>
+            </g>
+          </g>
+          <g id="ReusableComposeNode" data-material-icon="favorite" data-material-icon-style="Outlined" data-material-icon-url="https://fonts.gstatic.com/s/i/materialiconsoutlined/favorite/v1/24px.svg">
+            <g transform="translate(471 1941) scale(2.25 2.25)">
+              <use href="#material-icon-materialiconsoutlined-favorite" xlink:href="#material-icon-materialiconsoutlined-favorite"/>
+            </g>
+          </g>
+          <g id="ReusableComposeNode" data-material-icon="create" data-material-icon-style="Outlined" data-material-icon-url="https://fonts.gstatic.com/s/i/materialiconsoutlined/create/v1/24px.svg">
+            <g transform="translate(631 1941) scale(2.25 2.25)">
+              <use href="#material-icon-materialiconsoutlined-create" xlink:href="#material-icon-materialiconsoutlined-create"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
