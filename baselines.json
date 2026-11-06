@@ -1159,6 +1159,14 @@
     "sha256": "ab9001a6f67fd53e0df4cedaa08dc85d654265e5264bcb2ec52061e069399531",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.CustomFontFamilySampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "CustomFontFamilySampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "CustomFontFamilySampleAndroidPreview-4daf87d8.png",
+    "sha256": "a5536a752ba93ea10e7da65912f7fc6eb197b894b070409bd25615e272f96596",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.CustomPageSizeSampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "CustomPageSizeSampleAndroidPreview",
@@ -2101,6 +2109,14 @@
     "module": "catalog-android",
     "renderBasename": "FontFamilySerifSampleAndroidPreview-f3200f0c.png",
     "sha256": "0a029ae127c1e7b1db09038d845e613df899874e331cf8381e7f4b3a5ab700ab",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FontFamilySynthesisSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "FontFamilySynthesisSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "FontFamilySynthesisSampleAndroidPreview-b775f646.png",
+    "sha256": "37d936e65282f15260e07ff9f5b8495e5685e583a87ebdb34431c6db31dc8d2a",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FullyLoadedTransitionAndroidPreview": {
