@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "b44079fc5c77843c8e3ea7012e572b461f7981e9",
+    "generatedFrom": "aef9e601cd6766ee4c85942889979d1a924e028e",
     "previews": {
         "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AVColumnScopeWithMutableTransitionStateAndroidPreview": {
             "path": "renders/catalog-android/AVColumnScopeWithMutableTransitionStateAndroidPreview-51c95e12.png",
@@ -2240,6 +2240,21 @@
             "unstable": false,
             "flapCount": 0
         },
+        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.CustomFontFamilySampleAndroidPreview": {
+            "path": "renders/catalog-android/CustomFontFamilySampleAndroidPreview-4daf87d8.png",
+            "versions": [
+                {
+                    "blob": "94c0f678c1b732a78199d9e66665f109a44b1c47",
+                    "commit": "aef9e601cd6766ee4c85942889979d1a924e028e",
+                    "date": "2026-11-06T22:38:13Z",
+                    "sourceSha": "4706c2a6",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
         "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.CustomPageSizeSampleAndroidPreview": {
             "path": "renders/catalog-android/CustomPageSizeSampleAndroidPreview-5449c21d.png",
             "versions": [
@@ -4003,6 +4018,21 @@
                     "commit": "2d1135c61a42ba4ac7d36b159457dc235dc2419a",
                     "date": "2026-11-06T10:50:10Z",
                     "sourceSha": "20a0cd4f",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FontFamilySynthesisSampleAndroidPreview": {
+            "path": "renders/catalog-android/FontFamilySynthesisSampleAndroidPreview-b775f646.png",
+            "versions": [
+                {
+                    "blob": "9c3780f4469e213b1423f7cdb06aa3c549b01cbd",
+                    "commit": "aef9e601cd6766ee4c85942889979d1a924e028e",
+                    "date": "2026-11-06T22:38:13Z",
+                    "sourceSha": "4706c2a6",
                     "commits": 1
                 }
             ],
