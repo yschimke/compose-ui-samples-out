@@ -1897,7 +1897,7 @@
       "wireframe": "wireframes/contextmenu-filterprocesstextitemsintextcontextmenu.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 895,
+      "bodyLine": 899,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FilterProcessTextItemsInTextContextMenuAndroidPreview"
     },
@@ -3009,7 +3009,7 @@
       "wireframe": "wireframes/handwritingdetector-handwritingdetectorsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1127,
+      "bodyLine": 1135,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "HandwritingDetectorSampleAndroidPreview"
     },
@@ -4482,7 +4482,7 @@
       "wireframe": "wireframes/lazydsl-lazylistcachewindowsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1339,
+      "bodyLine": 1347,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyListCacheWindowSampleAndroidPreview"
     },
@@ -4704,7 +4704,7 @@
       "wireframe": "wireframes/lazydsl-lazylistprefetchstrategymigrationsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1347,
+      "bodyLine": 1355,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyListPrefetchStrategyMigrationSampleAndroidPreview"
     },
@@ -5145,7 +5145,7 @@
       "wireframe": "wireframes/lazygrid-gridanimateitemsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1091,
+      "bodyLine": 1099,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "GridAnimateItemSampleAndroidPreview"
     },
@@ -5170,7 +5170,7 @@
       "wireframe": "wireframes/lazygrid-lazygridcachewindowsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1291,
+      "bodyLine": 1299,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyGridCacheWindowSampleAndroidPreview"
     },
@@ -5476,7 +5476,7 @@
       "wireframe": "wireframes/lazygrid-lazygridcrossaxiscellcountsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1295,
+      "bodyLine": 1303,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyGridCrossAxisCellCountSampleAndroidPreview"
     },
@@ -5911,7 +5911,7 @@
       "wireframe": "wireframes/lazygrid-lazygridcustomscrollusinglazylayoutscrollscopesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1299,
+      "bodyLine": 1307,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyGridCustomScrollUsingLazyLayoutScrollScopeSampleAndroidPreview"
     },
@@ -5936,7 +5936,7 @@
       "wireframe": "wireframes/lazygrid-lazygridprefetchstrategymigrationsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1303,
+      "bodyLine": 1311,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyGridPrefetchStrategyMigrationSampleAndroidPreview"
     },
@@ -5961,7 +5961,7 @@
       "wireframe": "wireframes/lazygrid-lazyhorizontalgridsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1307,
+      "bodyLine": 1315,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyHorizontalGridSampleAndroidPreview"
     },
@@ -5986,7 +5986,7 @@
       "wireframe": "wireframes/lazygrid-lazyhorizontalgridspansample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1311,
+      "bodyLine": 1319,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyHorizontalGridSpanSampleAndroidPreview"
     },
@@ -6011,7 +6011,7 @@
       "wireframe": "wireframes/lazygrid-lazyverticalgridsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1363,
+      "bodyLine": 1371,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyVerticalGridSampleAndroidPreview"
     },
@@ -6036,7 +6036,7 @@
       "wireframe": "wireframes/lazygrid-lazyverticalgridspansample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1367,
+      "bodyLine": 1375,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyVerticalGridSpanSampleAndroidPreview"
     },
@@ -6430,7 +6430,7 @@
       "wireframe": "wireframes/lazystaggeredgrid-lazyhorizontalstaggeredgridsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1315,
+      "bodyLine": 1323,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyHorizontalStaggeredGridSampleAndroidPreview"
     },
@@ -6486,7 +6486,7 @@
       "wireframe": "wireframes/lazystaggeredgrid-lazyhorizontalstaggeredgridspansample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1319,
+      "bodyLine": 1327,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyHorizontalStaggeredGridSpanSampleAndroidPreview"
     },
@@ -6511,7 +6511,7 @@
       "wireframe": "wireframes/lazystaggeredgrid-lazystaggeredgridcachewindowsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1355,
+      "bodyLine": 1363,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyStaggeredGridCacheWindowSampleAndroidPreview"
     },
@@ -6946,7 +6946,7 @@
       "wireframe": "wireframes/lazystaggeredgrid-lazystaggeredgridcustomscrollusinglazylayoutscrollscopesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1359,
+      "bodyLine": 1367,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyStaggeredGridCustomScrollUsingLazyLayoutScrollScopeSampleAndroidPreview"
     },
@@ -6971,7 +6971,7 @@
       "wireframe": "wireframes/lazystaggeredgrid-lazyverticalstaggeredgridsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1371,
+      "bodyLine": 1379,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyVerticalStaggeredGridSampleAndroidPreview"
     },
@@ -6996,7 +6996,7 @@
       "wireframe": "wireframes/lazystaggeredgrid-lazyverticalstaggeredgridspansample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1375,
+      "bodyLine": 1383,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LazyVerticalStaggeredGridSpanSampleAndroidPreview"
     },
@@ -7083,7 +7083,7 @@
       "wireframe": "wireframes/lazystaggeredgrid-staggeredgridanimateitemsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2175,
+      "bodyLine": 2183,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "StaggeredGridAnimateItemSampleAndroidPreview"
     },
@@ -7107,7 +7107,7 @@
       "caption": "`MagnifierSample` — Android only (AndroidX snapshot build 16855585).",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1419,
+      "bodyLine": 1427,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "MagnifierSampleAndroidPreview"
     },
@@ -8245,7 +8245,7 @@
       "wireframe": "wireframes/polygonshape-custompolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 615,
+      "bodyLine": 619,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "CustomPolygonShapeSampleAndroidPreview"
     },
@@ -8270,7 +8270,7 @@
       "wireframe": "wireframes/polygonshape-directionalpolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 719,
+      "bodyLine": 723,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DirectionalPolygonShapeSampleAndroidPreview"
     },
@@ -8295,7 +8295,7 @@
       "wireframe": "wireframes/polygonshape-morphpolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1495,
+      "bodyLine": 1503,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "MorphPolygonShapeSampleAndroidPreview"
     },
@@ -8320,7 +8320,7 @@
       "wireframe": "wireframes/polygonshape-pillstarpolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1647,
+      "bodyLine": 1655,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PillStarPolygonShapeSampleAndroidPreview"
     },
@@ -8345,7 +8345,7 @@
       "wireframe": "wireframes/polygonshape-polygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1671,
+      "bodyLine": 1679,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PolygonShapeSampleAndroidPreview"
     },
@@ -8370,7 +8370,7 @@
       "wireframe": "wireframes/polygonshape-polygonshapewithroundingfractionsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1675,
+      "bodyLine": 1683,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PolygonShapeWithRoundingFractionSampleAndroidPreview"
     },
@@ -8395,7 +8395,7 @@
       "wireframe": "wireframes/polygonshape-roundedcornershapetopolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1787,
+      "bodyLine": 1795,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "RoundedCornerShapeToPolygonShapeSampleAndroidPreview"
     },
@@ -8420,7 +8420,7 @@
       "wireframe": "wireframes/polygonshape-runtimetransformedpolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1791,
+      "bodyLine": 1799,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "RuntimeTransformedPolygonShapeSampleAndroidPreview"
     },
@@ -8445,7 +8445,7 @@
       "wireframe": "wireframes/polygonshape-scaledtofitpolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1823,
+      "bodyLine": 1831,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ScaledToFitPolygonShapeSampleAndroidPreview"
     },
@@ -8470,7 +8470,7 @@
       "wireframe": "wireframes/polygonshape-starpolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2183,
+      "bodyLine": 2191,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "StarPolygonShapeSampleAndroidPreview"
     },
@@ -8495,7 +8495,7 @@
       "wireframe": "wireframes/polygonshape-transformedpolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2375,
+      "bodyLine": 2383,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "TransformedPolygonShapeSampleAndroidPreview"
     },
@@ -8520,7 +8520,7 @@
       "wireframe": "wireframes/polygonshape-unitspacepolygonshapesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2395,
+      "bodyLine": 2403,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "UnitSpacePolygonShapeSampleAndroidPreview"
     },
@@ -8623,7 +8623,7 @@
       "wireframe": "wireframes/receivecontent-receivecontentbasicsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1731,
+      "bodyLine": 1739,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ReceiveContentBasicSampleAndroidPreview"
     },
@@ -8648,7 +8648,7 @@
       "wireframe": "wireframes/receivecontent-receivecontentfullsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1735,
+      "bodyLine": 1743,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ReceiveContentFullSampleAndroidPreview"
     },
@@ -12221,7 +12221,7 @@
       "wireframe": "wireframes/flexbox-flexalignselfbaselinesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 903,
+      "bodyLine": 907,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexAlignSelfBaselineSampleAndroidPreview"
     },
@@ -12246,7 +12246,7 @@
       "wireframe": "wireframes/flexbox-flexalignselfcustombaselinesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 907,
+      "bodyLine": 911,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexAlignSelfCustomBaselineSampleAndroidPreview"
     },
@@ -12271,7 +12271,7 @@
       "wireframe": "wireframes/flexbox-flexalignselfsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 911,
+      "bodyLine": 915,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexAlignSelfSampleAndroidPreview"
     },
@@ -12296,7 +12296,7 @@
       "wireframe": "wireframes/flexbox-flexbasisdpsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 915,
+      "bodyLine": 919,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBasisDpSampleAndroidPreview"
     },
@@ -12321,7 +12321,7 @@
       "wireframe": "wireframes/flexbox-flexbasispercentsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 919,
+      "bodyLine": 923,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBasisPercentSampleAndroidPreview"
     },
@@ -12346,7 +12346,7 @@
       "wireframe": "wireframes/flexbox-flexbasissample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 923,
+      "bodyLine": 927,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBasisSampleAndroidPreview"
     },
@@ -12371,7 +12371,7 @@
       "wireframe": "wireframes/flexbox-flexboxaligncontentsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 927,
+      "bodyLine": 931,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxAlignContentSampleAndroidPreview"
     },
@@ -12396,7 +12396,7 @@
       "wireframe": "wireframes/flexbox-flexboxalignitemsbaselinesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 931,
+      "bodyLine": 935,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxAlignItemsBaselineSampleAndroidPreview"
     },
@@ -12421,7 +12421,7 @@
       "wireframe": "wireframes/flexbox-flexboxalignitemscustombaselinesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 935,
+      "bodyLine": 939,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxAlignItemsCustomBaselineSampleAndroidPreview"
     },
@@ -12446,7 +12446,7 @@
       "wireframe": "wireframes/flexbox-flexboxalignitemssample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 939,
+      "bodyLine": 943,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxAlignItemsSampleAndroidPreview"
     },
@@ -12471,7 +12471,7 @@
       "wireframe": "wireframes/flexbox-flexboxcolumngapsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 943,
+      "bodyLine": 947,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxColumnGapSampleAndroidPreview"
     },
@@ -12496,7 +12496,7 @@
       "wireframe": "wireframes/flexbox-flexboxconfigcombinesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 947,
+      "bodyLine": 951,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxConfigCombineSampleAndroidPreview"
     },
@@ -12521,7 +12521,7 @@
       "wireframe": "wireframes/flexbox-flexboxconfigresponsivesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 951,
+      "bodyLine": 955,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxConfigResponsiveSampleAndroidPreview"
     },
@@ -12546,7 +12546,7 @@
       "wireframe": "wireframes/flexbox-flexboxconfigreusablesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 955,
+      "bodyLine": 959,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxConfigReusableSampleAndroidPreview"
     },
@@ -12571,7 +12571,7 @@
       "wireframe": "wireframes/flexbox-flexboxconstraintssample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 959,
+      "bodyLine": 963,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxConstraintsSampleAndroidPreview"
     },
@@ -12596,7 +12596,7 @@
       "wireframe": "wireframes/flexbox-flexboxdirectionsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 963,
+      "bodyLine": 967,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxDirectionSampleAndroidPreview"
     },
@@ -12621,7 +12621,7 @@
       "wireframe": "wireframes/flexbox-flexboxgapdifferentsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 967,
+      "bodyLine": 971,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxGapDifferentSampleAndroidPreview"
     },
@@ -12646,7 +12646,7 @@
       "wireframe": "wireframes/flexbox-flexboxgapsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 971,
+      "bodyLine": 975,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxGapSampleAndroidPreview"
     },
@@ -12671,7 +12671,7 @@
       "wireframe": "wireframes/flexbox-flexboxjustifycontentsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 975,
+      "bodyLine": 979,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxJustifyContentSampleAndroidPreview"
     },
@@ -12696,7 +12696,7 @@
       "wireframe": "wireframes/flexbox-flexboxmaxitemsineachlinesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 979,
+      "bodyLine": 983,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxMaxItemsInEachLineSampleAndroidPreview"
     },
@@ -12721,7 +12721,7 @@
       "wireframe": "wireframes/flexbox-flexboxrowgapsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 983,
+      "bodyLine": 987,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxRowGapSampleAndroidPreview"
     },
@@ -12746,7 +12746,7 @@
       "wireframe": "wireframes/flexbox-flexboxscopesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 987,
+      "bodyLine": 991,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxScopeSampleAndroidPreview"
     },
@@ -12771,7 +12771,7 @@
       "wireframe": "wireframes/flexbox-flexboxwrapsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 991,
+      "bodyLine": 995,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexBoxWrapSampleAndroidPreview"
     },
@@ -12796,7 +12796,7 @@
       "wireframe": "wireframes/flexbox-flexconfigcombinesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 995,
+      "bodyLine": 999,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexConfigCombineSampleAndroidPreview"
     },
@@ -12821,7 +12821,7 @@
       "wireframe": "wireframes/flexbox-flexconfigsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 999,
+      "bodyLine": 1003,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexConfigSampleAndroidPreview"
     },
@@ -12845,7 +12845,7 @@
       "caption": "`FlexConfigScopeSample` — Android only (AndroidX snapshot build 16855585).",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1003,
+      "bodyLine": 1007,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexConfigScopeSampleAndroidPreview"
     },
@@ -12870,7 +12870,7 @@
       "wireframe": "wireframes/flexbox-flexgrowsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1007,
+      "bodyLine": 1011,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexGrowSampleAndroidPreview"
     },
@@ -12895,7 +12895,7 @@
       "wireframe": "wireframes/flexbox-flexmodifierwithconfigsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1011,
+      "bodyLine": 1015,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexModifierWithConfigSampleAndroidPreview"
     },
@@ -12920,7 +12920,7 @@
       "wireframe": "wireframes/flexbox-flexmodifierwithlambdasample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1015,
+      "bodyLine": 1019,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexModifierWithLambdaSampleAndroidPreview"
     },
@@ -12945,7 +12945,7 @@
       "wireframe": "wireframes/flexbox-flexordersample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1019,
+      "bodyLine": 1023,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexOrderSampleAndroidPreview"
     },
@@ -12970,7 +12970,7 @@
       "wireframe": "wireframes/flexbox-flexshrinksample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1023,
+      "bodyLine": 1027,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FlexShrinkSampleAndroidPreview"
     },
@@ -12995,7 +12995,7 @@
       "wireframe": "wireframes/flexbox-simpleflexbox.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1987,
+      "bodyLine": 1995,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SimpleFlexBoxAndroidPreview"
     },
@@ -18068,7 +18068,7 @@
       "wireframe": "wireframes/windowinsetsconnection-windowinsetsnestedscrolldemo.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2415,
+      "bodyLine": 2423,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "windowInsetsNestedScrollDemoAndroidPreview"
     },
@@ -18180,7 +18180,7 @@
       "wireframe": "wireframes/windowinsetspadding-recalculatewindowinsetssample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1727,
+      "bodyLine": 1735,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "recalculateWindowInsetsSampleAndroidPreview"
     },
@@ -18205,7 +18205,7 @@
       "wireframe": "wireframes/windowinsetspadding-unconsumedwindowinsetswithpaddingsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2391,
+      "bodyLine": 2399,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "unconsumedWindowInsetsWithPaddingSampleAndroidPreview"
     },
@@ -18383,7 +18383,7 @@
       "wireframe": "wireframes/androidview-reusableandroidviewinlazycolumnsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1775,
+      "bodyLine": 1783,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ReusableAndroidViewInLazyColumnSampleAndroidPreview"
     },
@@ -18569,7 +18569,7 @@
       "wireframe": "wireframes/blur-imageblursample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1175,
+      "bodyLine": 1183,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ImageBlurSampleAndroidPreview"
     },
@@ -18626,7 +18626,7 @@
       "wireframe": "wireframes/dialog-dialogfromservicesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 707,
+      "bodyLine": 711,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DialogFromServiceSampleAndroidPreview"
     },
@@ -18651,7 +18651,7 @@
       "wireframe": "wireframes/dialog-dialogsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 711,
+      "bodyLine": 715,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DialogSampleAndroidPreview"
     },
@@ -18692,7 +18692,7 @@
       "wireframe": "wireframes/dialog-dialogwithblursample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 715,
+      "bodyLine": 719,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DialogWithBlurSampleAndroidPreview"
     },
@@ -20646,7 +20646,7 @@
       "wireframe": "wireframes/lighting-illuminatesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1163,
+      "bodyLine": 1171,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "IlluminateSampleAndroidPreview"
     },
@@ -20671,7 +20671,7 @@
       "wireframe": "wireframes/lighting-illuminatewithdirectionallightsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1167,
+      "bodyLine": 1175,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "IlluminateWithDirectionalLightSampleAndroidPreview"
     },
@@ -20696,7 +20696,7 @@
       "wireframe": "wireframes/lighting-illuminatewithspotlightsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1171,
+      "bodyLine": 1179,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "IlluminateWithSpotLightSampleAndroidPreview"
     },
@@ -20721,7 +20721,7 @@
       "wireframe": "wireframes/lighting-lightanchorsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1379,
+      "bodyLine": 1387,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LightAnchorSampleAndroidPreview"
     },
@@ -22194,7 +22194,7 @@
       "wireframe": "wireframes/nestedscrollinterop-viewincomposenestedscrollinteropsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2407,
+      "bodyLine": 2415,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ViewInComposeNestedScrollInteropSampleAndroidPreview"
     },
@@ -22312,7 +22312,7 @@
       "wireframe": "wireframes/painter-paintermodifiersample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1619,
+      "bodyLine": 1627,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PainterModifierSampleAndroidPreview"
     },
@@ -22337,7 +22337,7 @@
       "wireframe": "wireframes/painter-painterresourcesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1623,
+      "bodyLine": 1631,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PainterResourceSampleAndroidPreview"
     },
@@ -22361,7 +22361,7 @@
       "caption": "`PlacementScopeCoordinatesSample` — Android only (AndroidX snapshot build 16855585).",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1659,
+      "bodyLine": 1667,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PlacementScopeCoordinatesSampleAndroidPreview"
     },
@@ -22386,7 +22386,7 @@
       "wireframe": "wireframes/platformtextinputmodifiernode-interceptplatformtextinputsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1231,
+      "bodyLine": 1239,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "InterceptPlatformTextInputSampleAndroidPreview"
     },
@@ -22550,7 +22550,7 @@
       "wireframe": "wireframes/popup-popupfromservicesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1679,
+      "bodyLine": 1687,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PopupFromServiceSampleAndroidPreview"
     },
@@ -22575,7 +22575,7 @@
       "wireframe": "wireframes/popup-popupsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1683,
+      "bodyLine": 1691,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PopupSampleAndroidPreview"
     },
@@ -22600,7 +22600,7 @@
       "wireframe": "wireframes/popup-popupwithblursample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1687,
+      "bodyLine": 1695,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PopupWithBlurSampleAndroidPreview"
     },
@@ -22640,7 +22640,7 @@
       "wireframe": "wireframes/popup-popupwithpositionprovidersample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1691,
+      "bodyLine": 1699,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "PopupWithPositionProviderSampleAndroidPreview"
     },
@@ -22715,7 +22715,7 @@
       "wireframe": "wireframes/progressiveblur-multistopprogressiveblursample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1503,
+      "bodyLine": 1511,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "MultiStopProgressiveBlurSampleAndroidPreview"
     },
@@ -22740,7 +22740,7 @@
       "wireframe": "wireframes/progressiveblur-progressiveblursample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1699,
+      "bodyLine": 1707,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ProgressiveBlurSampleAndroidPreview"
     },
@@ -22765,7 +22765,7 @@
       "wireframe": "wireframes/progressiveblur-radialprogressiveblursample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1711,
+      "bodyLine": 1719,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "RadialProgressiveBlurSampleAndroidPreview"
     },
@@ -22790,7 +22790,7 @@
       "wireframe": "wireframes/progressiveblur-shaderprogressiveblursample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1899,
+      "bodyLine": 1907,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ShaderProgressiveBlurSampleAndroidPreview"
     },
@@ -22932,7 +22932,7 @@
       "wireframe": "wireframes/semanticsproperties-hinttextsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1131,
+      "bodyLine": 1139,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "HintTextSampleAndroidPreview"
     },
@@ -22990,7 +22990,7 @@
       "wireframe": "wireframes/setframerate-setframeratesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1895,
+      "bodyLine": 1903,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SetFrameRateSampleAndroidPreview"
     },
@@ -23048,7 +23048,7 @@
       "wireframe": "wireframes/setframeratecategory-setframeratecategorysample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1891,
+      "bodyLine": 1899,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SetFrameRateCategorySampleAndroidPreview"
     },
@@ -23320,7 +23320,7 @@
       "wireframe": "wireframes/soundeffect-interactionsoundsamples.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1223,
+      "bodyLine": 1231,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "InteractionSoundSamplesAndroidPreview"
     },
@@ -23345,7 +23345,7 @@
       "wireframe": "wireframes/taskdispatchers-taskdispatcherssample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2243,
+      "bodyLine": 2251,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "TaskDispatchersSampleAndroidPreview"
     },
@@ -23640,7 +23640,7 @@
       "wireframe": "wireframes/drawscope-drawscopebatchedtransformsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 771,
+      "bodyLine": 775,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DrawScopeBatchedTransformSampleAndroidPreview"
     },
@@ -23665,7 +23665,7 @@
       "wireframe": "wireframes/drawscope-drawscopeovalbrushsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 775,
+      "bodyLine": 779,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DrawScopeOvalBrushSampleAndroidPreview"
     },
@@ -23690,7 +23690,7 @@
       "wireframe": "wireframes/drawscope-drawscopeovalcolorsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 779,
+      "bodyLine": 783,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DrawScopeOvalColorSampleAndroidPreview"
     },
@@ -23715,7 +23715,7 @@
       "wireframe": "wireframes/drawscope-drawscoperetargetingsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 783,
+      "bodyLine": 787,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DrawScopeRetargetingSampleAndroidPreview"
     },
@@ -23740,7 +23740,7 @@
       "wireframe": "wireframes/drawscope-drawscopesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 787,
+      "bodyLine": 791,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DrawScopeSampleAndroidPreview"
     },
@@ -23977,7 +23977,7 @@
       "caption": "`LinkAnnotationSaverWithListenerSample` — Android only (AndroidX snapshot build 16855585).",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1395,
+      "bodyLine": 1403,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LinkAnnotationSaverWithListenerSampleAndroidPreview"
     },
@@ -24105,7 +24105,7 @@
       "wireframe": "wireframes/drawannotation-drawannotationsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 751,
+      "bodyLine": 755,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DrawAnnotationSampleAndroidPreview"
     },
@@ -24130,7 +24130,7 @@
       "wireframe": "wireframes/drawannotation-drawannotationsubclasssample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 755,
+      "bodyLine": 759,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DrawAnnotationSubclassSampleAndroidPreview"
     },
@@ -24155,7 +24155,7 @@
       "wireframe": "wireframes/drawannotation-textlayoutresultfillpathforrangesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2295,
+      "bodyLine": 2303,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "TextLayoutResultFillPathForRangeSampleAndroidPreview"
     },
@@ -24180,7 +24180,7 @@
       "wireframe": "wireframes/drawannotation-textlayoutresultgetboundingboxesforrangesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2299,
+      "bodyLine": 2307,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "TextLayoutResultGetBoundingBoxesForRangeSampleAndroidPreview"
     },
@@ -24375,6 +24375,31 @@
       "sourceFunction": "DrawTextStyledSamplePreview"
     },
     {
+      "componentId": "FontFamily/CustomFontFamilySample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/fontfamily-customfontfamilysample/ideal__default.png",
+          "state": "default",
+          "width": 174,
+          "height": 43,
+          "livePreview": "https://preview.coo.ee/compose-ui-samples/p/fontfamily-customfontfamilysample__ideal__default",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Text",
+      "group": "FontFamily",
+      "caption": "`CustomFontFamilySample` — Android only (AndroidX snapshot build 16855585).",
+      "wireframe": "wireframes/fontfamily-customfontfamilysample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
+      "sourceModule": ":catalog-android",
+      "bodyLine": 607,
+      "sourceDirectory": "catalog-android",
+      "sourceFunction": "CustomFontFamilySampleAndroidPreview"
+    },
+    {
       "componentId": "FontFamily/FontFamilyCursiveSample",
       "images": [
         {
@@ -24395,7 +24420,7 @@
       "wireframe": "wireframes/fontfamily-fontfamilycursivesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1063,
+      "bodyLine": 1067,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FontFamilyCursiveSampleAndroidPreview"
     },
@@ -24420,7 +24445,7 @@
       "wireframe": "wireframes/fontfamily-fontfamilymonospacesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1067,
+      "bodyLine": 1071,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FontFamilyMonospaceSampleAndroidPreview"
     },
@@ -24445,7 +24470,7 @@
       "wireframe": "wireframes/fontfamily-fontfamilysansserifsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1071,
+      "bodyLine": 1075,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FontFamilySansSerifSampleAndroidPreview"
     },
@@ -24470,9 +24495,34 @@
       "wireframe": "wireframes/fontfamily-fontfamilyserifsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1075,
+      "bodyLine": 1079,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FontFamilySerifSampleAndroidPreview"
+    },
+    {
+      "componentId": "FontFamily/FontFamilySynthesisSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/fontfamily-fontfamilysynthesissample/ideal__default.png",
+          "state": "default",
+          "width": 172,
+          "height": 43,
+          "livePreview": "https://preview.coo.ee/compose-ui-samples/p/fontfamily-fontfamilysynthesissample__ideal__default",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Text",
+      "group": "FontFamily",
+      "caption": "`FontFamilySynthesisSample` — Android only (AndroidX snapshot build 16855585).",
+      "wireframe": "wireframes/fontfamily-fontfamilysynthesissample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
+      "sourceModule": ":catalog-android",
+      "bodyLine": 1083,
+      "sourceDirectory": "catalog-android",
+      "sourceFunction": "FontFamilySynthesisSampleAndroidPreview"
     },
     {
       "componentId": "LineBreak/AndroidLineBreakSample",
@@ -24520,7 +24570,7 @@
       "wireframe": "wireframes/linebreak-linebreaksample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1387,
+      "bodyLine": 1395,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LineBreakSampleAndroidPreview"
     },
@@ -24545,7 +24595,7 @@
       "wireframe": "wireframes/lineheightstyle-lineheightstyleperlinesample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1391,
+      "bodyLine": 1399,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "LineHeightStylePerLineSampleAndroidPreview"
     },
@@ -25337,7 +25387,7 @@
       "wireframe": "wireframes/animatedcontent-deferredanimatedcontentsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 643,
+      "bodyLine": 647,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DeferredAnimatedContentSampleAndroidPreview"
     },
@@ -25362,7 +25412,7 @@
       "wireframe": "wireframes/animatedcontent-simpleanimatedcontentsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1947,
+      "bodyLine": 1955,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SimpleAnimatedContentSampleAndroidPreview"
     },
@@ -25386,7 +25436,7 @@
       "caption": "`SlideIntoContainerSample` — Android only (AndroidX snapshot build 16855585).",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2123,
+      "bodyLine": 2131,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SlideIntoContainerSampleAndroidPreview"
     },
@@ -25834,7 +25884,7 @@
       "wireframe": "wireframes/animatedvisibility-deferredanimatedvisibilitysample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 647,
+      "bodyLine": 651,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DeferredAnimatedVisibilitySampleAndroidPreview"
     },
@@ -25859,7 +25909,7 @@
       "wireframe": "wireframes/animatedvisibility-expandinshrinkoutsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 843,
+      "bodyLine": 847,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ExpandInShrinkOutSampleAndroidPreview"
     },
@@ -25884,7 +25934,7 @@
       "wireframe": "wireframes/animatedvisibility-expandshrinkverticallysample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 847,
+      "bodyLine": 851,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ExpandShrinkVerticallySampleAndroidPreview"
     },
@@ -25909,7 +25959,7 @@
       "wireframe": "wireframes/animatedvisibility-fadetransition.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 859,
+      "bodyLine": 863,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FadeTransitionAndroidPreview"
     },
@@ -25934,7 +25984,7 @@
       "wireframe": "wireframes/animatedvisibility-fullyloadedtransition.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1079,
+      "bodyLine": 1087,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "FullyLoadedTransitionAndroidPreview"
     },
@@ -25959,7 +26009,7 @@
       "wireframe": "wireframes/animatedvisibility-horizontaltransitionsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1147,
+      "bodyLine": 1155,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "HorizontalTransitionSampleAndroidPreview"
     },
@@ -26003,7 +26053,7 @@
       "wireframe": "wireframes/animatedvisibility-scaledenterexit.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1819,
+      "bodyLine": 1827,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ScaledEnterExitAndroidPreview"
     },
@@ -26028,7 +26078,7 @@
       "wireframe": "wireframes/animatedvisibility-slideinoutsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2119,
+      "bodyLine": 2127,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SlideInOutSampleAndroidPreview"
     },
@@ -26053,7 +26103,7 @@
       "wireframe": "wireframes/animatedvisibility-slidetransition.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2131,
+      "bodyLine": 2139,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SlideTransitionAndroidPreview"
     },
@@ -26204,7 +26254,7 @@
       "wireframe": "wireframes/enterexittransition-enterexittransitionconfigsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 839,
+      "bodyLine": 843,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "EnterExitTransitionConfigSampleAndroidPreview"
     },
@@ -26307,7 +26357,7 @@
       "wireframe": "wireframes/sharedtransition-dynamicallyenabledsharedelementinpagersample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 827,
+      "bodyLine": 831,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DynamicallyEnabledSharedElementInPagerSampleAndroidPreview"
     },
@@ -26424,7 +26474,7 @@
       "wireframe": "wireframes/sharedtransition-dynamicallyenablesharedelementssample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 831,
+      "bodyLine": 835,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DynamicallyEnableSharedElementsSampleAndroidPreview"
     },
@@ -26449,7 +26499,7 @@
       "wireframe": "wireframes/sharedtransition-listtodetailsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1403,
+      "bodyLine": 1411,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "ListToDetailSampleAndroidPreview"
     },
@@ -26539,7 +26589,7 @@
       "wireframe": "wireframes/sharedtransition-nestedsharedboundssample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1519,
+      "bodyLine": 1527,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "NestedSharedBoundsSampleAndroidPreview"
     },
@@ -26580,7 +26630,7 @@
       "wireframe": "wireframes/sharedtransition-sharedboundssample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1907,
+      "bodyLine": 1915,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SharedBoundsSampleAndroidPreview"
     },
@@ -26605,7 +26655,7 @@
       "wireframe": "wireframes/sharedtransition-sharedcontentconfigdeferredtransitionsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1911,
+      "bodyLine": 1919,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SharedContentConfigDeferredTransitionSampleAndroidPreview"
     },
@@ -26629,7 +26679,7 @@
       "caption": "`SharedContentConfigSample` — Android only (AndroidX snapshot build 16855585).",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1915,
+      "bodyLine": 1923,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SharedContentConfigSampleAndroidPreview"
     },
@@ -26680,7 +26730,7 @@
       "wireframe": "wireframes/sharedtransition-sharedelementinanimatedcontentsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1919,
+      "bodyLine": 1927,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SharedElementInAnimatedContentSampleAndroidPreview"
     },
@@ -26786,7 +26836,7 @@
       "wireframe": "wireframes/sharedtransition-sharedelementwithfabinoverlaysample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1923,
+      "bodyLine": 1931,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SharedElementWithFABInOverlaySampleAndroidPreview"
     },
@@ -26837,7 +26887,7 @@
       "wireframe": "wireframes/sharedtransition-sharedelementwithflingsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1927,
+      "bodyLine": 1935,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SharedElementWithFlingSampleAndroidPreview"
     },
@@ -26906,7 +26956,7 @@
       "wireframe": "wireframes/sharedtransition-sharedelementwithmovablecontentsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1931,
+      "bodyLine": 1939,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SharedElementWithMovableContentSampleAndroidPreview"
     },
@@ -27082,7 +27132,7 @@
       "wireframe": "wireframes/animatable-deferredtargetanimationpresentindrawsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 651,
+      "bodyLine": 655,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DeferredTargetAnimationPresentInDrawSampleAndroidPreview"
     },
@@ -27107,7 +27157,7 @@
       "wireframe": "wireframes/animatable-deferredtargetanimationsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 655,
+      "bodyLine": 659,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DeferredTargetAnimationSampleAndroidPreview"
     },
@@ -27576,7 +27626,7 @@
       "caption": "`DeferredTransitionSample` — Android only (AndroidX snapshot build 16855585).",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 659,
+      "bodyLine": 663,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DeferredTransitionSampleAndroidPreview"
     },
@@ -27600,7 +27650,7 @@
       "caption": "`DoubleTapToLikeSample` — Android only (AndroidX snapshot build 16855585).",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 727,
+      "bodyLine": 731,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "DoubleTapToLikeSampleAndroidPreview"
     },
@@ -27863,7 +27913,7 @@
       "wireframe": "wireframes/transition-animation-core-seekinganimationsample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1851,
+      "bodyLine": 1859,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SeekingAnimationSampleAndroidPreview"
     },
@@ -27912,7 +27962,7 @@
       "wireframe": "wireframes/transition-animation-core-seektosample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 1855,
+      "bodyLine": 1863,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SeekToSampleAndroidPreview"
     },
@@ -27969,7 +28019,7 @@
       "wireframe": "wireframes/transition-animation-core-snaptosample.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
       "sourceModule": ":catalog-android",
-      "bodyLine": 2147,
+      "bodyLine": 2155,
       "sourceDirectory": "catalog-android",
       "sourceFunction": "SnapToSampleAndroidPreview"
     },
@@ -35231,8 +35281,8 @@
     "org.jetbrains.compose.material:material",
     "androidx.compose.material:material"
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-11-06T21:15:31.155Z",
+  "renderer": "compose-preview 2.86.0",
+  "generatedAt": "2026-11-06T23:15:40.907Z",
   "display": {
     "role": "samples"
   },

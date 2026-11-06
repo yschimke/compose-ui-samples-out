@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-06T21:15:51.038Z",
+  "generatedAt": "2026-11-06T23:24:38.050Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ui-samples",
     "ref": "main",
     "events": [
+      {
+        "sha": "4706c2a6861879fbc61bb7fdb9c5c43adc50a5ed",
+        "subject": "feat: publish the custom-font Android samples, on compose-ai-tools 2.87.0 (#4)",
+        "at": "2026-11-06T22:17:05Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "512aec1b64c75149d76424a85191a8b96661cd31",
         "subject": "feat: publish a live bundle, and seed the random samples on Android too (#3)",

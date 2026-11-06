@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-11-06T21:15:34.690Z",
+  "generatedAt": "2026-11-06T23:15:44.136Z",
   "mappings": [
     {
       "componentId": "AnchoredDraggable/AnchoredDraggableDynamicAnchorsSample",
@@ -4195,6 +4195,16 @@
       "figmaSvg": "figma/drawtext-drawtextstyledsample.svg"
     },
     {
+      "componentId": "FontFamily/CustomFontFamilySample",
+      "figmaLayerName": "FontFamily/CustomFontFamilySample",
+      "componentName": "CustomFontFamilySampleAndroidPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CustomFontFamilySampleAndroidPreview",
+      "figmaSvg": "figma/fontfamily-customfontfamilysample.svg"
+    },
+    {
       "componentId": "FontFamily/FontFamilyCursiveSample",
       "figmaLayerName": "FontFamily/FontFamilyCursiveSample",
       "componentName": "FontFamilyCursiveSampleAndroidPreview",
@@ -4233,6 +4243,16 @@
       "confidence": "preview-fallback",
       "previewName": "FontFamilySerifSampleAndroidPreview",
       "figmaSvg": "figma/fontfamily-fontfamilyserifsample.svg"
+    },
+    {
+      "componentId": "FontFamily/FontFamilySynthesisSample",
+      "figmaLayerName": "FontFamily/FontFamilySynthesisSample",
+      "componentName": "FontFamilySynthesisSampleAndroidPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FontFamilySynthesisSampleAndroidPreview",
+      "figmaSvg": "figma/fontfamily-fontfamilysynthesissample.svg"
     },
     {
       "componentId": "LineBreak/AndroidLineBreakSample",

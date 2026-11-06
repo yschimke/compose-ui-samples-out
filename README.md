@@ -38,13 +38,13 @@ customising the live render are two ends of one workflow.
 
 | | |
 | --- | --- |
-| Components | **608** |
-| Rendered images (PNG) | **1027** |
-| Editable wireframes (SVG) | **524** |
-| Editable design vectors (figma-svg) | **592** |
+| Components | **610** |
+| Rendered images (PNG) | **1029** |
+| Editable wireframes (SVG) | **526** |
+| Editable design vectors (figma-svg) | **594** |
 | Components with a11y greenlines | **97** |
 | Library | `org.jetbrains.compose.foundation:foundation`<br>`androidx.compose.foundation:foundation`<br>`org.jetbrains.compose.foundation:foundation-layout`<br>`androidx.compose.foundation:foundation-layout`<br>`org.jetbrains.compose.ui:ui`<br>`androidx.compose.ui:ui`<br>`org.jetbrains.compose.ui:ui-graphics`<br>`androidx.compose.ui:ui-graphics`<br>`org.jetbrains.compose.ui:ui-text`<br>`androidx.compose.ui:ui-text`<br>`org.jetbrains.compose.ui:ui-unit`<br>`androidx.compose.ui:ui-unit`<br>`org.jetbrains.compose.animation:animation`<br>`androidx.compose.animation:animation`<br>`org.jetbrains.compose.animation:animation-core`<br>`androidx.compose.animation:animation-core`<br>`org.jetbrains.compose.animation:animation-graphics`<br>`androidx.compose.animation:animation-graphics`<br>`org.jetbrains.compose.runtime:runtime`<br>`androidx.compose.runtime:runtime`<br>`org.jetbrains.compose.runtime:runtime-saveable`<br>`androidx.compose.runtime:runtime-saveable`<br>`org.jetbrains.compose.material:material`<br>`androidx.compose.material:material` |
-| Renderer | compose-preview 2.74.1 |
+| Renderer | compose-preview 2.86.0 |
 | Schema | `design-parity-catalog/v1` |
 | Generated | 2026-11-06 |
 
@@ -73,6 +73,7 @@ customising the live render are two ends of one workflow.
 | AnnotatedStringBuilder | 7 |
 | Chip | 7 |
 | ProgressiveBlur | 6 |
+| FontFamily | 6 |
 | RememberSaveable | 6 |
 | TransformGesture | 5 |
 | LayoutPadding | 5 |
@@ -101,7 +102,6 @@ customising the live render are two ends of one workflow.
 | Popup | 4 |
 | WindowInsetsRulers | 4 |
 | DrawAnnotation | 4 |
-| FontFamily | 4 |
 | TextOverflow | 4 |
 | AnimatedValue (Animation Core) | 4 |
 | Effect | 4 |
