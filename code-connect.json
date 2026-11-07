@@ -7,8 +7,28 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-11-07T11:54:40.490Z",
+  "generatedAt": "2026-11-07T12:25:55.672Z",
   "mappings": [
+    {
+      "componentId": "AnchoredDraggable/AnchoredDraggableAnchorsFromCompositionSample",
+      "figmaLayerName": "AnchoredDraggable/AnchoredDraggableAnchorsFromCompositionSample",
+      "componentName": "AnchoredDraggableAnchorsFromCompositionSample",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/upstream/androidx/compose/foundation/samples/AnchoredDraggableSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AnchoredDraggableAnchorsFromCompositionSample",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/anchoreddraggable-anchoreddraggableanchorsfromcompositionsample__ideal__default.svg"
+    },
+    {
+      "componentId": "AnchoredDraggable/AnchoredDraggableCustomAnchoredSample",
+      "figmaLayerName": "AnchoredDraggable/AnchoredDraggableCustomAnchoredSample",
+      "componentName": "AnchoredDraggableCustomAnchoredSample",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/upstream/androidx/compose/foundation/samples/AnchoredDraggableSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AnchoredDraggableCustomAnchoredSample",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/anchoreddraggable-anchoreddraggablecustomanchoredsample__ideal__default.svg"
+    },
     {
       "componentId": "AnchoredDraggable/AnchoredDraggableDynamicAnchorsSample",
       "figmaLayerName": "AnchoredDraggable/AnchoredDraggableDynamicAnchorsSample",
@@ -18,6 +38,56 @@
       "confidence": "preview-fallback",
       "previewName": "AnchoredDraggableDynamicAnchorsSamplePreview",
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/anchoreddraggable-anchoreddraggabledynamicanchorssample__ideal__default.svg"
+    },
+    {
+      "componentId": "AnchoredDraggable/AnchoredDraggableLayoutDependentAnchorsSample",
+      "figmaLayerName": "AnchoredDraggable/AnchoredDraggableLayoutDependentAnchorsSample",
+      "componentName": "AnchoredDraggableLayoutDependentAnchorsSample",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/upstream/androidx/compose/foundation/samples/AnchoredDraggableSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AnchoredDraggableLayoutDependentAnchorsSample",
+      "figmaSvg": "figma/anchoreddraggable-anchoreddraggablelayoutdependentanchorssample.svg"
+    },
+    {
+      "componentId": "AnchoredDraggable/AnchoredDraggableProgrammaticFlingSample",
+      "figmaLayerName": "AnchoredDraggable/AnchoredDraggableProgrammaticFlingSample",
+      "componentName": "AnchoredDraggableProgrammaticFlingSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AnchoredDraggableProgrammaticFlingSamplePreview",
+      "figmaSvg": "figma/anchoreddraggable-anchoreddraggableprogrammaticflingsample.svg"
+    },
+    {
+      "componentId": "AnchoredDraggable/AnchoredDraggableProgressSample",
+      "figmaLayerName": "AnchoredDraggable/AnchoredDraggableProgressSample",
+      "componentName": "AnchoredDraggableProgressSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AnchoredDraggableProgressSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/anchoreddraggable-anchoreddraggableprogresssample__ideal__default.svg"
+    },
+    {
+      "componentId": "AnchoredDraggable/AnchoredDraggableWithOverscrollSample",
+      "figmaLayerName": "AnchoredDraggable/AnchoredDraggableWithOverscrollSample",
+      "componentName": "AnchoredDraggableWithOverscrollSample",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/upstream/androidx/compose/foundation/samples/AnchoredDraggableSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AnchoredDraggableWithOverscrollSample",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/anchoreddraggable-anchoreddraggablewithoverscrollsample__ideal__default.svg"
+    },
+    {
+      "componentId": "AnchoredDraggable/DraggableAnchorsSample",
+      "figmaLayerName": "AnchoredDraggable/DraggableAnchorsSample",
+      "componentName": "DraggableAnchorsSample",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/upstream/androidx/compose/foundation/samples/AnchoredDraggableSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DraggableAnchorsSample",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/anchoreddraggable-draggableanchorssample__ideal__default.svg"
     },
     {
       "componentId": "AndroidExternalSurface/AndroidEmbeddedExternalSurfaceColors",
@@ -418,6 +488,16 @@
       "confidence": "preview-fallback",
       "previewName": "FilterProcessTextItemsInTextContextMenuAndroidPreview",
       "figmaSvg": "figma/contextmenu-filterprocesstextitemsintextcontextmenu.svg"
+    },
+    {
+      "componentId": "CustomTouchSlop/CustomTouchSlopSample",
+      "figmaLayerName": "CustomTouchSlop/CustomTouchSlopSample",
+      "componentName": "CustomTouchSlopSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CustomTouchSlopSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/customtouchslop-customtouchslopsample__ideal__default.svg"
     },
     {
       "componentId": "DarkTheme/DarkThemeSample",
@@ -1589,6 +1669,16 @@
       "figmaSvg": "figma/style-styleanimationsample.svg"
     },
     {
+      "componentId": "Style/StyleForegroundBackgroundSample",
+      "figmaLayerName": "Style/StyleForegroundBackgroundSample",
+      "componentName": "StyleForegroundBackgroundSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "StyleForegroundBackgroundSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/style-styleforegroundbackgroundsample__ideal__default.svg"
+    },
+    {
       "componentId": "Style/StyleStateKeySample",
       "figmaLayerName": "Style/StyleStateKeySample",
       "componentName": "StyleStateKeySamplePreview",
@@ -1607,6 +1697,16 @@
       "confidence": "preview-fallback",
       "previewName": "StyleStateSamplePreview",
       "figmaSvg": "figma/style-stylestatesample.svg"
+    },
+    {
+      "componentId": "Style/TextStyleTextMotionSample",
+      "figmaLayerName": "Style/TextStyleTextMotionSample",
+      "componentName": "TextStyleTextMotionSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TextStyleTextMotionSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/style-textstyletextmotionsample__ideal__default.svg"
     },
     {
       "componentId": "TapGesture/AwaitLongPressOrCancellationSample",
@@ -2198,6 +2298,16 @@
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowcolumn-simpleflowcolumnmaxlineswithseemore__ideal__default.svg"
     },
     {
+      "componentId": "FlowColumn/SimpleFlowColumnWithMaxWidth",
+      "figmaLayerName": "FlowColumn/SimpleFlowColumnWithMaxWidth",
+      "componentName": "SimpleFlowColumnWithMaxWidthPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleFlowColumnWithMaxWidthPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowcolumn-simpleflowcolumnwithmaxwidth__ideal__default.svg"
+    },
+    {
       "componentId": "FlowRow/SimpleFlowRow",
       "figmaLayerName": "FlowRow/SimpleFlowRow",
       "componentName": "SimpleFlowRowPreview",
@@ -2236,6 +2346,16 @@
       "confidence": "preview-fallback",
       "previewName": "SimpleFlowRowMaxLinesWithSeeMorePreview",
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowrow-simpleflowrowmaxlineswithseemore__ideal__default.svg"
+    },
+    {
+      "componentId": "FlowRow/SimpleFlowRowWithMaxHeight",
+      "figmaLayerName": "FlowRow/SimpleFlowRowWithMaxHeight",
+      "componentName": "SimpleFlowRowWithMaxHeightPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleFlowRowWithMaxHeightPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/flowrow-simpleflowrowwithmaxheight__ideal__default.svg"
     },
     {
       "componentId": "Grid/GridConfigurationDslSample",
@@ -5314,6 +5434,16 @@
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bottomnavigation-bottomnavigationsample__ideal__default.svg"
     },
     {
+      "componentId": "BottomNavigation/BottomNavigationWithOnlySelectedLabelsSample",
+      "figmaLayerName": "BottomNavigation/BottomNavigationWithOnlySelectedLabelsSample",
+      "componentName": "BottomNavigationWithOnlySelectedLabelsSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "BottomNavigationWithOnlySelectedLabelsSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bottomnavigation-bottomnavigationwithonlyselectedlabelssample__ideal__default.svg"
+    },
+    {
       "componentId": "BottomSheetScaffold/BottomSheetScaffoldSample",
       "figmaLayerName": "BottomSheetScaffold/BottomSheetScaffoldSample",
       "componentName": "BottomSheetScaffoldSamplePreview",
@@ -5322,6 +5452,16 @@
       "confidence": "preview-fallback",
       "previewName": "BottomSheetScaffoldSamplePreview",
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bottomsheetscaffold-bottomsheetscaffoldsample__ideal__default.svg"
+    },
+    {
+      "componentId": "BottomSheetScaffold/BottomSheetScaffoldWithDrawerSample",
+      "figmaLayerName": "BottomSheetScaffold/BottomSheetScaffoldWithDrawerSample",
+      "componentName": "BottomSheetScaffoldWithDrawerSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "BottomSheetScaffoldWithDrawerSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/bottomsheetscaffold-bottomsheetscaffoldwithdrawersample__ideal__default.svg"
     },
     {
       "componentId": "Button/ButtonSample",
@@ -5524,6 +5664,16 @@
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/floatingactionbutton-fluidextendedfab__ideal__default.svg"
     },
     {
+      "componentId": "FloatingActionButton/SimpleExtendedFabNoIcon",
+      "figmaLayerName": "FloatingActionButton/SimpleExtendedFabNoIcon",
+      "componentName": "SimpleExtendedFabNoIconPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleExtendedFabNoIconPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/floatingactionbutton-simpleextendedfabnoicon__ideal__default.svg"
+    },
+    {
       "componentId": "FloatingActionButton/SimpleExtendedFabWithIcon",
       "figmaLayerName": "FloatingActionButton/SimpleExtendedFabWithIcon",
       "componentName": "SimpleExtendedFabWithIconPreview",
@@ -5584,6 +5734,16 @@
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-onelinelistitems__ideal__default.svg"
     },
     {
+      "componentId": "List/OneLineRtlLtrListItems",
+      "figmaLayerName": "List/OneLineRtlLtrListItems",
+      "componentName": "OneLineRtlLtrListItemsPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OneLineRtlLtrListItemsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-onelinertlltrlistitems__ideal__default.svg"
+    },
+    {
       "componentId": "List/ThreeLineListItems",
       "figmaLayerName": "List/ThreeLineListItems",
       "componentName": "ThreeLineListItemsPreview",
@@ -5594,6 +5754,16 @@
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-threelinelistitems__ideal__default.svg"
     },
     {
+      "componentId": "List/ThreeLineRtlLtrListItems",
+      "figmaLayerName": "List/ThreeLineRtlLtrListItems",
+      "componentName": "ThreeLineRtlLtrListItemsPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ThreeLineRtlLtrListItemsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-threelinertlltrlistitems__ideal__default.svg"
+    },
+    {
       "componentId": "List/TwoLineListItems",
       "figmaLayerName": "List/TwoLineListItems",
       "componentName": "TwoLineListItemsPreview",
@@ -5602,6 +5772,16 @@
       "confidence": "preview-fallback",
       "previewName": "TwoLineListItemsPreview",
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-twolinelistitems__ideal__default.svg"
+    },
+    {
+      "componentId": "List/TwoLineRtlLtrListItems",
+      "figmaLayerName": "List/TwoLineRtlLtrListItems",
+      "componentName": "TwoLineRtlLtrListItemsPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TwoLineRtlLtrListItemsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/list-twolinertlltrlistitems__ideal__default.svg"
     },
     {
       "componentId": "Menu/MenuSample",
@@ -5634,6 +5814,26 @@
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/modalbottomsheet-modalbottomsheetsample__ideal__default.svg"
     },
     {
+      "componentId": "NavigationRail/CompactNavigationRailSample",
+      "figmaLayerName": "NavigationRail/CompactNavigationRailSample",
+      "componentName": "CompactNavigationRailSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CompactNavigationRailSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/navigationrail-compactnavigationrailsample__ideal__default.svg"
+    },
+    {
+      "componentId": "NavigationRail/NavigationRailBottomAlignSample",
+      "figmaLayerName": "NavigationRail/NavigationRailBottomAlignSample",
+      "componentName": "NavigationRailBottomAlignSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "NavigationRailBottomAlignSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/navigationrail-navigationrailbottomalignsample__ideal__default.svg"
+    },
+    {
       "componentId": "NavigationRail/NavigationRailSample",
       "figmaLayerName": "NavigationRail/NavigationRailSample",
       "componentName": "NavigationRailSamplePreview",
@@ -5642,6 +5842,16 @@
       "confidence": "preview-fallback",
       "previewName": "NavigationRailSamplePreview",
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/navigationrail-navigationrailsample__ideal__default.svg"
+    },
+    {
+      "componentId": "NavigationRail/NavigationRailWithOnlySelectedLabelsSample",
+      "figmaLayerName": "NavigationRail/NavigationRailWithOnlySelectedLabelsSample",
+      "componentName": "NavigationRailWithOnlySelectedLabelsSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "NavigationRailWithOnlySelectedLabelsSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/navigationrail-navigationrailwithonlyselectedlabelssample__ideal__default.svg"
     },
     {
       "componentId": "ProgressIndicator/CircularProgressIndicatorSample",
@@ -5752,6 +5962,16 @@
       "confidence": "preview-fallback",
       "previewName": "CheckboxSamplePreview",
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-checkboxsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SelectionControls/FocusedCheckboxSample",
+      "figmaLayerName": "SelectionControls/FocusedCheckboxSample",
+      "componentName": "FocusedCheckboxSamplePreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FocusedCheckboxSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/selectioncontrols-focusedcheckboxsample__ideal__default.svg"
     },
     {
       "componentId": "SelectionControls/RadioButtonSample",
@@ -5924,6 +6144,56 @@
       "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-fancytabs__ideal__default.svg"
     },
     {
+      "componentId": "Tab/IconTabs",
+      "figmaLayerName": "Tab/IconTabs",
+      "componentName": "IconTabsPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IconTabsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-icontabs__ideal__default.svg"
+    },
+    {
+      "componentId": "Tab/LeadingIconTabs",
+      "figmaLayerName": "Tab/LeadingIconTabs",
+      "componentName": "LeadingIconTabsPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LeadingIconTabsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-leadingicontabs__ideal__default.svg"
+    },
+    {
+      "componentId": "Tab/ScrollingFancyIndicatorContainerTabs",
+      "figmaLayerName": "Tab/ScrollingFancyIndicatorContainerTabs",
+      "componentName": "ScrollingFancyIndicatorContainerTabsPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScrollingFancyIndicatorContainerTabsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-scrollingfancyindicatorcontainertabs__ideal__default.svg"
+    },
+    {
+      "componentId": "Tab/ScrollingTextTabs",
+      "figmaLayerName": "Tab/ScrollingTextTabs",
+      "componentName": "ScrollingTextTabsPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScrollingTextTabsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-scrollingtexttabs__ideal__default.svg"
+    },
+    {
+      "componentId": "Tab/TextAndIconTabs",
+      "figmaLayerName": "Tab/TextAndIconTabs",
+      "componentName": "TextAndIconTabsPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TextAndIconTabsPreview",
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/tab-textandicontabs__ideal__default.svg"
+    },
+    {
       "componentId": "Tab/TextTabs",
       "figmaLayerName": "Tab/TextTabs",
       "componentName": "TextTabsPreview",
@@ -6002,6 +6272,16 @@
       "confidence": "preview-fallback",
       "previewName": "SimpleTextFieldSamplePreview",
       "figmaSvg": "figma/textfield-simpletextfieldsample.svg"
+    },
+    {
+      "componentId": "TextField/TextArea",
+      "figmaLayerName": "TextField/TextArea",
+      "componentName": "TextAreaPreview",
+      "source": "https://github.com/yschimke/compose-ui-samples/blob/main/catalog/src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TextAreaPreview",
+      "figmaSvg": "figma/textfield-textarea.svg"
     },
     {
       "componentId": "TextField/TextFieldWithErrorState",

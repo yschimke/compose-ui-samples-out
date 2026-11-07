@@ -38,11 +38,11 @@ customising the live render are two ends of one workflow.
 
 | | |
 | --- | --- |
-| Components | **610** |
-| Rendered images (PNG) | **1029** |
-| Editable wireframes (SVG) | **539** |
-| Editable design vectors (figma-svg) | **594** |
-| Components with a11y greenlines | **97** |
+| Components | **638** |
+| Rendered images (PNG) | **1085** |
+| Editable wireframes (SVG) | **567** |
+| Editable design vectors (figma-svg) | **622** |
+| Components with a11y greenlines | **111** |
 | Library | `org.jetbrains.compose.foundation:foundation`<br>`androidx.compose.foundation:foundation`<br>`org.jetbrains.compose.foundation:foundation-layout`<br>`androidx.compose.foundation:foundation-layout`<br>`org.jetbrains.compose.ui:ui`<br>`androidx.compose.ui:ui`<br>`org.jetbrains.compose.ui:ui-graphics`<br>`androidx.compose.ui:ui-graphics`<br>`org.jetbrains.compose.ui:ui-text`<br>`androidx.compose.ui:ui-text`<br>`org.jetbrains.compose.ui:ui-unit`<br>`androidx.compose.ui:ui-unit`<br>`org.jetbrains.compose.animation:animation`<br>`androidx.compose.animation:animation`<br>`org.jetbrains.compose.animation:animation-core`<br>`androidx.compose.animation:animation-core`<br>`org.jetbrains.compose.animation:animation-graphics`<br>`androidx.compose.animation:animation-graphics`<br>`org.jetbrains.compose.runtime:runtime`<br>`androidx.compose.runtime:runtime`<br>`org.jetbrains.compose.runtime:runtime-saveable`<br>`androidx.compose.runtime:runtime-saveable`<br>`org.jetbrains.compose.material:material`<br>`androidx.compose.material:material` |
 | Renderer | compose-preview 2.86.0 |
 | Schema | `design-parity-catalog/v1` |
@@ -58,40 +58,43 @@ customising the live render are two ends of one workflow.
 | SizeModifier | 17 |
 | Focus | 14 |
 | Modifier | 14 |
+| TextField | 13 |
 | PolygonShape | 12 |
-| TextField | 12 |
 | SharedTransition | 11 |
 | DragGestureDetector | 10 |
 | LazyDsl | 10 |
 | Pager | 10 |
 | LazyGrid | 9 |
 | Grid | 9 |
+| Tab | 9 |
+| AnchoredDraggable | 8 |
 | FocusAwareInput | 8 |
 | Transition (Animation Core) | 8 |
 | LazyStaggeredGrid | 7 |
 | Selection | 7 |
 | AnnotatedStringBuilder | 7 |
 | Chip | 7 |
+| List | 7 |
+| Style | 6 |
 | ProgressiveBlur | 6 |
 | FontFamily | 6 |
 | RememberSaveable | 6 |
+| SelectionControls | 6 |
 | TransformGesture | 5 |
+| FlowColumn | 5 |
+| FlowRow | 5 |
 | LayoutPadding | 5 |
 | DrawScope | 5 |
 | DrawText | 5 |
 | AnimatedContent | 5 |
 | Scaffold | 5 |
-| SelectionControls | 5 |
 | Border | 4 |
 | ContextMenu | 4 |
 | KeyboardForm | 4 |
 | KeyboardType | 4 |
 | LazyLayout | 4 |
 | Overscroll | 4 |
-| Style | 4 |
 | Column | 4 |
-| FlowColumn | 4 |
-| FlowRow | 4 |
 | Intrinsic | 4 |
 | LayoutOffset | 4 |
 | AndroidView | 4 |
@@ -106,10 +109,10 @@ customising the live render are two ends of one workflow.
 | AnimatedValue (Animation Core) | 4 |
 | Effect | 4 |
 | Button | 4 |
-| List | 4 |
+| FloatingActionButton | 4 |
+| NavigationRail | 4 |
 | Slider | 4 |
 | Surface | 4 |
-| Tab | 4 |
 | BasicMarquee | 3 |
 | Focusable | 3 |
 | Image | 3 |
@@ -129,7 +132,6 @@ customising the live render are two ends of one workflow.
 | Animatable | 3 |
 | Key | 3 |
 | Saver | 3 |
-| FloatingActionButton | 3 |
 | PullRefresh | 3 |
 | Theme | 3 |
 | AndroidExternalSurface | 2 |
@@ -162,17 +164,19 @@ customising the live render are two ends of one workflow.
 | InfiniteTransition | 2 |
 | AlertDialog | 2 |
 | AppBar | 2 |
+| BottomNavigation | 2 |
+| BottomSheetScaffold | 2 |
 | Card | 2 |
 | Drawer | 2 |
 | ExposedDropdownMenu | 2 |
 | IconButton | 2 |
 | Menu | 2 |
 | ProgressIndicator | 2 |
-| AnchoredDraggable | 1 |
 | BackgroundTextMeasurement | 1 |
 | BasicTextFieldValue | 1 |
 | Clickable | 1 |
 | ClickableText | 1 |
+| CustomTouchSlop | 1 |
 | DarkTheme | 1 |
 | Draggable | 1 |
 | Draggable2D | 1 |
@@ -224,12 +228,9 @@ customising the live render are two ends of one workflow.
 | SaveableStateHolder | 1 |
 | BackdropScaffold | 1 |
 | Badge | 1 |
-| BottomNavigation | 1 |
-| BottomSheetScaffold | 1 |
 | ContentAlpha | 1 |
 | Elevation | 1 |
 | ModalBottomSheet | 1 |
-| NavigationRail | 1 |
 | Swipeable | 1 |
 | SwipeToDismiss | 1 |
 | Text | 1 |

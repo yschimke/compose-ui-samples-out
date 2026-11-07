@@ -492,6 +492,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithBottomBarAndCutoutPreview",
                     "componentId": null,
                     "group": null
@@ -1466,26 +1471,13 @@
                 "callable": "androidx.compose.material.BottomNavigation",
                 "name": "BottomNavigation",
                 "origin": "LIBRARY",
-                "jvmName": null,
-                "descriptor": null,
+                "jvmName": "BottomNavigation-PEIptTM",
+                "descriptor": "(Landroidx/compose/ui/Modifier;JJFLkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
-                {
-                    "name": "windowInsets",
-                    "type": "WindowInsets",
-                    "typeFqn": "androidx.compose.foundation.layout.WindowInsets",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
                 {
                     "name": "modifier",
                     "type": "Modifier",
@@ -1569,12 +1561,19 @@
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationSamplePreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationWithOnlySelectedLabelsSamplePreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
-                "call": null,
-                "imports": [],
-                "refusedReason": "overloads collided under this canonical id, so no single call site identifies one",
+                "call": "BottomNavigation(content = {})",
+                "imports": [
+                    "androidx.compose.material.BottomNavigation"
+                ],
+                "refusedReason": null,
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -1582,11 +1581,82 @@
             "callableFromAnotherFile": true,
             "hasTypeParameters": false,
             "hasContextReceivers": false,
-            "overloadsCollided": true,
+            "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
             "androidxOptIns": [],
-            "overloads": []
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/ui/Modifier;JJFLkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "backgroundColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "elevation",
+                            "type": "Dp",
+                            "typeFqn": "androidx.compose.ui.unit.Dp",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "RowScope.() -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "canonicalId": "catalog/androidx.compose.material.BottomNavigationKt.BottomNavigationItem",
@@ -1754,6 +1824,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationWithOnlySelectedLabelsSamplePreview",
                     "componentId": null,
                     "group": null
                 }
@@ -2167,6 +2242,11 @@
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldSamplePreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
@@ -2563,6 +2643,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -3702,6 +3787,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ClickableListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusedCheckboxSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -5043,12 +5133,27 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineListItemsPreview",
                     "componentId": null,
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineRtlLtrListItemsPreview",
                     "componentId": null,
                     "group": null
                 }
@@ -5609,6 +5714,11 @@
                 }
             ],
             "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModalDrawerSamplePreview",
                     "componentId": null,
@@ -6241,6 +6351,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleExtendedFabNoIconPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleExtendedFabWithIconPreview",
                     "componentId": null,
                     "group": null
@@ -6527,6 +6642,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFabPreview",
                     "componentId": null,
                     "group": null
@@ -6752,6 +6872,11 @@
             "bindings": [
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BackdropScaffoldSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -7203,12 +7328,27 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationWithOnlySelectedLabelsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldSamplePreview",
                     "componentId": null,
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ButtonWithIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CompactNavigationRailSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -7233,7 +7373,17 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconToggleButtonSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LeadingIconTabsPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -7253,12 +7403,27 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailBottomAlignSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailSamplePreview",
                     "componentId": null,
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailWithOnlySelectedLabelsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineRtlLtrListItemsPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -7308,6 +7473,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAndIconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextFieldWithIconsPreview",
                     "componentId": null,
                     "group": null
@@ -7318,7 +7488,17 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineRtlLtrListItemsPreview",
                     "componentId": null,
                     "group": null
                 }
@@ -7678,6 +7858,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PullRefreshIndicatorTransformSamplePreview",
                     "componentId": null,
                     "group": null
@@ -7693,7 +7878,17 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineRtlLtrListItemsPreview",
                     "componentId": null,
                     "group": null
                 }
@@ -8388,26 +8583,13 @@
                 "callable": "androidx.compose.material.NavigationRail",
                 "name": "NavigationRail",
                 "origin": "LIBRARY",
-                "jvmName": "NavigationRail-afqeVBk",
-                "descriptor": "(Landroidx/compose/foundation/layout/WindowInsets;Landroidx/compose/ui/Modifier;JJFLkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                "jvmName": "NavigationRail-HsRjFd4",
+                "descriptor": "(Landroidx/compose/ui/Modifier;JJFLkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
-                {
-                    "name": "windowInsets",
-                    "type": "WindowInsets",
-                    "typeFqn": "androidx.compose.foundation.layout.WindowInsets",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
                 {
                     "name": "modifier",
                     "type": "Modifier",
@@ -8501,15 +8683,32 @@
             ],
             "bindings": [
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CompactNavigationRailSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailBottomAlignSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailWithOnlySelectedLabelsSamplePreview",
                     "componentId": null,
                     "group": null
                 }
             ],
             "code": {
-                "call": null,
-                "imports": [],
-                "refusedReason": "no placeholder can be written for required parameter `windowInsets: WindowInsets`",
+                "call": "NavigationRail(content = {})",
+                "imports": [
+                    "androidx.compose.material.NavigationRail"
+                ],
+                "refusedReason": null,
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -8523,21 +8722,8 @@
             "androidxOptIns": [],
             "overloads": [
                 {
-                    "descriptor": "(Landroidx/compose/foundation/layout/WindowInsets;Landroidx/compose/ui/Modifier;JJFLkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                    "descriptor": "(Landroidx/compose/ui/Modifier;JJFLkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
                     "parameters": [
-                        {
-                            "name": "windowInsets",
-                            "type": "WindowInsets",
-                            "typeFqn": "androidx.compose.foundation.layout.WindowInsets",
-                            "hasDefault": false,
-                            "composableSlot": false,
-                            "composableSlotReceiver": null,
-                            "nullable": false,
-                            "noArgConstructible": false,
-                            "noArgFactory": null,
-                            "scopeDslReceiver": null,
-                            "lambdaReturnTypeFqn": null
-                        },
                         {
                             "name": "modifier",
                             "type": "Modifier",
@@ -8780,7 +8966,22 @@
             ],
             "bindings": [
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CompactNavigationRailSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailBottomAlignSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailWithOnlySelectedLabelsSamplePreview",
                     "componentId": null,
                     "group": null
                 }
@@ -13301,12 +13502,27 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusedCheckboxSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconButtonSamplePreview",
                     "componentId": null,
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconToggleButtonSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LeadingIconTabsPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -13322,6 +13538,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MenuWithScrollStateSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineRtlLtrListItemsPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -13367,6 +13588,16 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RangeSliderSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingFancyIndicatorContainerTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingTextTabsPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -13422,6 +13653,16 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SwitchSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAndIconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAreaPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -13486,6 +13727,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ToggleableSamplePreview",
                     "componentId": null,
                     "group": null
@@ -13502,6 +13748,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TriStateToggleableSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineRtlLtrListItemsPreview",
                     "componentId": null,
                     "group": null
                 }
@@ -14037,6 +14288,300 @@
             ]
         },
         {
+            "canonicalId": "catalog/androidx.compose.material.TabKt.LeadingIconTab",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.TabKt",
+                "callable": "androidx.compose.material.LeadingIconTab",
+                "name": "LeadingIconTab",
+                "origin": "LIBRARY",
+                "jvmName": "LeadingIconTab-0nD-MI0",
+                "descriptor": "(ZLkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;ZLandroidx/compose/foundation/interaction/MutableInteractionSource;JJLandroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "selected",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "text",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "icon",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "enabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "selectedContentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "unselectedContentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [
+                {
+                    "name": "text",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "icon",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LeadingIconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "LeadingIconTab(selected = false, onClick = {}, text = {}, icon = {})",
+                "imports": [
+                    "androidx.compose.material.LeadingIconTab"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(ZLkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;ZLandroidx/compose/foundation/interaction/MutableInteractionSource;JJLandroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "selected",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onClick",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "text",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "icon",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "enabled",
+                            "type": "Boolean",
+                            "typeFqn": "kotlin.Boolean",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "interactionSource",
+                            "type": "MutableInteractionSource?",
+                            "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "selectedContentColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "unselectedContentColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "canonicalId": "catalog/androidx.compose.material.TabKt.Tab",
             "componentIds": [],
             "symbol": {
@@ -14198,6 +14743,26 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingFancyIndicatorContainerTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingTextTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAndIconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextTabsPreview",
                     "componentId": null,
                     "group": null
@@ -14346,6 +14911,284 @@
             ]
         },
         {
+            "canonicalId": "catalog/androidx.compose.material.TabRowKt.ScrollableTabRow",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.TabRowKt",
+                "callable": "androidx.compose.material.ScrollableTabRow",
+                "name": "ScrollableTabRow",
+                "origin": "LIBRARY",
+                "jvmName": "ScrollableTabRow-sKfQg0A",
+                "descriptor": "(ILandroidx/compose/ui/Modifier;JJFLkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "selectedTabIndex",
+                    "type": "Int",
+                    "typeFqn": "kotlin.Int",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "backgroundColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "edgePadding",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "indicator",
+                    "type": "(List<TabPosition>) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "divider",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "tabs",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "indicator",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "divider",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "tabs",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingFancyIndicatorContainerTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingTextTabsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ScrollableTabRow(selectedTabIndex = 0, tabs = {})",
+                "imports": [
+                    "androidx.compose.material.ScrollableTabRow"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(ILandroidx/compose/ui/Modifier;JJFLkotlin/jvm/functions/Function3;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "selectedTabIndex",
+                            "type": "Int",
+                            "typeFqn": "kotlin.Int",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "backgroundColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "edgePadding",
+                            "type": "Dp",
+                            "typeFqn": "androidx.compose.ui.unit.Dp",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "indicator",
+                            "type": "(List<TabPosition>) -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "divider",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": true,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "tabs",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "canonicalId": "catalog/androidx.compose.material.TabRowKt.TabRow",
             "componentIds": [],
             "symbol": {
@@ -14482,6 +15325,21 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LeadingIconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAndIconTabsPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -16404,6 +17262,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAreaPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextFieldWithErrorStatePreview",
                     "componentId": null,
                     "group": null
@@ -18011,7 +18874,17 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationWithOnlySelectedLabelsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -18136,7 +19009,22 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusedCheckboxSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GestureAnimationSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LeadingIconTabsPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -18171,12 +19059,27 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailBottomAlignSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailSamplePreview",
                     "componentId": null,
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailWithOnlySelectedLabelsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineRtlLtrListItemsPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -18246,12 +19149,27 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingFancyIndicatorContainerTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingTextTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectableSurfaceSamplePreview",
                     "componentId": null,
                     "group": null
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleBottomAppBarPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleExtendedFabNoIconPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -18316,6 +19234,16 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAndIconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAreaPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextButtonSamplePreview",
                     "componentId": null,
                     "group": null
@@ -18371,12 +19299,22 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ToggleableSurfaceSamplePreview",
                     "componentId": null,
                     "group": null
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineRtlLtrListItemsPreview",
                     "componentId": null,
                     "group": null
                 }
@@ -19388,6 +20326,53 @@
             ]
         },
         {
+            "canonicalId": "catalog/androidx.compose.material.samples.BottomNavigationSamplesKt.BottomNavigationWithOnlySelectedLabelsSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.BottomNavigationSamplesKt",
+                "callable": "androidx.compose.material.samples.BottomNavigationWithOnlySelectedLabelsSample",
+                "name": "BottomNavigationWithOnlySelectedLabelsSample",
+                "origin": "LIBRARY",
+                "jvmName": "BottomNavigationWithOnlySelectedLabelsSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationWithOnlySelectedLabelsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "BottomNavigationWithOnlySelectedLabelsSample()",
+                "imports": [
+                    "androidx.compose.material.samples.BottomNavigationWithOnlySelectedLabelsSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
             "canonicalId": "catalog/androidx.compose.material.samples.BottomSheetScaffoldSamplesKt.BottomSheetScaffoldSample",
             "componentIds": [],
             "symbol": {
@@ -19414,6 +20399,53 @@
                 "call": "BottomSheetScaffoldSample()",
                 "imports": [
                     "androidx.compose.material.samples.BottomSheetScaffoldSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.BottomSheetScaffoldSamplesKt.BottomSheetScaffoldWithDrawerSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.BottomSheetScaffoldSamplesKt",
+                "callable": "androidx.compose.material.samples.BottomSheetScaffoldWithDrawerSample",
+                "name": "BottomSheetScaffoldWithDrawerSample",
+                "origin": "LIBRARY",
+                "jvmName": "BottomSheetScaffoldWithDrawerSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "BottomSheetScaffoldWithDrawerSample()",
+                "imports": [
+                    "androidx.compose.material.samples.BottomSheetScaffoldWithDrawerSample"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -20375,6 +21407,53 @@
             ]
         },
         {
+            "canonicalId": "catalog/androidx.compose.material.samples.FloatingActionButtonSamplesKt.SimpleExtendedFabNoIcon",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.FloatingActionButtonSamplesKt",
+                "callable": "androidx.compose.material.samples.SimpleExtendedFabNoIcon",
+                "name": "SimpleExtendedFabNoIcon",
+                "origin": "LIBRARY",
+                "jvmName": "SimpleExtendedFabNoIcon",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleExtendedFabNoIconPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "SimpleExtendedFabNoIcon()",
+                "imports": [
+                    "androidx.compose.material.samples.SimpleExtendedFabNoIcon"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
             "canonicalId": "catalog/androidx.compose.material.samples.FloatingActionButtonSamplesKt.SimpleExtendedFabWithIcon",
             "componentIds": [],
             "symbol": {
@@ -20657,6 +21736,53 @@
             ]
         },
         {
+            "canonicalId": "catalog/androidx.compose.material.samples.ListSamplesKt.OneLineRtlLtrListItems",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.ListSamplesKt",
+                "callable": "androidx.compose.material.samples.OneLineRtlLtrListItems",
+                "name": "OneLineRtlLtrListItems",
+                "origin": "LIBRARY",
+                "jvmName": "OneLineRtlLtrListItems",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OneLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "OneLineRtlLtrListItems()",
+                "imports": [
+                    "androidx.compose.material.samples.OneLineRtlLtrListItems"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
             "canonicalId": "catalog/androidx.compose.material.samples.ListSamplesKt.ThreeLineListItems",
             "componentIds": [],
             "symbol": {
@@ -20704,6 +21830,53 @@
             ]
         },
         {
+            "canonicalId": "catalog/androidx.compose.material.samples.ListSamplesKt.ThreeLineRtlLtrListItems",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.ListSamplesKt",
+                "callable": "androidx.compose.material.samples.ThreeLineRtlLtrListItems",
+                "name": "ThreeLineRtlLtrListItems",
+                "origin": "LIBRARY",
+                "jvmName": "ThreeLineRtlLtrListItems",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ThreeLineRtlLtrListItems()",
+                "imports": [
+                    "androidx.compose.material.samples.ThreeLineRtlLtrListItems"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
             "canonicalId": "catalog/androidx.compose.material.samples.ListSamplesKt.TwoLineListItems",
             "componentIds": [],
             "symbol": {
@@ -20730,6 +21903,53 @@
                 "call": "TwoLineListItems()",
                 "imports": [
                     "androidx.compose.material.samples.TwoLineListItems"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.ListSamplesKt.TwoLineRtlLtrListItems",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.ListSamplesKt",
+                "callable": "androidx.compose.material.samples.TwoLineRtlLtrListItems",
+                "name": "TwoLineRtlLtrListItems",
+                "origin": "LIBRARY",
+                "jvmName": "TwoLineRtlLtrListItems",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineRtlLtrListItemsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "TwoLineRtlLtrListItems()",
+                "imports": [
+                    "androidx.compose.material.samples.TwoLineRtlLtrListItems"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -20892,6 +22112,100 @@
             ]
         },
         {
+            "canonicalId": "catalog/androidx.compose.material.samples.NavigationRailSampleKt.CompactNavigationRailSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.NavigationRailSampleKt",
+                "callable": "androidx.compose.material.samples.CompactNavigationRailSample",
+                "name": "CompactNavigationRailSample",
+                "origin": "LIBRARY",
+                "jvmName": "CompactNavigationRailSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CompactNavigationRailSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "CompactNavigationRailSample()",
+                "imports": [
+                    "androidx.compose.material.samples.CompactNavigationRailSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.NavigationRailSampleKt.NavigationRailBottomAlignSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.NavigationRailSampleKt",
+                "callable": "androidx.compose.material.samples.NavigationRailBottomAlignSample",
+                "name": "NavigationRailBottomAlignSample",
+                "origin": "LIBRARY",
+                "jvmName": "NavigationRailBottomAlignSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailBottomAlignSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "NavigationRailBottomAlignSample()",
+                "imports": [
+                    "androidx.compose.material.samples.NavigationRailBottomAlignSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
             "canonicalId": "catalog/androidx.compose.material.samples.NavigationRailSampleKt.NavigationRailSample",
             "componentIds": [],
             "symbol": {
@@ -20918,6 +22232,53 @@
                 "call": "NavigationRailSample()",
                 "imports": [
                     "androidx.compose.material.samples.NavigationRailSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.NavigationRailSampleKt.NavigationRailWithOnlySelectedLabelsSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.NavigationRailSampleKt",
+                "callable": "androidx.compose.material.samples.NavigationRailWithOnlySelectedLabelsSample",
+                "name": "NavigationRailWithOnlySelectedLabelsSample",
+                "origin": "LIBRARY",
+                "jvmName": "NavigationRailWithOnlySelectedLabelsSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailWithOnlySelectedLabelsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "NavigationRailWithOnlySelectedLabelsSample()",
+                "imports": [
+                    "androidx.compose.material.samples.NavigationRailWithOnlySelectedLabelsSample"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -21435,6 +22796,53 @@
                 "call": "CheckboxSample()",
                 "imports": [
                     "androidx.compose.material.samples.CheckboxSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.SelectionControlsSamplesKt.FocusedCheckboxSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.SelectionControlsSamplesKt",
+                "callable": "androidx.compose.material.samples.FocusedCheckboxSample",
+                "name": "FocusedCheckboxSample",
+                "origin": "LIBRARY",
+                "jvmName": "FocusedCheckboxSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusedCheckboxSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "FocusedCheckboxSample()",
+                "imports": [
+                    "androidx.compose.material.samples.FocusedCheckboxSample"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -22161,6 +23569,11 @@
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyIndicatorContainerTabsPreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingFancyIndicatorContainerTabsPreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
@@ -22263,6 +23676,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyIndicatorTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingFancyIndicatorContainerTabsPreview",
                     "componentId": null,
                     "group": null
                 }
@@ -22564,6 +23982,241 @@
                 "call": "FancyTabs()",
                 "imports": [
                     "androidx.compose.material.samples.FancyTabs"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.TabSamplesKt.IconTabs",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.TabSamplesKt",
+                "callable": "androidx.compose.material.samples.IconTabs",
+                "name": "IconTabs",
+                "origin": "LIBRARY",
+                "jvmName": "IconTabs",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "IconTabs()",
+                "imports": [
+                    "androidx.compose.material.samples.IconTabs"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.TabSamplesKt.LeadingIconTabs",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.TabSamplesKt",
+                "callable": "androidx.compose.material.samples.LeadingIconTabs",
+                "name": "LeadingIconTabs",
+                "origin": "LIBRARY",
+                "jvmName": "LeadingIconTabs",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LeadingIconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "LeadingIconTabs()",
+                "imports": [
+                    "androidx.compose.material.samples.LeadingIconTabs"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.TabSamplesKt.ScrollingFancyIndicatorContainerTabs",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.TabSamplesKt",
+                "callable": "androidx.compose.material.samples.ScrollingFancyIndicatorContainerTabs",
+                "name": "ScrollingFancyIndicatorContainerTabs",
+                "origin": "LIBRARY",
+                "jvmName": "ScrollingFancyIndicatorContainerTabs",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingFancyIndicatorContainerTabsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ScrollingFancyIndicatorContainerTabs()",
+                "imports": [
+                    "androidx.compose.material.samples.ScrollingFancyIndicatorContainerTabs"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.TabSamplesKt.ScrollingTextTabs",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.TabSamplesKt",
+                "callable": "androidx.compose.material.samples.ScrollingTextTabs",
+                "name": "ScrollingTextTabs",
+                "origin": "LIBRARY",
+                "jvmName": "ScrollingTextTabs",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingTextTabsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ScrollingTextTabs()",
+                "imports": [
+                    "androidx.compose.material.samples.ScrollingTextTabs"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.TabSamplesKt.TextAndIconTabs",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.TabSamplesKt",
+                "callable": "androidx.compose.material.samples.TextAndIconTabs",
+                "name": "TextAndIconTabs",
+                "origin": "LIBRARY",
+                "jvmName": "TextAndIconTabs",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAndIconTabsPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "TextAndIconTabs()",
+                "imports": [
+                    "androidx.compose.material.samples.TextAndIconTabs"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -22893,6 +24546,53 @@
                 "call": "SimpleTextFieldSample()",
                 "imports": [
                     "androidx.compose.material.samples.SimpleTextFieldSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                    "parameters": []
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material.samples.TextFieldSamplesKt.TextArea",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material.samples.TextFieldSamplesKt",
+                "callable": "androidx.compose.material.samples.TextArea",
+                "name": "TextArea",
+                "origin": "LIBRARY",
+                "jvmName": "TextArea",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAreaPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "TextArea()",
+                "imports": [
+                    "androidx.compose.material.samples.TextArea"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -23837,6 +25537,11 @@
             ],
             "bindings": [
                 {
+                    "previewId": "androidx.compose.foundation.samples.AnchoredDraggableSampleKt.AnchoredDraggableCustomAnchoredSample",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "androidx.compose.foundation.samples.LazyDslSamplesKt.LazyListCustomScrollUsingLazyLayoutScrollScopeSample",
                     "componentId": null,
                     "group": null
@@ -23853,6 +25558,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnchoredDraggableDynamicAnchorsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnchoredDraggableProgrammaticFlingSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -29292,6 +31002,11 @@
             "slots": [],
             "bindings": [
                 {
+                    "previewId": "androidx.compose.foundation.samples.AnchoredDraggableSampleKt.AnchoredDraggableCustomAnchoredSample",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "androidx.compose.foundation.samples.BasicMarqueeSamplesKt.BasicFocusableMarqueeSample",
                     "componentId": null,
                     "group": null
@@ -29343,6 +31058,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnchoredDraggableDynamicAnchorsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnchoredDraggableProgrammaticFlingSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -29483,6 +31203,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomPageSizeSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomTouchSlopSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -29797,6 +31522,11 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumnWithMaxWidthPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumn_EqualWidthPreview",
                     "componentId": null,
                     "group": null
@@ -29813,6 +31543,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRowPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRowWithMaxHeightPreview",
                     "componentId": null,
                     "group": null
                 },

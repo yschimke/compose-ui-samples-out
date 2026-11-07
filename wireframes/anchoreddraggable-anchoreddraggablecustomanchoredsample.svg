@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525 231" width="525" height="231" role="img" aria-label="AnchoredDraggable/AnchoredDraggableCustomAnchoredSample layout wireframe">
+  <title>AnchoredDraggable/AnchoredDraggableCustomAnchoredSample — layout wireframe (slots + tokens)</title>
+  <rect width="525" height="231" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="525" height="231" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="525" height="231" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="525" height="231" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="105" height="105" fill="#FF0000" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFF0000</text>
+  </g>
+  <g>
+    <path d="M52.5,116 H229.5 A52.5,52.5 0 0 1 282,168.5 V168.5 A52.5,52.5 0 0 1 229.5,221 H52.5 A52.5,52.5 0 0 1 0,168.5 V168.5 A52.5,52.5 0 0 1 52.5,116 Z" fill="#6750A4" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="128" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF6750A4</text>
+  </g>
+  <g>
+    <rect x="63" y="137" width="156" height="63" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="63" y="142" width="156" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>
