@@ -2,13 +2,14 @@
   <title>Scroller/ControlledScrollableRowSample — layout wireframe (slots + tokens)</title>
   <rect width="197000" height="893" fill="#ffffff"/>
   <g>
-    <rect x="0" y="0" width="1050" height="893" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="840" height="893" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="1050" height="893" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="840" height="893" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="1050" height="893" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="840" height="893" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
   </g>
   <g>
     <rect x="0" y="0" width="197000" height="525" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
@@ -7034,7 +7035,7 @@
     <rect x="571" y="596" width="83" height="43" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="709" width="937" height="184" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="709" width="840" height="184" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
     <rect x="0" y="780" width="255" height="43" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
@@ -7047,10 +7048,10 @@
     <rect x="398" y="780" width="56" height="43" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="609" y="722" width="315" height="158" fill="#CCCCCC" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
+    <rect x="609" y="722" width="218" height="158" fill="#CCCCCC" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
     <text x="612" y="734" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFCCCCCC  pad 5.0dp</text>
   </g>
   <g>
-    <rect x="725" y="780" width="83" height="43" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="677" y="780" width="83" height="43" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
 </svg>

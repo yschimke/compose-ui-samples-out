@@ -40,13 +40,13 @@ customising the live render are two ends of one workflow.
 | --- | --- |
 | Components | **610** |
 | Rendered images (PNG) | **1029** |
-| Editable wireframes (SVG) | **526** |
+| Editable wireframes (SVG) | **539** |
 | Editable design vectors (figma-svg) | **594** |
 | Components with a11y greenlines | **97** |
 | Library | `org.jetbrains.compose.foundation:foundation`<br>`androidx.compose.foundation:foundation`<br>`org.jetbrains.compose.foundation:foundation-layout`<br>`androidx.compose.foundation:foundation-layout`<br>`org.jetbrains.compose.ui:ui`<br>`androidx.compose.ui:ui`<br>`org.jetbrains.compose.ui:ui-graphics`<br>`androidx.compose.ui:ui-graphics`<br>`org.jetbrains.compose.ui:ui-text`<br>`androidx.compose.ui:ui-text`<br>`org.jetbrains.compose.ui:ui-unit`<br>`androidx.compose.ui:ui-unit`<br>`org.jetbrains.compose.animation:animation`<br>`androidx.compose.animation:animation`<br>`org.jetbrains.compose.animation:animation-core`<br>`androidx.compose.animation:animation-core`<br>`org.jetbrains.compose.animation:animation-graphics`<br>`androidx.compose.animation:animation-graphics`<br>`org.jetbrains.compose.runtime:runtime`<br>`androidx.compose.runtime:runtime`<br>`org.jetbrains.compose.runtime:runtime-saveable`<br>`androidx.compose.runtime:runtime-saveable`<br>`org.jetbrains.compose.material:material`<br>`androidx.compose.material:material` |
 | Renderer | compose-preview 2.86.0 |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-11-06 |
+| Generated | 2026-11-07 |
 
 ## Components by group
 

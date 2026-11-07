@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-06T23:24:38.050Z",
+  "generatedAt": "2026-11-07T11:54:58.737Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/compose-ui-samples",
     "ref": "main",
     "events": [
+      {
+        "sha": "61b311951bcf4a3abe515e259d3efea18bd12863",
+        "subject": "fix: patch sample backgrounds, interactive state, and sizes (#5)",
+        "at": "2026-11-07T11:40:25Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4706c2a6861879fbc61bb7fdb9c5c43adc50a5ed",
         "subject": "feat: publish the custom-font Android samples, on compose-ai-tools 2.87.0 (#4)",

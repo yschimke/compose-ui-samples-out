@@ -7,16 +7,19 @@
 </defs>
 <g transform="translate(0, 0)">
   <g id="Root">
-    <g id="Column">
-      <g id="Empty">
-        <text x="42" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">0</text>
-      </g>
-      <g id="Box">
-        <g id="Spacer">
-          <image href="slider-stepsslidersample.figma-raster/6876.png" x="42" y="43" width="966" height="126"/>
+    <g id="Box">
+        <rect x="0" y="0" width="1050" height="169" fill="#FFFFFF"/>
+      <g id="Column">
+        <g id="Empty">
+          <text x="42" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">0</text>
         </g>
-        <g id="Spacer" filter="url(#shadow-3)">
-          <rect x="42" y="80" width="53" height="53" rx="26.5" ry="26.5" fill="#03DAC6"/>
+        <g id="Box">
+          <g id="Spacer">
+            <image href="slider-stepsslidersample.figma-raster/6842.png" x="42" y="43" width="966" height="126"/>
+          </g>
+          <g id="Spacer" filter="url(#shadow-3)">
+            <rect x="42" y="80" width="53" height="53" rx="26.5" ry="26.5" fill="#03DAC6"/>
+          </g>
         </g>
       </g>
     </g>

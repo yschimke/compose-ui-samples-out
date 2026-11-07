@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-11-06T23:15:44.136Z",
+  "generatedAt": "2026-11-07T11:54:40.490Z",
   "mappings": [
     {
       "componentId": "AnchoredDraggable/AnchoredDraggableDynamicAnchorsSample",
@@ -2925,7 +2925,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DrawWithCacheModifierSamplePreview",
-      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawmodifier-drawwithcachemodifiersample__ideal__default.svg"
+      "figmaSvg": "figma/drawmodifier-drawwithcachemodifiersample.svg"
     },
     {
       "componentId": "DrawModifier/DrawWithCacheModifierStateParameterSample",
@@ -2935,7 +2935,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DrawWithCacheModifierStateParameterSamplePreview",
-      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawmodifier-drawwithcachemodifierstateparametersample__ideal__default.svg"
+      "figmaSvg": "figma/drawmodifier-drawwithcachemodifierstateparametersample.svg"
     },
     {
       "componentId": "Focus/CancelFocusMoveSample",
@@ -3814,7 +3814,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "DropShadowSamplePreview",
-      "figmaSvg": "figma/shadow-dropshadowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/shadow-dropshadowsample__ideal__default.svg"
     },
     {
       "componentId": "Shadow/InnerShadowSample",
@@ -3824,7 +3824,7 @@
       "label": "Compose",
       "confidence": "preview-fallback",
       "previewName": "InnerShadowSamplePreview",
-      "figmaSvg": "figma/shadow-innershadowsample.svg"
+      "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/shadow-innershadowsample__ideal__default.svg"
     },
     {
       "componentId": "Shadow/ShadowSample",

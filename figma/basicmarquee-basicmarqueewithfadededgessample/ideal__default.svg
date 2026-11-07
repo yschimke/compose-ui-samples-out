@@ -3,8 +3,11 @@
   <g id="Root">
     <g id="Box">
         <rect x="0" y="0" width="336" height="43" fill="#FFFFFF"/>
-      <g id="Empty">
-        <image href="ideal__default.figma-raster/29.png" x="0" y="0" width="949" height="43"/>
+      <g id="Box">
+          <rect x="0" y="0" width="336" height="43" fill="#FEF7FF"/>
+        <g id="Empty">
+          <image href="ideal__default.figma-raster/34.png" x="0" y="0" width="336" height="43"/>
+        </g>
       </g>
     </g>
   </g>

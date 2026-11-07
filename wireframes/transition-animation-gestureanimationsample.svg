@@ -1,27 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="Transition (Animation)/GestureAnimationSample layout wireframe">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525 703" width="525" height="703" role="img" aria-label="Transition (Animation)/GestureAnimationSample layout wireframe">
   <title>Transition (Animation)/GestureAnimationSample — layout wireframe (slots + tokens)</title>
-  <rect width="1050" height="2100" fill="#ffffff"/>
+  <rect width="525" height="703" fill="#ffffff"/>
   <g>
-    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="525" height="703" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="525" height="703" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="525" height="703" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <path d="M349.5,42 H700.5 A10.5,10.5 0 0 1 711,52.5 V126.5 A10.5,10.5 0 0 1 700.5,137 H349.5 A10.5,10.5 0 0 1 339,126.5 V52.5 A10.5,10.5 0 0 1 349.5,42 Z" fill="#6200EE" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="342" y="54" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF6200EE  pad 10.0dp</text>
+    <path d="M87.5,42 H438.5 A10.5,10.5 0 0 1 449,52.5 V126.5 A10.5,10.5 0 0 1 438.5,137 H87.5 A10.5,10.5 0 0 1 77,126.5 V52.5 A10.5,10.5 0 0 1 87.5,42 Z" fill="#6200EE" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="80" y="54" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF6200EE  pad 10.0dp</text>
   </g>
   <g>
-    <rect x="381" y="63" width="288" height="53" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="119" y="63" width="288" height="53" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="381" y="69" width="288" height="42" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="119" y="69" width="288" height="42" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="394" y="1008" width="263" height="263" fill="#03DAC6" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="397" y="1020" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF03DAC6</text>
+    <rect x="131" y="309" width="263" height="263" fill="#03DAC6" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="134" y="321" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF03DAC6</text>
   </g>
 </svg>

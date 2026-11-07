@@ -7173,6 +7173,16 @@
             "slots": [],
             "bindings": [
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimationCoreInfiniteTransitionSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimationInfiniteTransitionSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BackdropScaffoldSamplePreview",
                     "componentId": null,
                     "group": null
@@ -13196,7 +13206,147 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BaselineShiftAnnotatedStringSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BaselineShiftSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomDrawerSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CheckboxSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ChipGroupReflowSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ChipGroupSingleLineSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ChipSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CircularProgressIndicatorSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ClickableSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ClickableSurfaceSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContentAlphaSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CrossfadeSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.EditableExposedDropdownMenuSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ExposedDropdownMenuSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyIndicatorContainerTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyIndicatorTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FancyTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FilterChipSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FilterChipWithLeadingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconButtonSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IconToggleButtonSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LinearProgressIndicatorSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MenuSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MenuWithScrollStateSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OutlinedChipWithIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OutlinedFilterChipSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OutlinedTextFieldWithInitialValueAndSelectionPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ParagraphStyleAnnotatedStringsSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ParagraphStyleSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -13206,7 +13356,62 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RadioButtonSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RadioGroupSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.RangeSliderSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectableSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectableSurfaceSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleOutlinedTextFieldSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleTextFieldSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SliderSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SpanStyleBrushSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SpanStyleSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.StepRangeSliderSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.StepsSliderSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -13216,7 +13421,87 @@
                     "group": null
                 },
                 {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SwitchSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextDecorationCombinedSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextDecorationLineThroughSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextDecorationUnderlineSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextFieldWithErrorStatePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextFieldWithHelperMessagePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextFieldWithIconsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextFieldWithInitialValueAndSelectionPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextFieldWithPlaceholderPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextStyleBrushSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextTabsPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextWithLinksPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThemeTextStyleSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ToggleableSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ToggleableSurfaceSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TriStateCheckboxSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TriStateToggleableSamplePreview",
                     "componentId": null,
                     "group": null
                 }
@@ -17962,6 +18247,11 @@
                 },
                 {
                     "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectableSurfaceSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleBottomAppBarPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -26745,6 +27035,404 @@
                             "noArgFactory": null,
                             "scopeDslReceiver": null,
                             "lambdaReturnTypeFqn": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material3.SurfaceKt.Surface",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.SurfaceKt",
+                "callable": "androidx.compose.material3.Surface",
+                "name": "Surface",
+                "origin": "LIBRARY",
+                "jvmName": "Surface-T9BRK9s",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/compose/ui/graphics/Shape;JJFFLandroidx/compose/foundation/BorderStroke;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "tonalElevation",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shadowElevation",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "border",
+                    "type": "BorderStroke?",
+                    "typeFqn": "androidx.compose.foundation.BorderStroke",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "androidx.compose.foundation.samples.BasicMarqueeSamplesKt.BasicFocusableMarqueeSample",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.compose.foundation.samples.BasicMarqueeSamplesKt.BasicMarqueeSample",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.compose.foundation.samples.BasicMarqueeSamplesKt.BasicMarqueeWithFadedEdgesSample",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldTrackedRangePropertiesSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldTrackedRangeSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldTrackedRangeToggleBoldSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldUndoSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldWithStringSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldWithValueOnValueChangeSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BorderSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BorderSampleWithDataClassPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BorderSampleWithDynamicDataPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BringPartOfComposableIntoViewSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DisableSelectionSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ExtendSelectionSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusGroupSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusableFocusGroupSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FocusableSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.IndicationSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PlaceholderBasicTextFieldSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectAllSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectQuerySamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectThirdTextSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectionSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SelectionStateSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextAutoSizeBasicTextSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextMotionSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Surface(content = {})",
+                "imports": [
+                    "androidx.compose.material3.Surface"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": [],
+            "overloads": [
+                {
+                    "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/compose/ui/graphics/Shape;JJFFLandroidx/compose/foundation/BorderStroke;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shape",
+                            "type": "Shape",
+                            "typeFqn": "androidx.compose.ui.graphics.Shape",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "color",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "contentColor",
+                            "type": "Color",
+                            "typeFqn": "androidx.compose.ui.graphics.Color",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "tonalElevation",
+                            "type": "Dp",
+                            "typeFqn": "androidx.compose.ui.unit.Dp",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "shadowElevation",
+                            "type": "Dp",
+                            "typeFqn": "androidx.compose.ui.unit.Dp",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "border",
+                            "type": "BorderStroke?",
+                            "typeFqn": "androidx.compose.foundation.BorderStroke",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": true,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "content",
+                            "type": "() -> Unit",
+                            "typeFqn": "kotlin.Function0",
+                            "hasDefault": false,
+                            "composableSlot": true,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
                         }
                     ]
                 }

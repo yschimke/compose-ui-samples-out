@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 2100" width="1050" height="2100" role="img" aria-label="PathEasing/PathEasingSample layout wireframe">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525 525" width="525" height="525" role="img" aria-label="PathEasing/PathEasingSample layout wireframe">
   <title>PathEasing/PathEasingSample — layout wireframe (slots + tokens)</title>
-  <rect width="1050" height="2100" fill="#ffffff"/>
+  <rect width="525" height="525" fill="#ffffff"/>
   <g>
-    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="525" height="525" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="525" height="525" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="1050" height="2100" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="525" height="525" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
     <rect x="0" y="0" width="263" height="263" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>

@@ -8,20 +8,24 @@
     <rect x="0" y="0" width="994" height="306" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="994" height="306" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="994" height="306" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
   </g>
   <g>
-    <rect x="0" y="0" width="994" height="43" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="994" height="306" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="43" width="526" height="263" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="994" height="43" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="43" width="263" height="263" fill="#FF0000" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="55" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FFFF0000</text>
+    <rect x="0" y="43" width="526" height="263" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="263" y="43" width="263" height="263" fill="#0000FF" fill-opacity="1" stroke="#3B72A8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="266" y="55" font-family="system-ui, sans-serif" font-size="9" fill="#3B72A8">#FF0000FF</text>
+    <rect x="0" y="43" width="263" height="263" fill="#FF0000" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="55" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FFFF0000</text>
+  </g>
+  <g>
+    <rect x="263" y="43" width="263" height="263" fill="#0000FF" fill-opacity="1" stroke="#A85B6B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="266" y="55" font-family="system-ui, sans-serif" font-size="9" fill="#A85B6B">#FF0000FF</text>
   </g>
 </svg>

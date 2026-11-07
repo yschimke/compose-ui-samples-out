@@ -8,16 +8,20 @@
     <rect x="0" y="0" width="436" height="126" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
+    <rect x="0" y="0" width="436" height="126" fill="#FFFFFF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFFFFFF</text>
+  </g>
+  <g>
     <path d="M42,21 H394 A42,42 0 0 1 436,63 V63 A42,42 0 0 1 394,105 H42 A42,42 0 0 1 0,63 V63 A42,42 0 0 1 42,21 Z" fill="#FFFFFF" fill-opacity="1" stroke="#000000" stroke-width="1.5" stroke-opacity="1"/>
     <text x="3" y="33" font-family="system-ui, sans-serif" font-size="9" fill="#000000">#FFFFFFFF</text>
   </g>
   <g>
-    <rect x="0" y="21" width="404" height="84" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="21" width="404" height="84" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="11" y="32" width="63" height="63" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="11" y="32" width="63" height="63" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="95" y="37" width="309" height="53" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="95" y="37" width="309" height="53" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
 </svg>

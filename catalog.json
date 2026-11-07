@@ -156,7 +156,7 @@
           "variant": "ideal",
           "path": "images/basicmarquee-basicfocusablemarqueesample/ideal__default.png",
           "state": "default",
-          "width": 79,
+          "width": 158,
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basicmarquee-basicfocusablemarqueesample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.BasicMarqueeSamplesKt.BasicFocusableMarqueeSample",
@@ -170,7 +170,7 @@
           "variant": "ideal",
           "path": "images/basicmarquee-basicfocusablemarqueesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 79,
+          "width": 158,
           "height": 43,
           "props": {
             "platform": "android"
@@ -187,7 +187,7 @@
       "wireframe": "wireframes/basicmarquee-basicfocusablemarqueesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/compose/foundation/samples/BasicMarqueeSamples.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 61,
+      "bodyLine": 65,
       "sourceDirectory": "catalog",
       "sourceFunction": "BasicFocusableMarqueeSample"
     },
@@ -198,7 +198,7 @@
           "variant": "ideal",
           "path": "images/basicmarquee-basicmarqueesample/ideal__default.png",
           "state": "default",
-          "width": 79,
+          "width": 158,
           "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basicmarquee-basicmarqueesample__ideal__default",
           "previewId": "androidx.compose.foundation.samples.BasicMarqueeSamplesKt.BasicMarqueeSample",
@@ -212,7 +212,7 @@
           "variant": "ideal",
           "path": "images/basicmarquee-basicmarqueesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 79,
+          "width": 158,
           "height": 43,
           "props": {
             "platform": "android"
@@ -229,7 +229,7 @@
       "wireframe": "wireframes/basicmarquee-basicmarqueesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/compose/foundation/samples/BasicMarqueeSamples.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 53,
+      "bodyLine": 54,
       "sourceDirectory": "catalog",
       "sourceFunction": "BasicMarqueeSample"
     },
@@ -268,7 +268,7 @@
           "bounds": {
             "x": 84,
             "y": 0,
-            "width": 865,
+            "width": 252,
             "height": 43
           },
           "label": "the quick brown fox jumped over the lazy dogs",
@@ -286,7 +286,7 @@
       "wireframe": "wireframes/basicmarquee-basicmarqueewithfadededgessample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/compose/foundation/samples/BasicMarqueeSamples.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 79,
+      "bodyLine": 86,
       "sourceDirectory": "catalog",
       "sourceFunction": "BasicMarqueeWithFadedEdgesSample"
     },
@@ -702,8 +702,8 @@
           "variant": "ideal",
           "path": "images/basictextfield-basictextfieldtrackedrangepropertiessample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 277,
+          "height": 43,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/basictextfield-basictextfieldtrackedrangepropertiessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BasicTextFieldTrackedRangePropertiesSamplePreview",
           "density": 2.625,
@@ -713,8 +713,8 @@
           "variant": "ideal",
           "path": "images/basictextfield-basictextfieldtrackedrangepropertiessample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 260,
+          "height": 43,
           "props": {
             "platform": "android"
           },
@@ -1410,8 +1410,8 @@
           "variant": "ideal",
           "path": "images/border-bordersamplewithdynamicdata/ideal__default.png",
           "state": "default",
-          "width": 518,
-          "height": 349,
+          "width": 574,
+          "height": 274,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/border-bordersamplewithdynamicdata__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BorderSampleWithDynamicDataPreview",
           "density": 2.625,
@@ -1421,8 +1421,8 @@
           "variant": "ideal",
           "path": "images/border-bordersamplewithdynamicdata/ideal__default__platform-android.png",
           "state": "default",
-          "width": 484,
-          "height": 349,
+          "width": 560,
+          "height": 274,
           "props": {
             "platform": "android"
           },
@@ -1439,16 +1439,16 @@
             "role": "button",
             "bounds": {
               "x": 5,
-              "y": 48,
-              "width": 158,
-              "height": 201
+              "y": 59,
+              "width": 186,
+              "height": 105
             }
           },
           "bounds": {
             "x": 5,
-            "y": 48,
-            "width": 158,
-            "height": 201
+            "y": 59,
+            "width": 186,
+            "height": 105
           }
         },
         {
@@ -1458,17 +1458,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 163,
-              "y": 48,
-              "width": 158,
-              "height": 201
+              "x": 191,
+              "y": 59,
+              "width": 187,
+              "height": 105
             }
           },
           "bounds": {
-            "x": 163,
-            "y": 48,
-            "width": 158,
-            "height": 201
+            "x": 191,
+            "y": 59,
+            "width": 187,
+            "height": 105
           }
         },
         {
@@ -1478,17 +1478,17 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 321,
-              "y": 48,
-              "width": 158,
-              "height": 201
+              "x": 378,
+              "y": 59,
+              "width": 191,
+              "height": 105
             }
           },
           "bounds": {
-            "x": 321,
-            "y": 48,
-            "width": 158,
-            "height": 201
+            "x": 378,
+            "y": 59,
+            "width": 191,
+            "height": 105
           }
         }
       ],
@@ -1496,37 +1496,37 @@
         {
           "bounds": {
             "x": 5,
-            "y": 48,
-            "width": 158,
-            "height": 201
+            "y": 59,
+            "width": 186,
+            "height": 105
           },
           "role": "Button",
-          "cornerRadius": 30.1
+          "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 163,
-            "y": 48,
-            "width": 158,
-            "height": 201
+            "x": 191,
+            "y": 59,
+            "width": 187,
+            "height": 105
           },
           "role": "Button",
-          "cornerRadius": 30.1
+          "cornerRadius": 20
         },
         {
           "bounds": {
-            "x": 321,
-            "y": 48,
-            "width": 158,
-            "height": 201
+            "x": 378,
+            "y": 59,
+            "width": 191,
+            "height": 105
           },
           "role": "Button",
-          "cornerRadius": 30.1
+          "cornerRadius": 20
         },
         {
           "bounds": {
             "x": 31,
-            "y": 275,
+            "y": 200,
             "width": 296,
             "height": 43
           },
@@ -1557,8 +1557,8 @@
           "variant": "ideal",
           "path": "images/bringintoview-bringintoviewsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 1050,
+          "height": 84,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/bringintoview-bringintoviewsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BringIntoViewSamplePreview",
           "density": 2.625,
@@ -1568,8 +1568,8 @@
           "variant": "ideal",
           "path": "images/bringintoview-bringintoviewsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 1050,
+          "height": 84,
           "props": {
             "platform": "android"
           },
@@ -1908,8 +1908,8 @@
           "variant": "ideal",
           "path": "images/darktheme-darkthemesample/ideal__default.png",
           "state": "default",
-          "width": 131,
-          "height": 131,
+          "width": 173,
+          "height": 173,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/darktheme-darkthemesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DarkThemeSamplePreview",
           "density": 2.625,
@@ -1919,8 +1919,8 @@
           "variant": "ideal",
           "path": "images/darktheme-darkthemesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 131,
-          "height": 131,
+          "width": 173,
+          "height": 173,
           "props": {
             "platform": "android"
           },
@@ -1929,7 +1929,22 @@
         }
       ],
       "greenlines": [],
-      "redlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 21,
+            "y": 21,
+            "width": 131,
+            "height": 131
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        }
+      ],
       "section": "Foundation",
       "group": "DarkTheme",
       "caption": "`DarkThemeSample` — desktop and Android.",
@@ -2025,8 +2040,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-awaitdragorcancellationsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-awaitdragorcancellationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AwaitDragOrCancellationSamplePreview",
           "density": 2.625,
@@ -2036,8 +2051,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-awaitdragorcancellationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2064,8 +2079,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-awaithorizontaldragorcancellationsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-awaithorizontaldragorcancellationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AwaitHorizontalDragOrCancellationSamplePreview",
           "density": 2.625,
@@ -2075,8 +2090,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-awaithorizontaldragorcancellationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2103,8 +2118,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-awaitverticaldragorcancellationsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-awaitverticaldragorcancellationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AwaitVerticalDragOrCancellationSamplePreview",
           "density": 2.625,
@@ -2114,8 +2129,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-awaitverticaldragorcancellationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2142,8 +2157,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-detectdraggesturessample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-detectdraggesturessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectDragGesturesSamplePreview",
           "density": 2.625,
@@ -2153,8 +2168,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-detectdraggesturessample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2181,8 +2196,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-detectdragwithlongpressgesturessample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-detectdragwithlongpressgesturessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectDragWithLongPressGesturesSamplePreview",
           "density": 2.625,
@@ -2192,8 +2207,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-detectdragwithlongpressgesturessample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2220,8 +2235,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-detecthorizontaldraggesturessample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-detecthorizontaldraggesturessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectHorizontalDragGesturesSamplePreview",
           "density": 2.625,
@@ -2231,8 +2246,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-detecthorizontaldraggesturessample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2259,8 +2274,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-detectverticaldraggesturessample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-detectverticaldraggesturessample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectVerticalDragGesturesSamplePreview",
           "density": 2.625,
@@ -2270,8 +2285,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-detectverticaldraggesturessample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2298,8 +2313,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-dragsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-dragsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DragSamplePreview",
           "density": 2.625,
@@ -2309,8 +2324,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-dragsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2337,8 +2352,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-horizontaldragsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-horizontaldragsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.HorizontalDragSamplePreview",
           "density": 2.625,
@@ -2348,8 +2363,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-horizontaldragsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -2376,8 +2391,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-verticaldragsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/draggesturedetector-verticaldragsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.VerticalDragSamplePreview",
           "density": 2.625,
@@ -2387,8 +2402,8 @@
           "variant": "ideal",
           "path": "images/draggesturedetector-verticaldragsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -7273,8 +7288,8 @@
           "variant": "ideal",
           "path": "images/pager-animatescrollpagesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 788,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-animatescrollpagesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimateScrollPageSamplePreview",
           "density": 2.625,
@@ -7284,8 +7299,8 @@
           "variant": "ideal",
           "path": "images/pager-animatescrollpagesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 788,
           "props": {
             "platform": "android"
           },
@@ -7301,15 +7316,15 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 368,
-              "y": 1733,
+              "x": 171,
+              "y": 618,
               "width": 315,
               "height": 105
             }
           },
           "bounds": {
-            "x": 368,
-            "y": 1733,
+            "x": 171,
+            "y": 618,
             "width": 315,
             "height": 105
           }
@@ -7319,9 +7334,9 @@
         {
           "bounds": {
             "x": 26,
-            "y": 236,
-            "width": 998,
-            "height": 998
+            "y": 0,
+            "width": 604,
+            "height": 552
           },
           "padding": {
             "start": 10,
@@ -7332,8 +7347,8 @@
         },
         {
           "bounds": {
-            "x": 368,
-            "y": 1733,
+            "x": 171,
+            "y": 618,
             "width": 315,
             "height": 105
           },
@@ -7358,8 +7373,8 @@
           "variant": "ideal",
           "path": "images/pager-custompagesizesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-custompagesizesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomPageSizeSamplePreview",
           "density": 2.625,
@@ -7369,8 +7384,8 @@
           "variant": "ideal",
           "path": "images/pager-custompagesizesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "props": {
             "platform": "android"
           },
@@ -7383,9 +7398,9 @@
         {
           "bounds": {
             "x": 26,
-            "y": 901,
-            "width": 298,
-            "height": 298
+            "y": 245,
+            "width": 166,
+            "height": 166
           },
           "padding": {
             "start": 10,
@@ -7396,10 +7411,10 @@
         },
         {
           "bounds": {
-            "x": 376,
-            "y": 901,
-            "width": 298,
-            "height": 298
+            "x": 244,
+            "y": 245,
+            "width": 166,
+            "height": 166
           },
           "padding": {
             "start": 10,
@@ -7410,10 +7425,24 @@
         },
         {
           "bounds": {
-            "x": 726,
-            "y": 901,
-            "width": 298,
-            "height": 298
+            "x": 462,
+            "y": 245,
+            "width": 166,
+            "height": 166
+          },
+          "padding": {
+            "start": 10,
+            "top": 10,
+            "end": 10,
+            "bottom": 10
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 10,
@@ -7440,8 +7469,8 @@
           "variant": "ideal",
           "path": "images/pager-horizontalpagerwithscrollablecontent/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 788,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-horizontalpagerwithscrollablecontent__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.HorizontalPagerWithScrollableContentPreview",
           "density": 2.625,
@@ -7451,8 +7480,8 @@
           "variant": "ideal",
           "path": "images/pager-horizontalpagerwithscrollablecontent/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 788,
           "props": {
             "platform": "android"
           },
@@ -7466,7 +7495,7 @@
           "bounds": {
             "x": 11,
             "y": 137,
-            "width": 1028,
+            "width": 634,
             "height": 146
           },
           "padding": {
@@ -7480,7 +7509,7 @@
           "bounds": {
             "x": 11,
             "y": 305,
-            "width": 1028,
+            "width": 634,
             "height": 146
           },
           "padding": {
@@ -7494,7 +7523,7 @@
           "bounds": {
             "x": 11,
             "y": 473,
-            "width": 1028,
+            "width": 634,
             "height": 146
           },
           "padding": {
@@ -7508,7 +7537,7 @@
           "bounds": {
             "x": 11,
             "y": 641,
-            "width": 1028,
+            "width": 634,
             "height": 146
           },
           "padding": {
@@ -7520,10 +7549,10 @@
         },
         {
           "bounds": {
-            "x": 11,
-            "y": 809,
-            "width": 1028,
-            "height": 146
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 4,
@@ -7534,10 +7563,10 @@
         },
         {
           "bounds": {
-            "x": 11,
-            "y": 977,
-            "width": 1028,
-            "height": 146
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 4,
@@ -7548,10 +7577,10 @@
         },
         {
           "bounds": {
-            "x": 11,
-            "y": 1145,
-            "width": 1028,
-            "height": 146
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 4,
@@ -7562,10 +7591,10 @@
         },
         {
           "bounds": {
-            "x": 11,
-            "y": 1313,
-            "width": 1028,
-            "height": 146
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 4,
@@ -7576,10 +7605,10 @@
         },
         {
           "bounds": {
-            "x": 11,
-            "y": 1481,
-            "width": 1028,
-            "height": 146
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 4,
@@ -7590,10 +7619,10 @@
         },
         {
           "bounds": {
-            "x": 11,
-            "y": 1649,
-            "width": 1028,
-            "height": 146
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 4,
@@ -7604,10 +7633,10 @@
         },
         {
           "bounds": {
-            "x": 11,
-            "y": 1817,
-            "width": 1028,
-            "height": 146
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 4,
@@ -7618,10 +7647,10 @@
         },
         {
           "bounds": {
-            "x": 11,
-            "y": 1985,
-            "width": 1028,
-            "height": 115
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "padding": {
             "start": 4,
@@ -7760,8 +7789,8 @@
           "variant": "ideal",
           "path": "images/pager-observingstatechangesinpagerstatesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 840,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-observingstatechangesinpagerstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ObservingStateChangesInPagerStateSamplePreview",
           "density": 2.625,
@@ -7771,8 +7800,8 @@
           "variant": "ideal",
           "path": "images/pager-observingstatechangesinpagerstatesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 840,
           "props": {
             "platform": "android"
           },
@@ -7785,9 +7814,9 @@
         {
           "bounds": {
             "x": 26,
-            "y": 446,
-            "width": 998,
-            "height": 998
+            "y": 76,
+            "width": 604,
+            "height": 604
           },
           "padding": {
             "start": 10,
@@ -7814,8 +7843,8 @@
           "variant": "ideal",
           "path": "images/pager-pagercustomanimatescrolltopage/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 788,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-pagercustomanimatescrolltopage__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PagerCustomAnimateScrollToPagePreview",
           "density": 2.625,
@@ -7825,8 +7854,8 @@
           "variant": "ideal",
           "path": "images/pager-pagercustomanimatescrolltopage/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 788,
           "props": {
             "platform": "android"
           },
@@ -7843,14 +7872,14 @@
             "role": "button",
             "bounds": {
               "x": 0,
-              "y": 1985,
+              "y": 673,
               "width": 408,
               "height": 105
             }
           },
           "bounds": {
             "x": 0,
-            "y": 1985,
+            "y": 673,
             "width": 408,
             "height": 105
           }
@@ -7860,9 +7889,9 @@
         {
           "bounds": {
             "x": 26,
-            "y": 488,
-            "width": 998,
-            "height": 998
+            "y": 29,
+            "width": 604,
+            "height": 604
           },
           "padding": {
             "start": 10,
@@ -7874,7 +7903,7 @@
         {
           "bounds": {
             "x": 0,
-            "y": 1985,
+            "y": 673,
             "width": 408,
             "height": 105
           },
@@ -7973,7 +8002,7 @@
       "wireframe": "wireframes/pager-pagercustomscrollusinglazylayoutscrollscopesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/compose/foundation/samples/PagerSamples.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 346,
+      "bodyLine": 355,
       "sourceDirectory": "catalog",
       "sourceFunction": "PagerCustomScrollUsingLazyLayoutScrollScopeSample"
     },
@@ -7984,8 +8013,8 @@
           "variant": "ideal",
           "path": "images/pager-pagerwithstatesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-pagerwithstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PagerWithStateSamplePreview",
           "density": 2.625,
@@ -7995,8 +8024,8 @@
           "variant": "ideal",
           "path": "images/pager-pagerwithstatesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "props": {
             "platform": "android"
           },
@@ -8009,9 +8038,9 @@
         {
           "bounds": {
             "x": 26,
-            "y": 551,
-            "width": 998,
-            "height": 998
+            "y": 26,
+            "width": 604,
+            "height": 604
           },
           "padding": {
             "start": 10,
@@ -8123,8 +8152,8 @@
           "variant": "ideal",
           "path": "images/pager-simplehorizontalpagersample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-simplehorizontalpagersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleHorizontalPagerSamplePreview",
           "density": 2.625,
@@ -8134,8 +8163,8 @@
           "variant": "ideal",
           "path": "images/pager-simplehorizontalpagersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "props": {
             "platform": "android"
           },
@@ -8148,9 +8177,9 @@
         {
           "bounds": {
             "x": 26,
-            "y": 551,
-            "width": 998,
-            "height": 998
+            "y": 26,
+            "width": 604,
+            "height": 604
           },
           "padding": {
             "start": 10,
@@ -8177,8 +8206,8 @@
           "variant": "ideal",
           "path": "images/pager-simpleverticalpagersample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/pager-simpleverticalpagersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleVerticalPagerSamplePreview",
           "density": 2.625,
@@ -8188,8 +8217,8 @@
           "variant": "ideal",
           "path": "images/pager-simpleverticalpagersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "props": {
             "platform": "android"
           },
@@ -8203,8 +8232,8 @@
           "bounds": {
             "x": 26,
             "y": 26,
-            "width": 998,
-            "height": 998
+            "width": 604,
+            "height": 604
           },
           "padding": {
             "start": 10,
@@ -8659,8 +8688,8 @@
           "variant": "ideal",
           "path": "images/scrollable-canscrollsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 578,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scrollable-canscrollsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CanScrollSamplePreview",
           "density": 2.625,
@@ -8670,8 +8699,8 @@
           "variant": "ideal",
           "path": "images/scrollable-canscrollsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 578,
           "props": {
             "platform": "android"
           },
@@ -9512,7 +9541,7 @@
           "variant": "ideal",
           "path": "images/scroller-controlledscrollablerowsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
+          "width": 840,
           "height": 893,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scroller-controlledscrollablerowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ControlledScrollableRowSamplePreview",
@@ -9523,7 +9552,7 @@
           "variant": "ideal",
           "path": "images/scroller-controlledscrollablerowsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
+          "width": 840,
           "height": 893,
           "props": {
             "platform": "android"
@@ -9580,7 +9609,7 @@
           "bounds": {
             "x": 609,
             "y": 722,
-            "width": 315,
+            "width": 218,
             "height": 158
           },
           "padding": {
@@ -9608,7 +9637,7 @@
           "variant": "ideal",
           "path": "images/scroller-horizontalscrollsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
+          "width": 788,
           "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scroller-horizontalscrollsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.HorizontalScrollSamplePreview",
@@ -9619,7 +9648,7 @@
           "variant": "ideal",
           "path": "images/scroller-horizontalscrollsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
+          "width": 788,
           "height": 525,
           "props": {
             "platform": "android"
@@ -9647,8 +9676,8 @@
           "variant": "ideal",
           "path": "images/scroller-verticalscrollexample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scroller-verticalscrollexample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.VerticalScrollExamplePreview",
           "density": 2.625,
@@ -9658,8 +9687,8 @@
           "variant": "ideal",
           "path": "images/scroller-verticalscrollexample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -10126,8 +10155,8 @@
           "variant": "ideal",
           "path": "images/snapflingbehavior-snapflingbehaviorcustomizedsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 919,
+          "height": 578,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/snapflingbehavior-snapflingbehaviorcustomizedsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SnapFlingBehaviorCustomizedSamplePreview",
           "density": 2.625,
@@ -10137,8 +10166,8 @@
           "variant": "ideal",
           "path": "images/snapflingbehavior-snapflingbehaviorcustomizedsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 919,
+          "height": 578,
           "props": {
             "platform": "android"
           },
@@ -10151,9 +10180,9 @@
         {
           "bounds": {
             "x": 21,
-            "y": 546,
-            "width": 483,
-            "height": 1008
+            "y": 74,
+            "width": 326,
+            "height": 431
           },
           "padding": {
             "start": 8,
@@ -10164,10 +10193,24 @@
         },
         {
           "bounds": {
-            "x": 546,
-            "y": 546,
-            "width": 483,
-            "height": 1008
+            "x": 389,
+            "y": 74,
+            "width": 326,
+            "height": 431
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 757,
+            "y": 74,
+            "width": 162,
+            "height": 431
           },
           "padding": {
             "start": 8,
@@ -10194,8 +10237,8 @@
           "variant": "ideal",
           "path": "images/snapflingbehavior-snapflingbehaviorsimplesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 919,
+          "height": 578,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/snapflingbehavior-snapflingbehaviorsimplesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SnapFlingBehaviorSimpleSamplePreview",
           "density": 2.625,
@@ -10205,8 +10248,8 @@
           "variant": "ideal",
           "path": "images/snapflingbehavior-snapflingbehaviorsimplesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 919,
+          "height": 578,
           "props": {
             "platform": "android"
           },
@@ -10219,9 +10262,9 @@
         {
           "bounds": {
             "x": 21,
-            "y": 546,
-            "width": 483,
-            "height": 1008
+            "y": 74,
+            "width": 326,
+            "height": 431
           },
           "padding": {
             "start": 8,
@@ -10232,10 +10275,24 @@
         },
         {
           "bounds": {
-            "x": 546,
-            "y": 546,
-            "width": 483,
-            "height": 1008
+            "x": 389,
+            "y": 74,
+            "width": 326,
+            "height": 431
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 757,
+            "y": 74,
+            "width": 162,
+            "height": 431
           },
           "padding": {
             "start": 8,
@@ -10262,8 +10319,8 @@
           "variant": "ideal",
           "path": "images/snapflingbehavior-snapflingbehaviorsnapposition/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 919,
+          "height": 578,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/snapflingbehavior-snapflingbehaviorsnapposition__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SnapFlingBehaviorSnapPositionPreview",
           "density": 2.625,
@@ -10273,8 +10330,8 @@
           "variant": "ideal",
           "path": "images/snapflingbehavior-snapflingbehaviorsnapposition/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 919,
+          "height": 578,
           "props": {
             "platform": "android"
           },
@@ -10287,9 +10344,9 @@
         {
           "bounds": {
             "x": 21,
-            "y": 546,
-            "width": 483,
-            "height": 1008
+            "y": 74,
+            "width": 326,
+            "height": 431
           },
           "padding": {
             "start": 8,
@@ -10300,10 +10357,24 @@
         },
         {
           "bounds": {
-            "x": 546,
-            "y": 546,
-            "width": 483,
-            "height": 1008
+            "x": 389,
+            "y": 74,
+            "width": 326,
+            "height": 431
+          },
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 757,
+            "y": 74,
+            "width": 162,
+            "height": 431
           },
           "padding": {
             "start": 8,
@@ -10483,8 +10554,8 @@
           "variant": "ideal",
           "path": "images/tapgesture-awaitlongpressorcancellationsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 912,
+          "height": 547,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/tapgesture-awaitlongpressorcancellationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AwaitLongPressOrCancellationSamplePreview",
           "density": 2.625,
@@ -10494,8 +10565,8 @@
           "variant": "ideal",
           "path": "images/tapgesture-awaitlongpressorcancellationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 808,
+          "height": 547,
           "props": {
             "platform": "android"
           },
@@ -10756,8 +10827,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-calculatecentroidsize/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-calculatecentroidsize__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CalculateCentroidSizePreview",
           "density": 2.625,
@@ -10767,8 +10838,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-calculatecentroidsize/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -10795,8 +10866,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-calculatepan/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-calculatepan__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CalculatePanPreview",
           "density": 2.625,
@@ -10806,8 +10877,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-calculatepan/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -10834,8 +10905,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-calculaterotation/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-calculaterotation__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CalculateRotationPreview",
           "density": 2.625,
@@ -10845,8 +10916,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-calculaterotation/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -10873,8 +10944,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-calculatezoom/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-calculatezoom__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CalculateZoomPreview",
           "density": 2.625,
@@ -10884,8 +10955,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-calculatezoom/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -10912,8 +10983,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-detecttransformgestures/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transformgesture-detecttransformgestures__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DetectTransformGesturesPreview",
           "density": 2.625,
@@ -10923,8 +10994,8 @@
           "variant": "ideal",
           "path": "images/transformgesture-detecttransformgestures/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -10990,8 +11061,8 @@
           "variant": "ideal",
           "path": "images/box-simplebox/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 919,
+          "height": 919,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/box-simplebox__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleBoxPreview",
           "density": 2.625,
@@ -11001,8 +11072,8 @@
           "variant": "ideal",
           "path": "images/box-simplebox/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 919,
+          "height": 919,
           "props": {
             "platform": "android"
           },
@@ -11016,8 +11087,8 @@
           "bounds": {
             "x": 0,
             "y": 53,
-            "width": 1050,
-            "height": 1994
+            "width": 919,
+            "height": 813
           },
           "padding": {
             "start": 0,
@@ -11030,8 +11101,8 @@
           "bounds": {
             "x": 105,
             "y": 105,
-            "width": 840,
-            "height": 1890
+            "width": 709,
+            "height": 709
           },
           "padding": {
             "start": 40,
@@ -11137,7 +11208,7 @@
           "path": "images/column-simplecolumn/ideal__default.png",
           "state": "default",
           "width": 105,
-          "height": 1365,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/column-simplecolumn__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleColumnPreview",
           "density": 2.625,
@@ -11148,7 +11219,7 @@
           "path": "images/column-simplecolumn/ideal__default__platform-android.png",
           "state": "default",
           "width": 105,
-          "height": 1365,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -11254,7 +11325,7 @@
           "path": "images/contextualflowcolumn-contextualflowcolmaxlinedynamicseemore/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 631,
+          "height": 866,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contextualflowcolumn-contextualflowcolmaxlinedynamicseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContextualFlowColMaxLineDynamicSeeMorePreview",
           "density": 2.625,
@@ -11265,7 +11336,7 @@
           "path": "images/contextualflowcolumn-contextualflowcolmaxlinedynamicseemore/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 631,
+          "height": 823,
           "props": {
             "platform": "android"
           },
@@ -11293,7 +11364,7 @@
         {
           "bounds": {
             "x": 0,
-            "y": 0,
+            "y": 235,
             "width": 1050,
             "height": 631
           },
@@ -11307,7 +11378,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 91,
+            "y": 326,
             "width": 31,
             "height": 55
           },
@@ -11322,7 +11393,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 248,
+            "y": 483,
             "width": 31,
             "height": 55
           },
@@ -11337,7 +11408,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 405,
+            "y": 640,
             "width": 31,
             "height": 55
           },
@@ -11352,7 +11423,7 @@
         {
           "bounds": {
             "x": 295,
-            "y": 91,
+            "y": 326,
             "width": 31,
             "height": 55
           },
@@ -11367,7 +11438,7 @@
         {
           "bounds": {
             "x": 295,
-            "y": 248,
+            "y": 483,
             "width": 31,
             "height": 55
           },
@@ -11382,7 +11453,7 @@
         {
           "bounds": {
             "x": 245,
-            "y": 405,
+            "y": 640,
             "width": 130,
             "height": 55
           },
@@ -11397,7 +11468,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 288,
             "width": 130,
             "height": 55
           },
@@ -11412,7 +11483,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 288,
             "width": 130,
             "height": 55
           },
@@ -11427,7 +11498,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 288,
             "width": 31,
             "height": 55
           },
@@ -11458,7 +11529,7 @@
           "path": "images/contextualflowcolumn-contextualflowcolumn_itemposition/ideal__default.png",
           "state": "default",
           "width": 551,
-          "height": 2100,
+          "height": 980,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contextualflowcolumn-contextualflowcolumn_itemposition__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContextualFlowColumn_ItemPositionPreview",
           "density": 2.625,
@@ -11469,7 +11540,7 @@
           "path": "images/contextualflowcolumn-contextualflowcolumn_itemposition/ideal__default__platform-android.png",
           "state": "default",
           "width": 551,
-          "height": 2100,
+          "height": 980,
           "props": {
             "platform": "android"
           },
@@ -11497,7 +11568,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 61,
+            "y": 253,
             "width": 115,
             "height": 165
           },
@@ -11512,7 +11583,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 361,
+            "y": 553,
             "width": 115,
             "height": 165
           },
@@ -11527,9 +11598,9 @@
         {
           "bounds": {
             "x": 61,
-            "y": 637,
+            "y": 829,
             "width": 115,
-            "height": 165
+            "height": 90
           },
           "label": "Ln: 0\nPs: 2",
           "padding": {
@@ -11541,10 +11612,10 @@
         },
         {
           "bounds": {
-            "x": 61,
-            "y": 924,
-            "width": 115,
-            "height": 165
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "label": "Ln: 0\nPs: 3",
           "padding": {
@@ -11557,22 +11628,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 61,
-            "width": 115,
-            "height": 165
-          },
-          "label": "Ln: 1\nPs: 0",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 218,
-            "y": 366,
+            "y": 306,
             "width": 115,
             "height": 165
           },
@@ -11587,7 +11643,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 632,
+            "y": 611,
             "width": 115,
             "height": 165
           },
@@ -11602,9 +11658,9 @@
         {
           "bounds": {
             "x": 218,
-            "y": 919,
+            "y": 877,
             "width": 115,
-            "height": 165
+            "height": 42
           },
           "label": "Ln: 1\nPs: 3",
           "padding": {
@@ -11617,9 +11673,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 61,
+            "y": 253,
             "width": 113,
-            "height": 220
+            "height": 210
           },
           "label": "Ln: 2\nPs: 0",
           "padding": {
@@ -11632,9 +11688,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 369,
+            "y": 532,
             "width": 113,
-            "height": 199
+            "height": 220
           },
           "label": "Ln: 2\nPs: 1",
           "padding": {
@@ -11647,9 +11703,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 637,
+            "y": 840,
             "width": 113,
-            "height": 220
+            "height": 79
           },
           "label": "Ln: 2\nPs: 2",
           "padding": {
@@ -11661,10 +11717,10 @@
         },
         {
           "bounds": {
-            "x": 375,
-            "y": 942,
-            "width": 113,
-            "height": 197
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "label": "Ln: 2\nPs: 3",
           "padding": {
@@ -11693,7 +11749,7 @@
           "path": "images/contextualflowrow-contextualflowrow_itemposition/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 551,
+          "height": 743,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contextualflowrow-contextualflowrow_itemposition__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContextualFlowRow_ItemPositionPreview",
           "density": 2.625,
@@ -11704,7 +11760,7 @@
           "path": "images/contextualflowrow-contextualflowrow_itemposition/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 551,
+          "height": 743,
           "props": {
             "platform": "android"
           },
@@ -11732,7 +11788,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 61,
+            "y": 253,
             "width": 118,
             "height": 110
           },
@@ -11747,7 +11803,7 @@
         {
           "bounds": {
             "x": 334,
-            "y": 61,
+            "y": 253,
             "width": 118,
             "height": 110
           },
@@ -11762,7 +11818,7 @@
         {
           "bounds": {
             "x": 583,
-            "y": 61,
+            "y": 253,
             "width": 118,
             "height": 110
           },
@@ -11777,7 +11833,7 @@
         {
           "bounds": {
             "x": 843,
-            "y": 61,
+            "y": 253,
             "width": 118,
             "height": 110
           },
@@ -11792,7 +11848,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 245,
+            "y": 437,
             "width": 118,
             "height": 110
           },
@@ -11807,7 +11863,7 @@
         {
           "bounds": {
             "x": 339,
-            "y": 245,
+            "y": 437,
             "width": 118,
             "height": 110
           },
@@ -11822,7 +11878,7 @@
         {
           "bounds": {
             "x": 578,
-            "y": 245,
+            "y": 437,
             "width": 118,
             "height": 110
           },
@@ -11837,7 +11893,7 @@
         {
           "bounds": {
             "x": 838,
-            "y": 245,
+            "y": 437,
             "width": 118,
             "height": 110
           },
@@ -11852,7 +11908,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 429,
+            "y": 621,
             "width": 118,
             "height": 61
           },
@@ -11867,7 +11923,7 @@
         {
           "bounds": {
             "x": 342,
-            "y": 429,
+            "y": 621,
             "width": 118,
             "height": 61
           },
@@ -11882,7 +11938,7 @@
         {
           "bounds": {
             "x": 583,
-            "y": 429,
+            "y": 621,
             "width": 118,
             "height": 61
           },
@@ -11897,7 +11953,7 @@
         {
           "bounds": {
             "x": 861,
-            "y": 429,
+            "y": 621,
             "width": 118,
             "height": 61
           },
@@ -11928,7 +11984,7 @@
           "path": "images/contextualflowrow-contextualflowrowmaxlinedynamicseemore/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 421,
+          "height": 613,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/contextualflowrow-contextualflowrowmaxlinedynamicseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ContextualFlowRowMaxLineDynamicSeeMorePreview",
           "density": 2.625,
@@ -11939,7 +11995,7 @@
           "path": "images/contextualflowrow-contextualflowrowmaxlinedynamicseemore/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 421,
+          "height": 613,
           "props": {
             "platform": "android"
           },
@@ -11967,7 +12023,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 91,
+            "y": 283,
             "width": 31,
             "height": 55
           },
@@ -11982,7 +12038,7 @@
         {
           "bounds": {
             "x": 260,
-            "y": 91,
+            "y": 283,
             "width": 31,
             "height": 55
           },
@@ -11997,7 +12053,7 @@
         {
           "bounds": {
             "x": 417,
-            "y": 91,
+            "y": 283,
             "width": 31,
             "height": 55
           },
@@ -12012,7 +12068,7 @@
         {
           "bounds": {
             "x": 574,
-            "y": 91,
+            "y": 283,
             "width": 31,
             "height": 55
           },
@@ -12027,7 +12083,7 @@
         {
           "bounds": {
             "x": 731,
-            "y": 91,
+            "y": 283,
             "width": 31,
             "height": 55
           },
@@ -12042,7 +12098,7 @@
         {
           "bounds": {
             "x": 888,
-            "y": 91,
+            "y": 283,
             "width": 31,
             "height": 55
           },
@@ -12057,7 +12113,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 275,
+            "y": 467,
             "width": 31,
             "height": 55
           },
@@ -12072,7 +12128,7 @@
         {
           "bounds": {
             "x": 260,
-            "y": 275,
+            "y": 467,
             "width": 31,
             "height": 55
           },
@@ -12087,7 +12143,7 @@
         {
           "bounds": {
             "x": 417,
-            "y": 275,
+            "y": 467,
             "width": 31,
             "height": 55
           },
@@ -12102,7 +12158,7 @@
         {
           "bounds": {
             "x": 574,
-            "y": 275,
+            "y": 467,
             "width": 31,
             "height": 55
           },
@@ -12117,7 +12173,7 @@
         {
           "bounds": {
             "x": 716,
-            "y": 275,
+            "y": 467,
             "width": 61,
             "height": 55
           },
@@ -12132,7 +12188,7 @@
         {
           "bounds": {
             "x": 846,
-            "y": 275,
+            "y": 467,
             "width": 130,
             "height": 55
           },
@@ -12147,7 +12203,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 245,
             "width": 130,
             "height": 55
           },
@@ -12162,7 +12218,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 245,
             "width": 130,
             "height": 55
           },
@@ -12177,7 +12233,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 245,
             "width": 61,
             "height": 55
           },
@@ -13007,7 +13063,7 @@
           "path": "images/flowcolumn-simpleflowcolumn/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 737,
+          "height": 886,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumn__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumnPreview",
           "density": 2.625,
@@ -13018,7 +13074,7 @@
           "path": "images/flowcolumn-simpleflowcolumn/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 737,
+          "height": 886,
           "props": {
             "platform": "android"
           },
@@ -13046,7 +13102,7 @@
         {
           "bounds": {
             "x": 106,
-            "y": 106,
+            "y": 255,
             "width": 838,
             "height": 525
           },
@@ -13060,7 +13116,7 @@
         {
           "bounds": {
             "x": 114,
-            "y": 114,
+            "y": 263,
             "width": 31,
             "height": 55
           },
@@ -13075,7 +13131,7 @@
         {
           "bounds": {
             "x": 114,
-            "y": 306,
+            "y": 455,
             "width": 31,
             "height": 55
           },
@@ -13090,7 +13146,7 @@
         {
           "bounds": {
             "x": 114,
-            "y": 499,
+            "y": 648,
             "width": 31,
             "height": 55
           },
@@ -13105,7 +13161,7 @@
         {
           "bounds": {
             "x": 271,
-            "y": 114,
+            "y": 263,
             "width": 31,
             "height": 55
           },
@@ -13120,7 +13176,7 @@
         {
           "bounds": {
             "x": 271,
-            "y": 306,
+            "y": 455,
             "width": 31,
             "height": 55
           },
@@ -13135,7 +13191,7 @@
         {
           "bounds": {
             "x": 271,
-            "y": 499,
+            "y": 648,
             "width": 31,
             "height": 55
           },
@@ -13150,7 +13206,7 @@
         {
           "bounds": {
             "x": 428,
-            "y": 114,
+            "y": 263,
             "width": 31,
             "height": 55
           },
@@ -13165,7 +13221,7 @@
         {
           "bounds": {
             "x": 428,
-            "y": 306,
+            "y": 455,
             "width": 31,
             "height": 55
           },
@@ -13180,7 +13236,7 @@
         {
           "bounds": {
             "x": 428,
-            "y": 499,
+            "y": 648,
             "width": 31,
             "height": 55
           },
@@ -13195,7 +13251,7 @@
         {
           "bounds": {
             "x": 585,
-            "y": 114,
+            "y": 263,
             "width": 31,
             "height": 55
           },
@@ -13210,7 +13266,7 @@
         {
           "bounds": {
             "x": 585,
-            "y": 306,
+            "y": 455,
             "width": 61,
             "height": 55
           },
@@ -13225,7 +13281,7 @@
         {
           "bounds": {
             "x": 585,
-            "y": 499,
+            "y": 648,
             "width": 61,
             "height": 55
           },
@@ -13240,7 +13296,7 @@
         {
           "bounds": {
             "x": 742,
-            "y": 114,
+            "y": 263,
             "width": 61,
             "height": 55
           },
@@ -13255,7 +13311,7 @@
         {
           "bounds": {
             "x": 742,
-            "y": 306,
+            "y": 455,
             "width": 61,
             "height": 55
           },
@@ -13270,7 +13326,7 @@
         {
           "bounds": {
             "x": 742,
-            "y": 499,
+            "y": 648,
             "width": 61,
             "height": 55
           },
@@ -13506,7 +13562,7 @@
           "path": "images/flowcolumn-simpleflowcolumnmaxlinesdynamicseemore/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 525,
+          "height": 674,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumnmaxlinesdynamicseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumnMaxLinesDynamicSeeMorePreview",
           "density": 2.625
@@ -13516,7 +13572,7 @@
           "path": "images/flowcolumn-simpleflowcolumnmaxlinesdynamicseemore/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 525,
+          "height": 674,
           "props": {
             "platform": "android"
           },
@@ -13544,7 +13600,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 202,
             "width": 315,
             "height": 419
           },
@@ -13558,7 +13614,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 91,
+            "y": 240,
             "width": 31,
             "height": 55
           },
@@ -13573,7 +13629,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 248,
+            "y": 397,
             "width": 31,
             "height": 55
           },
@@ -13588,7 +13644,7 @@
         {
           "bounds": {
             "x": 287,
-            "y": 91,
+            "y": 240,
             "width": 31,
             "height": 55
           },
@@ -13603,7 +13659,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 202,
             "width": 31,
             "height": 55
           },
@@ -13874,7 +13930,7 @@
           "path": "images/flowcolumn-simpleflowcolumnmaxlineswithseemore/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 525,
+          "height": 674,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumnmaxlineswithseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumnMaxLinesWithSeeMorePreview",
           "density": 2.625,
@@ -13885,7 +13941,7 @@
           "path": "images/flowcolumn-simpleflowcolumnmaxlineswithseemore/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 525,
+          "height": 674,
           "props": {
             "platform": "android"
           },
@@ -13913,7 +13969,7 @@
         {
           "bounds": {
             "x": 0,
-            "y": 0,
+            "y": 149,
             "width": 421,
             "height": 525
           },
@@ -13927,7 +13983,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 91,
+            "y": 240,
             "width": 31,
             "height": 55
           },
@@ -13942,7 +13998,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 248,
+            "y": 397,
             "width": 31,
             "height": 55
           },
@@ -13957,7 +14013,7 @@
         {
           "bounds": {
             "x": 287,
-            "y": 91,
+            "y": 240,
             "width": 31,
             "height": 55
           },
@@ -13972,7 +14028,7 @@
         {
           "bounds": {
             "x": 280,
-            "y": 248,
+            "y": 397,
             "width": 46,
             "height": 55
           },
@@ -13987,7 +14043,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 202,
             "width": 31,
             "height": 55
           },
@@ -14258,7 +14314,7 @@
           "path": "images/flowrow-simpleflowrow/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 1341,
+          "height": 1490,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowrow-simpleflowrow__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRowPreview",
           "density": 2.625,
@@ -14269,7 +14325,7 @@
           "path": "images/flowrow-simpleflowrow/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 1341,
+          "height": 1490,
           "props": {
             "platform": "android"
           },
@@ -14297,7 +14353,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 61,
+            "y": 210,
             "width": 31,
             "height": 55
           },
@@ -14312,7 +14368,7 @@
         {
           "bounds": {
             "x": 383,
-            "y": 61,
+            "y": 210,
             "width": 31,
             "height": 55
           },
@@ -14327,7 +14383,7 @@
         {
           "bounds": {
             "x": 706,
-            "y": 61,
+            "y": 210,
             "width": 31,
             "height": 55
           },
@@ -14342,7 +14398,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 245,
+            "y": 394,
             "width": 31,
             "height": 55
           },
@@ -14357,7 +14413,7 @@
         {
           "bounds": {
             "x": 383,
-            "y": 245,
+            "y": 394,
             "width": 31,
             "height": 55
           },
@@ -14372,7 +14428,7 @@
         {
           "bounds": {
             "x": 706,
-            "y": 245,
+            "y": 394,
             "width": 31,
             "height": 55
           },
@@ -14387,7 +14443,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 429,
+            "y": 578,
             "width": 31,
             "height": 55
           },
@@ -14402,7 +14458,7 @@
         {
           "bounds": {
             "x": 383,
-            "y": 429,
+            "y": 578,
             "width": 31,
             "height": 55
           },
@@ -14417,7 +14473,7 @@
         {
           "bounds": {
             "x": 706,
-            "y": 429,
+            "y": 578,
             "width": 31,
             "height": 55
           },
@@ -14432,7 +14488,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 613,
+            "y": 762,
             "width": 31,
             "height": 55
           },
@@ -14447,7 +14503,7 @@
         {
           "bounds": {
             "x": 383,
-            "y": 613,
+            "y": 762,
             "width": 61,
             "height": 55
           },
@@ -14462,7 +14518,7 @@
         {
           "bounds": {
             "x": 706,
-            "y": 613,
+            "y": 762,
             "width": 61,
             "height": 55
           },
@@ -14477,7 +14533,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 797,
+            "y": 946,
             "width": 61,
             "height": 55
           },
@@ -14492,7 +14548,7 @@
         {
           "bounds": {
             "x": 383,
-            "y": 797,
+            "y": 946,
             "width": 61,
             "height": 55
           },
@@ -14507,7 +14563,7 @@
         {
           "bounds": {
             "x": 706,
-            "y": 797,
+            "y": 946,
             "width": 61,
             "height": 55
           },
@@ -14522,7 +14578,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 981,
+            "y": 1130,
             "width": 61,
             "height": 55
           },
@@ -14537,7 +14593,7 @@
         {
           "bounds": {
             "x": 383,
-            "y": 981,
+            "y": 1130,
             "width": 61,
             "height": 55
           },
@@ -14552,7 +14608,7 @@
         {
           "bounds": {
             "x": 706,
-            "y": 981,
+            "y": 1130,
             "width": 61,
             "height": 55
           },
@@ -14567,7 +14623,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 1165,
+            "y": 1314,
             "width": 61,
             "height": 55
           },
@@ -14582,7 +14638,7 @@
         {
           "bounds": {
             "x": 545,
-            "y": 1165,
+            "y": 1314,
             "width": 61,
             "height": 55
           },
@@ -14788,7 +14844,7 @@
           "path": "images/flowrow-simpleflowrowmaxlinesdynamicseemore/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 527,
+          "height": 805,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowrow-simpleflowrowmaxlinesdynamicseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRowMaxLinesDynamicSeeMorePreview",
           "density": 2.625
@@ -14798,7 +14854,7 @@
           "path": "images/flowrow-simpleflowrowmaxlinesdynamicseemore/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 527,
+          "height": 762,
           "props": {
             "platform": "android"
           },
@@ -14826,7 +14882,7 @@
         {
           "bounds": {
             "x": 156,
-            "y": 144,
+            "y": 422,
             "width": 31,
             "height": 55
           },
@@ -14841,7 +14897,7 @@
         {
           "bounds": {
             "x": 313,
-            "y": 144,
+            "y": 422,
             "width": 31,
             "height": 55
           },
@@ -14856,7 +14912,7 @@
         {
           "bounds": {
             "x": 470,
-            "y": 144,
+            "y": 422,
             "width": 31,
             "height": 55
           },
@@ -14871,7 +14927,7 @@
         {
           "bounds": {
             "x": 627,
-            "y": 144,
+            "y": 422,
             "width": 31,
             "height": 55
           },
@@ -14886,7 +14942,7 @@
         {
           "bounds": {
             "x": 784,
-            "y": 144,
+            "y": 422,
             "width": 31,
             "height": 55
           },
@@ -14901,7 +14957,7 @@
         {
           "bounds": {
             "x": 156,
-            "y": 328,
+            "y": 606,
             "width": 31,
             "height": 55
           },
@@ -14916,7 +14972,7 @@
         {
           "bounds": {
             "x": 313,
-            "y": 328,
+            "y": 606,
             "width": 31,
             "height": 55
           },
@@ -14931,7 +14987,7 @@
         {
           "bounds": {
             "x": 470,
-            "y": 328,
+            "y": 606,
             "width": 31,
             "height": 55
           },
@@ -14946,7 +15002,7 @@
         {
           "bounds": {
             "x": 627,
-            "y": 328,
+            "y": 606,
             "width": 31,
             "height": 55
           },
@@ -14961,7 +15017,7 @@
         {
           "bounds": {
             "x": 106,
-            "y": 106,
+            "y": 384,
             "width": 31,
             "height": 55
           },
@@ -15442,7 +15498,7 @@
           "path": "images/flowrow-simpleflowrowmaxlineswithseemore/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 421,
+          "height": 656,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowrow-simpleflowrowmaxlineswithseemore__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRowMaxLinesWithSeeMorePreview",
           "density": 2.625,
@@ -15453,7 +15509,7 @@
           "path": "images/flowrow-simpleflowrowmaxlineswithseemore/ideal__default__platform-android.png",
           "state": "default",
           "width": 1050,
-          "height": 421,
+          "height": 613,
           "props": {
             "platform": "android"
           },
@@ -15481,7 +15537,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 91,
+            "y": 326,
             "width": 31,
             "height": 55
           },
@@ -15496,7 +15552,7 @@
         {
           "bounds": {
             "x": 260,
-            "y": 91,
+            "y": 326,
             "width": 31,
             "height": 55
           },
@@ -15511,7 +15567,7 @@
         {
           "bounds": {
             "x": 417,
-            "y": 91,
+            "y": 326,
             "width": 31,
             "height": 55
           },
@@ -15526,7 +15582,7 @@
         {
           "bounds": {
             "x": 574,
-            "y": 91,
+            "y": 326,
             "width": 31,
             "height": 55
           },
@@ -15541,7 +15597,7 @@
         {
           "bounds": {
             "x": 731,
-            "y": 91,
+            "y": 326,
             "width": 31,
             "height": 55
           },
@@ -15556,7 +15612,7 @@
         {
           "bounds": {
             "x": 888,
-            "y": 91,
+            "y": 326,
             "width": 31,
             "height": 55
           },
@@ -15571,7 +15627,7 @@
         {
           "bounds": {
             "x": 103,
-            "y": 275,
+            "y": 510,
             "width": 31,
             "height": 55
           },
@@ -15586,7 +15642,7 @@
         {
           "bounds": {
             "x": 260,
-            "y": 275,
+            "y": 510,
             "width": 31,
             "height": 55
           },
@@ -15601,7 +15657,7 @@
         {
           "bounds": {
             "x": 417,
-            "y": 275,
+            "y": 510,
             "width": 31,
             "height": 55
           },
@@ -15616,7 +15672,7 @@
         {
           "bounds": {
             "x": 574,
-            "y": 275,
+            "y": 510,
             "width": 31,
             "height": 55
           },
@@ -15631,7 +15687,7 @@
         {
           "bounds": {
             "x": 716,
-            "y": 275,
+            "y": 510,
             "width": 61,
             "height": 55
           },
@@ -15646,7 +15702,7 @@
         {
           "bounds": {
             "x": 881,
-            "y": 275,
+            "y": 510,
             "width": 46,
             "height": 55
           },
@@ -15661,7 +15717,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 53,
+            "y": 288,
             "width": 61,
             "height": 55
           },
@@ -16537,7 +16593,7 @@
           "path": "images/intrinsic-samewidthboxes/ideal__default.png",
           "state": "default",
           "width": 79,
-          "height": 2100,
+          "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/intrinsic-samewidthboxes__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SameWidthBoxesPreview",
           "density": 2.625,
@@ -16548,7 +16604,7 @@
           "path": "images/intrinsic-samewidthboxes/ideal__default__platform-android.png",
           "state": "default",
           "width": 79,
-          "height": 2100,
+          "height": 131,
           "props": {
             "platform": "android"
           },
@@ -16576,7 +16632,7 @@
           "path": "images/intrinsic-samewidthtextboxes/ideal__default.png",
           "state": "default",
           "width": 924,
-          "height": 2100,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/intrinsic-samewidthtextboxes__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SameWidthTextBoxesPreview",
           "density": 2.625,
@@ -16587,7 +16643,7 @@
           "path": "images/intrinsic-samewidthtextboxes/ideal__default__platform-android.png",
           "state": "default",
           "width": 794,
-          "height": 2100,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -16614,8 +16670,8 @@
           "variant": "ideal",
           "path": "images/layoutoffset-absoluteoffsetmodifier/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 578,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutoffset-absoluteoffsetmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AbsoluteOffsetModifierPreview",
           "density": 2.625,
@@ -16625,8 +16681,8 @@
           "variant": "ideal",
           "path": "images/layoutoffset-absoluteoffsetmodifier/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 578,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -16692,8 +16748,8 @@
           "variant": "ideal",
           "path": "images/layoutoffset-offsetmodifier/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 578,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layoutoffset-offsetmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OffsetModifierPreview",
           "density": 2.625,
@@ -16703,8 +16759,8 @@
           "variant": "ideal",
           "path": "images/layoutoffset-offsetmodifier/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 578,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -17158,7 +17214,7 @@
           "path": "images/row-simplealignbyinrow/ideal__default.png",
           "state": "default",
           "width": 633,
-          "height": 2100,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/row-simplealignbyinrow__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleAlignByInRowPreview",
           "density": 2.625,
@@ -17169,7 +17225,7 @@
           "path": "images/row-simplealignbyinrow/ideal__default__platform-android.png",
           "state": "default",
           "width": 593,
-          "height": 2100,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -17197,7 +17253,7 @@
           "path": "images/row-simplealigninrow/ideal__default.png",
           "state": "default",
           "width": 840,
-          "height": 2100,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/row-simplealigninrow__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleAlignInRowPreview",
           "density": 2.625,
@@ -17208,7 +17264,7 @@
           "path": "images/row-simplealigninrow/ideal__default__platform-android.png",
           "state": "default",
           "width": 840,
-          "height": 2100,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -17235,7 +17291,7 @@
           "variant": "ideal",
           "path": "images/row-simplerow/ideal__default.png",
           "state": "default",
-          "width": 787,
+          "width": 525,
           "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/row-simplerow__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleRowPreview",
@@ -17246,7 +17302,7 @@
           "variant": "ideal",
           "path": "images/row-simplerow/ideal__default__platform-android.png",
           "state": "default",
-          "width": 787,
+          "width": 525,
           "height": 210,
           "props": {
             "platform": "android"
@@ -17275,7 +17331,7 @@
           "path": "images/sizemodifier-defaultminsizesample/ideal__default.png",
           "state": "default",
           "width": 263,
-          "height": 263,
+          "height": 415,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-defaultminsizesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DefaultMinSizeSamplePreview",
           "density": 2.625,
@@ -17286,7 +17342,7 @@
           "path": "images/sizemodifier-defaultminsizesample/ideal__default__platform-android.png",
           "state": "default",
           "width": 263,
-          "height": 263,
+          "height": 415,
           "props": {
             "platform": "android"
           },
@@ -17431,7 +17487,7 @@
           "path": "images/sizemodifier-simplefillheightmodifier/ideal__default.png",
           "state": "default",
           "width": 263,
-          "height": 2100,
+          "height": 394,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplefillheightmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFillHeightModifierPreview",
           "density": 2.625,
@@ -17442,7 +17498,7 @@
           "path": "images/sizemodifier-simplefillheightmodifier/ideal__default__platform-android.png",
           "state": "default",
           "width": 263,
-          "height": 2100,
+          "height": 394,
           "props": {
             "platform": "android"
           },
@@ -17469,8 +17525,8 @@
           "variant": "ideal",
           "path": "images/sizemodifier-simplefillmodifier/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 394,
+          "height": 394,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/sizemodifier-simplefillmodifier__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFillModifierPreview",
           "density": 2.625,
@@ -17480,8 +17536,8 @@
           "variant": "ideal",
           "path": "images/sizemodifier-simplefillmodifier/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 394,
+          "height": 394,
           "props": {
             "platform": "android"
           },
@@ -17976,7 +18032,7 @@
           "variant": "ideal",
           "path": "images/visiblemodifier-visiblemodifiersample/ideal__default.png",
           "state": "default",
-          "width": 131,
+          "width": 262,
           "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/visiblemodifier-visiblemodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.VisibleModifierSamplePreview",
@@ -17987,7 +18043,7 @@
           "variant": "ideal",
           "path": "images/visiblemodifier-visiblemodifiersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 131,
+          "width": 262,
           "height": 131,
           "props": {
             "platform": "android"
@@ -18015,8 +18071,8 @@
           "variant": "ideal",
           "path": "images/windowinsets-fitinsideoutsideexample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/windowinsets-fitinsideoutsideexample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.FitInsideOutsideExamplePreview",
           "density": 2.625,
@@ -18026,8 +18082,8 @@
           "variant": "ideal",
           "path": "images/windowinsets-fitinsideoutsideexample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -18216,8 +18272,8 @@
           "variant": "ideal",
           "path": "images/alignmentline-alignmentlinesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 100,
+          "height": 40,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/alignmentline-alignmentlinesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AlignmentLineSamplePreview",
           "density": 2.625,
@@ -18227,8 +18283,8 @@
           "variant": "ideal",
           "path": "images/alignmentline-alignmentlinesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 100,
+          "height": 40,
           "props": {
             "platform": "android"
           },
@@ -18703,8 +18759,8 @@
           "variant": "ideal",
           "path": "images/drawmodifier-drawmodifiernodesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawmodifier-drawmodifiernodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawModifierNodeSamplePreview",
           "density": 2.625
@@ -18713,8 +18769,8 @@
           "variant": "ideal",
           "path": "images/drawmodifier-drawmodifiernodesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -18779,19 +18835,18 @@
           "variant": "ideal",
           "path": "images/drawmodifier-drawwithcachemodifiersample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawmodifier-drawwithcachemodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawWithCacheModifierSamplePreview",
-          "density": 2.625,
-          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawmodifier-drawwithcachemodifiersample__ideal__default.svg"
+          "density": 2.625
         },
         {
           "variant": "ideal",
           "path": "images/drawmodifier-drawwithcachemodifiersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -18818,19 +18873,18 @@
           "variant": "ideal",
           "path": "images/drawmodifier-drawwithcachemodifierstateparametersample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawmodifier-drawwithcachemodifierstateparametersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawWithCacheModifierStateParameterSamplePreview",
-          "density": 2.625,
-          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/drawmodifier-drawwithcachemodifierstateparametersample__ideal__default.svg"
+          "density": 2.625
         },
         {
           "variant": "ideal",
           "path": "images/drawmodifier-drawwithcachemodifierstateparametersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -20515,8 +20569,8 @@
           "variant": "ideal",
           "path": "images/layout-conveniencelayoutmodifiersample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 313,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layout-conveniencelayoutmodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ConvenienceLayoutModifierSamplePreview",
           "density": 2.625,
@@ -20526,8 +20580,8 @@
           "variant": "ideal",
           "path": "images/layout-conveniencelayoutmodifiersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 313,
           "props": {
             "platform": "android"
           },
@@ -20554,8 +20608,8 @@
           "variant": "ideal",
           "path": "images/layout-layoutmodifiernodesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 394,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layout-layoutmodifiernodesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LayoutModifierNodeSamplePreview",
           "density": 2.625,
@@ -20565,8 +20619,8 @@
           "variant": "ideal",
           "path": "images/layout-layoutmodifiernodesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 394,
           "props": {
             "platform": "android"
           },
@@ -20593,8 +20647,8 @@
           "variant": "ideal",
           "path": "images/layout-layoutmodifiersample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 313,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/layout-layoutmodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LayoutModifierSamplePreview",
           "density": 2.625,
@@ -20604,8 +20658,8 @@
           "variant": "ideal",
           "path": "images/layout-layoutmodifiersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 313,
           "props": {
             "platform": "android"
           },
@@ -22244,8 +22298,8 @@
           "variant": "ideal",
           "path": "images/onplaced-onplaced/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 420,
+          "height": 420,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/onplaced-onplaced__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.OnPlacedPreview",
           "density": 2.625,
@@ -22255,8 +22309,8 @@
           "variant": "ideal",
           "path": "images/onplaced-onplaced/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 420,
+          "height": 420,
           "props": {
             "platform": "android"
           },
@@ -22265,7 +22319,22 @@
         }
       ],
       "greenlines": [],
-      "redlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 11,
+            "y": 11,
+            "width": 398,
+            "height": 398
+          },
+          "padding": {
+            "start": 4,
+            "top": 4,
+            "end": 4,
+            "bottom": 4
+          }
+        }
+      ],
       "section": "UI",
       "group": "OnPlaced",
       "caption": "`OnPlaced` — desktop and Android.",
@@ -22840,8 +22909,8 @@
           "variant": "ideal",
           "path": "images/scale-scalenonuniformsample/ideal__default.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 105,
+          "height": 105,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scale-scalenonuniformsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaleNonUniformSamplePreview",
           "density": 2.625,
@@ -22851,8 +22920,8 @@
           "variant": "ideal",
           "path": "images/scale-scalenonuniformsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 105,
+          "height": 105,
           "props": {
             "platform": "android"
           },
@@ -22879,8 +22948,8 @@
           "variant": "ideal",
           "path": "images/scale-scaleuniformsample/ideal__default.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 131,
+          "height": 131,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scale-scaleuniformsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaleUniformSamplePreview",
           "density": 2.625,
@@ -22890,8 +22959,8 @@
           "variant": "ideal",
           "path": "images/scale-scaleuniformsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 131,
+          "height": 131,
           "props": {
             "platform": "android"
           },
@@ -23059,18 +23128,19 @@
           "variant": "ideal",
           "path": "images/shadow-dropshadowsample/ideal__default.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 347,
+          "height": 347,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/shadow-dropshadowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DropShadowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/shadow-dropshadowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
           "path": "images/shadow-dropshadowsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 347,
+          "height": 347,
           "props": {
             "platform": "android"
           },
@@ -23079,7 +23149,22 @@
         }
       ],
       "greenlines": [],
-      "redlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 263,
+            "height": 263
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        }
+      ],
       "section": "UI",
       "group": "Shadow",
       "caption": "`DropShadowSample` — desktop and Android.",
@@ -23097,18 +23182,19 @@
           "variant": "ideal",
           "path": "images/shadow-innershadowsample/ideal__default.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 347,
+          "height": 347,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/shadow-innershadowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.InnerShadowSamplePreview",
-          "density": 2.625
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/compose-ui-samples/render/shadow-innershadowsample__ideal__default.svg"
         },
         {
           "variant": "ideal",
           "path": "images/shadow-innershadowsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 347,
+          "height": 347,
           "props": {
             "platform": "android"
           },
@@ -23117,7 +23203,22 @@
         }
       ],
       "greenlines": [],
-      "redlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 263,
+            "height": 263
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        }
+      ],
       "section": "UI",
       "group": "Shadow",
       "caption": "`InnerShadowSample` — desktop and Android.",
@@ -23135,8 +23236,8 @@
           "variant": "ideal",
           "path": "images/shadow-shadowsample/ideal__default.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 347,
+          "height": 347,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/shadow-shadowsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ShadowSamplePreview",
           "density": 2.625,
@@ -23146,8 +23247,8 @@
           "variant": "ideal",
           "path": "images/shadow-shadowsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 263,
-          "height": 263,
+          "width": 347,
+          "height": 347,
           "props": {
             "platform": "android"
           },
@@ -23156,7 +23257,22 @@
         }
       ],
       "greenlines": [],
-      "redlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 263,
+            "height": 263
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        }
+      ],
       "section": "UI",
       "group": "Shadow",
       "caption": "`ShadowSample` — desktop and Android.",
@@ -23512,7 +23628,7 @@
           "path": "images/zindexmodifier-zindexmodifiersample/ideal__default.png",
           "state": "default",
           "width": 263,
-          "height": 43,
+          "height": 69,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/zindexmodifier-zindexmodifiersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ZIndexModifierSamplePreview",
           "density": 2.625,
@@ -23523,7 +23639,7 @@
           "path": "images/zindexmodifier-zindexmodifiersample/ideal__default__platform-android.png",
           "state": "default",
           "width": 230,
-          "height": 43,
+          "height": 69,
           "props": {
             "platform": "android"
           },
@@ -23532,7 +23648,23 @@
         }
       ],
       "greenlines": [],
-      "redlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 26,
+            "width": 203,
+            "height": 43
+          },
+          "label": "Drawn first",
+          "padding": {
+            "start": 0,
+            "top": 10,
+            "end": 0,
+            "bottom": 0
+          }
+        }
+      ],
       "section": "UI",
       "group": "ZIndexModifier",
       "caption": "`ZIndexModifierSample` — desktop and Android.",
@@ -23588,8 +23720,8 @@
           "variant": "ideal",
           "path": "images/brush-gradientbrushsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 315,
+          "height": 1051,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/brush-gradientbrushsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GradientBrushSamplePreview",
           "density": 2.625
@@ -23598,8 +23730,8 @@
           "variant": "ideal",
           "path": "images/brush-gradientbrushsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 315,
+          "height": 1051,
           "props": {
             "platform": "android"
           },
@@ -23751,8 +23883,8 @@
           "variant": "ideal",
           "path": "images/meshgradient-meshgradientpaintersample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/meshgradient-meshgradientpaintersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MeshGradientPainterSamplePreview",
           "density": 2.625
@@ -23778,7 +23910,7 @@
           "path": "images/patheffect-stampedpatheffectsample/ideal__default.png",
           "state": "default",
           "width": 210,
-          "height": 2100,
+          "height": 682,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/patheffect-stampedpatheffectsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.StampedPathEffectSamplePreview",
           "density": 2.625
@@ -23788,7 +23920,7 @@
           "path": "images/patheffect-stampedpatheffectsample/ideal__default__platform-android.png",
           "state": "default",
           "width": 210,
-          "height": 2100,
+          "height": 682,
           "props": {
             "platform": "android"
           },
@@ -24191,8 +24323,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextannotatedstringsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawtext-drawtextannotatedstringsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawTextAnnotatedStringSamplePreview",
           "density": 2.625
@@ -24201,8 +24333,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextannotatedstringsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -24229,8 +24361,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextdrawwithcachesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawtext-drawtextdrawwithcachesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawTextDrawWithCacheSamplePreview",
           "density": 2.625
@@ -24239,8 +24371,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextdrawwithcachesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -24267,8 +24399,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextmeasureinlayoutsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawtext-drawtextmeasureinlayoutsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawTextMeasureInLayoutSamplePreview",
           "density": 2.625
@@ -24277,8 +24409,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextmeasureinlayoutsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -24305,8 +24437,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawtext-drawtextsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawTextSamplePreview",
           "density": 2.625
@@ -24315,8 +24447,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -24343,8 +24475,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextstyledsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawtext-drawtextstyledsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DrawTextStyledSamplePreview",
           "density": 2.625
@@ -24353,8 +24485,8 @@
           "variant": "ideal",
           "path": "images/drawtext-drawtextstyledsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -24879,8 +25011,8 @@
           "variant": "ideal",
           "path": "images/textmotion-textmotionsample/ideal__default.png",
           "state": "default",
-          "width": 94,
-          "height": 43,
+          "width": 525,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/textmotion-textmotionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.TextMotionSamplePreview",
           "density": 2.625,
@@ -24890,8 +25022,8 @@
           "variant": "ideal",
           "path": "images/textmotion-textmotionsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 85,
-          "height": 43,
+          "width": 525,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -25152,8 +25284,8 @@
           "variant": "ideal",
           "path": "images/dp-dpsample/ideal__default.png",
           "state": "default",
-          "width": 79,
-          "height": 52,
+          "width": 210,
+          "height": 183,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/dp-dpsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DpSamplePreview",
           "density": 2.625,
@@ -25163,8 +25295,8 @@
           "variant": "ideal",
           "path": "images/dp-dpsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 79,
-          "height": 52,
+          "width": 210,
+          "height": 183,
           "props": {
             "platform": "android"
           },
@@ -25173,7 +25305,22 @@
         }
       ],
       "greenlines": [],
-      "redlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 26,
+            "y": 26,
+            "width": 131,
+            "height": 131
+          },
+          "padding": {
+            "start": 10,
+            "top": 10,
+            "end": 20,
+            "bottom": 10
+          }
+        }
+      ],
       "section": "Unit",
       "group": "Dp",
       "caption": "`DpSample` — desktop and Android.",
@@ -25191,8 +25338,8 @@
           "variant": "ideal",
           "path": "images/dp-topxsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/dp-topxsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ToPxSamplePreview",
           "density": 2.625
@@ -25201,8 +25348,8 @@
           "variant": "ideal",
           "path": "images/dp-topxsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -25447,8 +25594,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-coloranimationsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-coloranimationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ColorAnimationSamplePreview",
           "density": 2.625,
@@ -25458,8 +25605,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-coloranimationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -26265,8 +26412,8 @@
           "variant": "ideal",
           "path": "images/lookaheadanimationvisualdebug-customizedlookaheadanimationvisualdebuggingsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lookaheadanimationvisualdebug-customizedlookaheadanimationvisualdebuggingsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.CustomizedLookaheadAnimationVisualDebuggingSamplePreview",
           "density": 2.625,
@@ -26276,8 +26423,8 @@
           "variant": "ideal",
           "path": "images/lookaheadanimationvisualdebug-customizedlookaheadanimationvisualdebuggingsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "props": {
             "platform": "android"
           },
@@ -26304,8 +26451,8 @@
           "variant": "ideal",
           "path": "images/lookaheadanimationvisualdebug-lookaheadanimationvisualdebuggingsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/lookaheadanimationvisualdebug-lookaheadanimationvisualdebuggingsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.LookaheadAnimationVisualDebuggingSamplePreview",
           "density": 2.625,
@@ -26315,8 +26462,8 @@
           "variant": "ideal",
           "path": "images/lookaheadanimationvisualdebug-lookaheadanimationvisualdebuggingsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 656,
+          "height": 656,
           "props": {
             "platform": "android"
           },
@@ -26967,8 +27114,8 @@
           "variant": "ideal",
           "path": "images/transition-animation-gestureanimationsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 703,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transition-animation-gestureanimationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.GestureAnimationSamplePreview",
           "density": 2.625,
@@ -26978,8 +27125,8 @@
           "variant": "ideal",
           "path": "images/transition-animation-gestureanimationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 703,
           "props": {
             "platform": "android"
           },
@@ -26995,14 +27142,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 339,
+              "x": 77,
               "y": 42,
               "width": 372,
               "height": 95
             }
           },
           "bounds": {
-            "x": 339,
+            "x": 77,
             "y": 42,
             "width": 372,
             "height": 95
@@ -27012,7 +27159,7 @@
       "redlines": [
         {
           "bounds": {
-            "x": 339,
+            "x": 77,
             "y": 42,
             "width": 372,
             "height": 95
@@ -27044,8 +27191,8 @@
           "variant": "ideal",
           "path": "images/transition-animation-infinitetransitionsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/transition-animation-infinitetransitionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimationInfiniteTransitionSamplePreview",
           "density": 2.625,
@@ -27055,8 +27202,8 @@
           "variant": "ideal",
           "path": "images/transition-animation-infinitetransitionsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -27168,8 +27315,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-core-alphaanimationsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-core-alphaanimationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AlphaAnimationSamplePreview",
           "density": 2.625,
@@ -27179,8 +27326,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-core-alphaanimationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -27207,8 +27354,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-core-animateoffsetsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-core-animateoffsetsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimateOffsetSamplePreview",
           "density": 2.625,
@@ -27218,8 +27365,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-core-animateoffsetsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -27246,8 +27393,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-core-arbitraryvaluetypetransitionsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-core-arbitraryvaluetypetransitionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ArbitraryValueTypeTransitionSamplePreview",
           "density": 2.625,
@@ -27257,8 +27404,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-core-arbitraryvaluetypetransitionsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -27285,8 +27432,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-core-dpanimationsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 1050,
+          "height": 53,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/animatedvalue-animation-core-dpanimationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.DpAnimationSamplePreview",
           "density": 2.625,
@@ -27296,8 +27443,8 @@
           "variant": "ideal",
           "path": "images/animatedvalue-animation-core-dpanimationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 1050,
+          "height": 53,
           "props": {
             "platform": "android"
           },
@@ -27448,8 +27595,8 @@
           "variant": "ideal",
           "path": "images/infinitetransition-infinitetransitionsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/infinitetransition-infinitetransitionsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AnimationCoreInfiniteTransitionSamplePreview",
           "density": 2.625,
@@ -27459,8 +27606,8 @@
           "variant": "ideal",
           "path": "images/infinitetransition-infinitetransitionsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -27526,8 +27673,8 @@
           "variant": "ideal",
           "path": "images/patheasing-patheasingsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/patheasing-patheasingsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.PathEasingSamplePreview",
           "density": 2.625,
@@ -27537,8 +27684,8 @@
           "variant": "ideal",
           "path": "images/patheasing-patheasingsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 525,
+          "height": 525,
           "props": {
             "platform": "android"
           },
@@ -28657,8 +28804,8 @@
           "variant": "ideal",
           "path": "images/saveablestateholder-simplenavigationwithsaveablestatesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 788,
+          "height": 295,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/saveablestateholder-simplenavigationwithsaveablestatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleNavigationWithSaveableStateSamplePreview",
           "density": 2.625,
@@ -28668,8 +28815,8 @@
           "variant": "ideal",
           "path": "images/saveablestateholder-simplenavigationwithsaveablestatesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 788,
+          "height": 295,
           "props": {
             "platform": "android"
           },
@@ -31055,8 +31202,8 @@
           "variant": "ideal",
           "path": "images/drawer-bottomdrawersample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawer-bottomdrawersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.BottomDrawerSamplePreview",
           "density": 2.625,
@@ -31066,8 +31213,8 @@
           "variant": "ideal",
           "path": "images/drawer-bottomdrawersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "props": {
             "platform": "android"
           },
@@ -31083,14 +31230,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 342,
+              "x": 237,
               "y": 217,
               "width": 367,
               "height": 95
             }
           },
           "bounds": {
-            "x": 342,
+            "x": 237,
             "y": 217,
             "width": 367,
             "height": 95
@@ -31103,24 +31250,24 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 341,
-              "y": 2158,
-              "width": 369,
-              "height": 95
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
             }
           },
           "bounds": {
-            "x": 341,
-            "y": 2158,
-            "width": 369,
-            "height": 95
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           }
         }
       ],
       "redlines": [
         {
           "bounds": {
-            "x": 342,
+            "x": 237,
             "y": 217,
             "width": 367,
             "height": 95
@@ -31131,18 +31278,18 @@
         {
           "bounds": {
             "x": 0,
-            "y": 2100,
-            "width": 1050,
-            "height": 2037
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "cornerRadius": 0
         },
         {
           "bounds": {
-            "x": 341,
-            "y": 2158,
-            "width": 369,
-            "height": 95
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "role": "Button",
           "padding": {
@@ -31171,8 +31318,8 @@
           "variant": "ideal",
           "path": "images/drawer-modaldrawersample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 840,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/drawer-modaldrawersample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ModalDrawerSamplePreview",
           "density": 2.625,
@@ -31182,8 +31329,8 @@
           "variant": "ideal",
           "path": "images/drawer-modaldrawersample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 840,
           "props": {
             "platform": "android"
           },
@@ -31199,14 +31346,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 342,
+              "x": 237,
               "y": 154,
               "width": 367,
               "height": 95
             }
           },
           "bounds": {
-            "x": 342,
+            "x": 237,
             "y": 154,
             "width": 367,
             "height": 95
@@ -31219,14 +31366,14 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": -783,
+              "x": -678,
               "y": 58,
               "width": 369,
               "height": 95
             }
           },
           "bounds": {
-            "x": -783,
+            "x": -678,
             "y": 58,
             "width": 369,
             "height": 95
@@ -31236,7 +31383,7 @@
       "redlines": [
         {
           "bounds": {
-            "x": 342,
+            "x": 237,
             "y": 154,
             "width": 367,
             "height": 95
@@ -31246,10 +31393,10 @@
         },
         {
           "bounds": {
-            "x": -1050,
+            "x": -840,
             "y": 0,
-            "width": 903,
-            "height": 2100
+            "width": 693,
+            "height": 840
           },
           "padding": {
             "start": 0,
@@ -31261,7 +31408,7 @@
         },
         {
           "bounds": {
-            "x": -783,
+            "x": -678,
             "y": 58,
             "width": 369,
             "height": 95
@@ -31293,8 +31440,8 @@
           "variant": "ideal",
           "path": "images/elevation-absoluteelevationsample/ideal__default.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 326,
+          "height": 326,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/elevation-absoluteelevationsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.AbsoluteElevationSamplePreview",
           "density": 2.625,
@@ -31304,8 +31451,8 @@
           "variant": "ideal",
           "path": "images/elevation-absoluteelevationsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1,
-          "height": 1,
+          "width": 326,
+          "height": 326,
           "props": {
             "platform": "android"
           },
@@ -31314,7 +31461,36 @@
         }
       ],
       "greenlines": [],
-      "redlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 242,
+            "height": 242
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 84,
+            "width": 158,
+            "height": 158
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        }
+      ],
       "section": "Material",
       "group": "Elevation",
       "caption": "`AbsoluteElevationSample` — desktop and Android.",
@@ -31948,8 +32124,8 @@
           "variant": "ideal",
           "path": "images/menu-menusample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 473,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/menu-menusample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MenuSamplePreview",
           "density": 2.625,
@@ -31959,8 +32135,8 @@
           "variant": "ideal",
           "path": "images/menu-menusample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 473,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -32008,8 +32184,8 @@
           "variant": "ideal",
           "path": "images/menu-menuwithscrollstatesample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 473,
+          "height": 210,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/menu-menuwithscrollstatesample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.MenuWithScrollStateSamplePreview",
           "density": 2.625,
@@ -32019,8 +32195,8 @@
           "variant": "ideal",
           "path": "images/menu-menuwithscrollstatesample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 473,
+          "height": 210,
           "props": {
             "platform": "android"
           },
@@ -32400,9 +32576,9 @@
         {
           "bounds": {
             "x": 0,
-            "y": -26,
+            "y": 0,
             "width": 630,
-            "height": 63
+            "height": 37
           },
           "padding": {
             "start": 0,
@@ -32576,8 +32752,8 @@
           "variant": "ideal",
           "path": "images/scaffold-scaffoldwithbottombarandcutout/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-scaffoldwithbottombarandcutout__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithBottomBarAndCutoutPreview",
           "density": 2.625,
@@ -32587,8 +32763,8 @@
           "variant": "ideal",
           "path": "images/scaffold-scaffoldwithbottombarandcutout/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "props": {
             "platform": "android"
           },
@@ -32605,14 +32781,14 @@
             "role": "button",
             "bounds": {
               "x": 43,
-              "y": 1996,
+              "y": 841,
               "width": 63,
               "height": 63
             }
           },
           "bounds": {
             "x": 43,
-            "y": 1996,
+            "y": 841,
             "width": 63,
             "height": 63
           }
@@ -32624,15 +32800,15 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 320,
-              "y": 1890,
+              "x": 215,
+              "y": 735,
               "width": 409,
               "height": 126
             }
           },
           "bounds": {
-            "x": 320,
-            "y": 1890,
+            "x": 215,
+            "y": 735,
             "width": 409,
             "height": 126
           }
@@ -32642,16 +32818,16 @@
         {
           "bounds": {
             "x": 0,
-            "y": 1953,
-            "width": 1050,
+            "y": 798,
+            "width": 840,
             "height": 147
           },
           "cornerRadius": 28
         },
         {
           "bounds": {
-            "x": 320,
-            "y": 1890,
+            "x": 215,
+            "y": 735,
             "width": 409,
             "height": 126
           },
@@ -32660,10 +32836,10 @@
         },
         {
           "bounds": {
-            "x": -1050,
+            "x": -840,
             "y": 0,
-            "width": 903,
-            "height": 2100
+            "width": 693,
+            "height": 945
           },
           "padding": {
             "start": 0,
@@ -32691,8 +32867,8 @@
           "variant": "ideal",
           "path": "images/scaffold-scaffoldwithcoroutinessnackbar/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-scaffoldwithcoroutinessnackbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithCoroutinesSnackbarPreview",
           "density": 2.625,
@@ -32702,8 +32878,8 @@
           "variant": "ideal",
           "path": "images/scaffold-scaffoldwithcoroutinessnackbar/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "props": {
             "platform": "android"
           },
@@ -32719,15 +32895,15 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 581,
-              "y": 1932,
+              "x": 371,
+              "y": 777,
               "width": 427,
               "height": 126
             }
           },
           "bounds": {
-            "x": 581,
-            "y": 1932,
+            "x": 371,
+            "y": 777,
             "width": 427,
             "height": 126
           }
@@ -32736,8 +32912,8 @@
       "redlines": [
         {
           "bounds": {
-            "x": 581,
-            "y": 1932,
+            "x": 371,
+            "y": 777,
             "width": 427,
             "height": 126
           },
@@ -32762,8 +32938,8 @@
           "variant": "ideal",
           "path": "images/scaffold-scaffoldwithcustomsnackbar/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-scaffoldwithcustomsnackbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithCustomSnackbarPreview",
           "density": 2.625,
@@ -32773,8 +32949,8 @@
           "variant": "ideal",
           "path": "images/scaffold-scaffoldwithcustomsnackbar/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "props": {
             "platform": "android"
           },
@@ -32790,15 +32966,15 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 581,
-              "y": 1932,
+              "x": 371,
+              "y": 777,
               "width": 427,
               "height": 126
             }
           },
           "bounds": {
-            "x": 581,
-            "y": 1932,
+            "x": 371,
+            "y": 777,
             "width": 427,
             "height": 126
           }
@@ -32807,8 +32983,8 @@
       "redlines": [
         {
           "bounds": {
-            "x": 581,
-            "y": 1932,
+            "x": 371,
+            "y": 777,
             "width": 427,
             "height": 126
           },
@@ -32833,8 +33009,8 @@
           "variant": "ideal",
           "path": "images/scaffold-scaffoldwithsimplesnackbar/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-scaffoldwithsimplesnackbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ScaffoldWithSimpleSnackbarPreview",
           "density": 2.625,
@@ -32844,8 +33020,8 @@
           "variant": "ideal",
           "path": "images/scaffold-scaffoldwithsimplesnackbar/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "props": {
             "platform": "android"
           },
@@ -32861,15 +33037,15 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 581,
-              "y": 1932,
+              "x": 371,
+              "y": 777,
               "width": 427,
               "height": 126
             }
           },
           "bounds": {
-            "x": 581,
-            "y": 1932,
+            "x": 371,
+            "y": 777,
             "width": 427,
             "height": 126
           }
@@ -32878,8 +33054,8 @@
       "redlines": [
         {
           "bounds": {
-            "x": 581,
-            "y": 1932,
+            "x": 371,
+            "y": 777,
             "width": 427,
             "height": 126
           },
@@ -32904,8 +33080,8 @@
           "variant": "ideal",
           "path": "images/scaffold-simplescaffoldwithtopbar/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/scaffold-simplescaffoldwithtopbar__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.SimpleScaffoldWithTopBarPreview",
           "density": 2.625,
@@ -32915,8 +33091,8 @@
           "variant": "ideal",
           "path": "images/scaffold-simplescaffoldwithtopbar/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 2100,
+          "width": 840,
+          "height": 945,
           "props": {
             "platform": "android"
           },
@@ -32952,15 +33128,15 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 837,
-              "y": 1932,
+              "x": 627,
+              "y": 777,
               "width": 171,
               "height": 126
             }
           },
           "bounds": {
-            "x": 837,
-            "y": 1932,
+            "x": 627,
+            "y": 777,
             "width": 171,
             "height": 126
           }
@@ -32969,8 +33145,8 @@
       "redlines": [
         {
           "bounds": {
-            "x": 837,
-            "y": 1932,
+            "x": 627,
+            "y": 777,
             "width": 171,
             "height": 126
           },
@@ -32979,10 +33155,10 @@
         },
         {
           "bounds": {
-            "x": -1050,
+            "x": -840,
             "y": 0,
-            "width": 903,
-            "height": 2100
+            "width": 693,
+            "height": 945
           },
           "padding": {
             "start": 0,
@@ -35183,8 +35359,8 @@
           "variant": "ideal",
           "path": "images/theme-themecolorsample/ideal__default.png",
           "state": "default",
-          "width": 1050,
-          "height": 1050,
+          "width": 263,
+          "height": 263,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/theme-themecolorsample__ideal__default",
           "previewId": "ee.schimke.composeuisamples.SamplePreviewsKt.ThemeColorSamplePreview",
           "density": 2.625,
@@ -35194,8 +35370,8 @@
           "variant": "ideal",
           "path": "images/theme-themecolorsample/ideal__default__platform-android.png",
           "state": "default",
-          "width": 1050,
-          "height": 1050,
+          "width": 263,
+          "height": 263,
           "props": {
             "platform": "android"
           },
@@ -35282,7 +35458,7 @@
     "androidx.compose.material:material"
   ],
   "renderer": "compose-preview 2.86.0",
-  "generatedAt": "2026-11-06T23:15:40.907Z",
+  "generatedAt": "2026-11-07T11:54:36.471Z",
   "display": {
     "role": "samples"
   },

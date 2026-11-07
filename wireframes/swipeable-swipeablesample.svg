@@ -8,8 +8,8 @@
     <rect x="0" y="0" width="919" height="131" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="919" height="131" fill="#000000" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FF000000</text>
+    <rect x="0" y="0" width="919" height="131" fill="#000000" fill-opacity="1" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#FFFFFF">#FF000000</text>
   </g>
   <g>
     <rect x="0" y="0" width="131" height="131" fill="#FF0000" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>

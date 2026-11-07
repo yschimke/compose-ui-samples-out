@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 395 526" width="395" height="526" role="img" aria-label="Scale/ScaleNonUniformSample layout wireframe">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158 210" width="158" height="210" role="img" aria-label="Scale/ScaleNonUniformSample layout wireframe">
   <title>Scale/ScaleNonUniformSample — layout wireframe (slots + tokens)</title>
-  <rect width="395" height="526" fill="#ffffff"/>
+  <rect width="158" height="210" fill="#ffffff"/>
   <g>
-    <rect x="0" y="0" width="263" height="263" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="105" height="105" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="0" y="0" width="263" height="263" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="0" y="0" width="105" height="105" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="-131" y="-263" width="526" height="789" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="-52" y="-105" width="210" height="315" fill="#0000FF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="-49" y="-93" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FF0000FF</text>
   </g>
 </svg>
