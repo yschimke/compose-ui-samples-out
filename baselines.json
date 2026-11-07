@@ -95,12 +95,60 @@
     "sha256": "de9a9048212b92cd8a95a06f57014eeebaa69b911f764249364de9554593d104",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AnchoredDraggableAnchorsFromCompositionSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "AnchoredDraggableAnchorsFromCompositionSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "AnchoredDraggableAnchorsFromCompositionSampleAndroidPreview-1ec359ca.png",
+    "sha256": "302534a2d7d965a286ca8d21f331de9c17207aec0edbe0b34d91eddd9fef64e7",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AnchoredDraggableCustomAnchoredSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "AnchoredDraggableCustomAnchoredSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "AnchoredDraggableCustomAnchoredSampleAndroidPreview-464f7acd.png",
+    "sha256": "dd9e650c5bf05227abb12ec2dea5a30cbfcfd2720a23a34af78d1a0b26436ead",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AnchoredDraggableDynamicAnchorsSampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "AnchoredDraggableDynamicAnchorsSampleAndroidPreview",
     "module": "catalog-android",
     "renderBasename": "AnchoredDraggableDynamicAnchorsSampleAndroidPreview-7ab3cd27.png",
     "sha256": "6b7d978f061b219b2fb05ef1f01fb57ee482c361421c44693d60ee6ab103522c",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AnchoredDraggableLayoutDependentAnchorsSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "AnchoredDraggableLayoutDependentAnchorsSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "AnchoredDraggableLayoutDependentAnchorsSampleAndroidPreview-47f3dac7.png",
+    "sha256": "981cbdad095d15e723790550d8a4b23ba947b95f88dde4dd58c9ca04de2c0093",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AnchoredDraggableProgrammaticFlingSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "AnchoredDraggableProgrammaticFlingSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "AnchoredDraggableProgrammaticFlingSampleAndroidPreview-41bfada9.png",
+    "sha256": "ce0ee246779d5b2fc3c7ed1e7f896055bb903ae4692e570604eecee065333ed7",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AnchoredDraggableProgressSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "AnchoredDraggableProgressSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "AnchoredDraggableProgressSampleAndroidPreview-3d2e5fbb.png",
+    "sha256": "99fe5b4e67de8677cf18e28c4f14d35118d523d48903b59185976100a551c9ac",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AnchoredDraggableWithOverscrollSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "AnchoredDraggableWithOverscrollSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "AnchoredDraggableWithOverscrollSampleAndroidPreview-fda109c4.png",
+    "sha256": "aee1c6708c331bc85cd5c10bf082f77d9777a2c3dafe6315eec6b8e2423287fe",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.AndroidDrawableInDrawScopeSampleAndroidPreview": {
@@ -727,12 +775,28 @@
     "sha256": "391ab894878de6c997d1482fc07236722472d140f2f78b7e5535aeda8a3ccfc7",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.BottomNavigationWithOnlySelectedLabelsSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "BottomNavigationWithOnlySelectedLabelsSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "BottomNavigationWithOnlySelectedLabelsSampleAndroidPreview-2dee2773.png",
+    "sha256": "9d2a5a76317cb17f1781ab35c667c4075984452b4ddb32c242d32f6dce7e9b3c",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.BottomSheetScaffoldSampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "BottomSheetScaffoldSampleAndroidPreview",
     "module": "catalog-android",
     "renderBasename": "BottomSheetScaffoldSampleAndroidPreview-6495e835.png",
     "sha256": "0a521021aed427c8734786f585a4173a340e982014462d41b25a7fc870006536",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.BottomSheetScaffoldWithDrawerSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "BottomSheetScaffoldWithDrawerSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "BottomSheetScaffoldWithDrawerSampleAndroidPreview-6998a775.png",
+    "sha256": "f5a6ad5c0bd8199497476810767ae230b2cbdd46bbfa3592cfb21e00ac68e2f9",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.BoxWithConstraintsSampleAndroidPreview": {
@@ -991,6 +1055,14 @@
     "sha256": "853873d76bb1bc38d7b218e404e85e0c4b4bd5ca1bb18165f6c3f8517fdd8224",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.CompactNavigationRailSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "CompactNavigationRailSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "CompactNavigationRailSampleAndroidPreview-a89f8841.png",
+    "sha256": "6fbd07ae7da76378482dbd675c812c5e6db37618e0356e38e07bea4e9f93021e",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.ComposeInCooperatingViewNestedScrollInteropSampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "ComposeInCooperatingViewNestedScrollInteropSampleAndroidPreview",
@@ -1197,6 +1269,14 @@
     "module": "catalog-android",
     "renderBasename": "CustomSaverSampleAndroidPreview-327af91a.png",
     "sha256": "77532d1dbfd96f6c6834b1feab5e233de30c4be4b46ec6cabcd1509b2b33f7c6",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.CustomTouchSlopSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "CustomTouchSlopSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "CustomTouchSlopSampleAndroidPreview-a20ea419.png",
+    "sha256": "11b7ca7d7045fa85f8ec1d9fe4277fde9b1d515648ecb8fedfd990985492c793",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.CustomizedLookaheadAnimationVisualDebuggingSampleAndroidPreview": {
@@ -1445,6 +1525,14 @@
     "module": "catalog-android",
     "renderBasename": "Draggable2DSampleAndroidPreview-8cc35094.png",
     "sha256": "556705e884ed3b7d4450019063ec7b57533e48a260194ebd9389f6066eaf96a0",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.DraggableAnchorsSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "DraggableAnchorsSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "DraggableAnchorsSampleAndroidPreview-c4c8d9ff.png",
+    "sha256": "3d4ce6e66e999f2f62b348c6a7249d801e2bd64ad62c1c5f1ba975f4987c35d2",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.DraggableSampleAndroidPreview": {
@@ -2079,6 +2167,14 @@
     "sha256": "77532d1dbfd96f6c6834b1feab5e233de30c4be4b46ec6cabcd1509b2b33f7c6",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FocusedCheckboxSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "FocusedCheckboxSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "FocusedCheckboxSampleAndroidPreview-8d07964d.png",
+    "sha256": "db94c3ed4dcde423af32d2e800ce62fe6a55f677a46a0943f5403cc19e7423d8",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.FontFamilyCursiveSampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "FontFamilyCursiveSampleAndroidPreview",
@@ -2277,6 +2373,14 @@
     "module": "catalog-android",
     "renderBasename": "IconButtonSampleAndroidPreview-0f574490.png",
     "sha256": "3d8ff40de56dd6df31e58afbb339d5125a21a9c78f02edf2535fb0f84019a2ed",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.IconTabsAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "IconTabsAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "IconTabsAndroidPreview-4e8fb79f.png",
+    "sha256": "a87537e0d2cc9c26acbf54d0d528cedc40afc97c1c8d32f995f2b94ca9d8e2b1",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.IconToggleButtonSampleAndroidPreview": {
@@ -2719,6 +2823,14 @@
     "sha256": "d2a8bc691a5effc729db4c34ef80eb43fcda9a0431d921ca8fd3c3a16a677db7",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.LeadingIconTabsAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "LeadingIconTabsAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "LeadingIconTabsAndroidPreview-9d9a1af3.png",
+    "sha256": "9b90dc46f45f6d30016837c639680e8d0f78410a45c788b31a4eb0888c3f0af5",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.LightAnchorSampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "LightAnchorSampleAndroidPreview",
@@ -2975,12 +3087,28 @@
     "sha256": "cedf451da62f1208df832ee3ac84a59e2cb171c71480c8db40da2c1a1f0494f4",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.NavigationRailBottomAlignSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "NavigationRailBottomAlignSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "NavigationRailBottomAlignSampleAndroidPreview-5880219e.png",
+    "sha256": "237572624f95120709c118dc8f1079153b316387e4861af4f53d8029c3423ee8",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.NavigationRailSampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "NavigationRailSampleAndroidPreview",
     "module": "catalog-android",
     "renderBasename": "NavigationRailSampleAndroidPreview-8c2ff4a1.png",
-    "sha256": "7d62b916fe6e299e25e554d5ea637b776c279ed6ad8ddb766abe705f63f2aaf5",
+    "sha256": "2006735ff65b123652152fec6a66a9656d8bbd812f967c3aff956c4210b3dc6d",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.NavigationRailWithOnlySelectedLabelsSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "NavigationRailWithOnlySelectedLabelsSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "NavigationRailWithOnlySelectedLabelsSampleAndroidPreview-27ff1355.png",
+    "sha256": "b24b2021aac9f9790b6b5b8e51223447a577e2cb1327b474722a201415d2f878",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.NestedScrollConnectionSampleAndroidPreview": {
@@ -3061,6 +3189,14 @@
     "module": "catalog-android",
     "renderBasename": "OneLineListItemsAndroidPreview-d9a8ac6e.png",
     "sha256": "2fdccadb1b1db2cafeadeddadb47b20672c5195bbfc3e12aad95ba771ef3fc1b",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.OneLineRtlLtrListItemsAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "OneLineRtlLtrListItemsAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "OneLineRtlLtrListItemsAndroidPreview-457c2e1f.png",
+    "sha256": "ec2bed93e8867fd8f91ffe246d9a74344adeaeac48bfef0bb1f01c3f1d635965",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.OutlinedButtonSampleAndroidPreview": {
@@ -3655,6 +3791,22 @@
     "sha256": "973978aaeb0b7aa756caabfa076168a6eac6507b6e382d25d9b7caab7540c125",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.ScrollingFancyIndicatorContainerTabsAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "ScrollingFancyIndicatorContainerTabsAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "ScrollingFancyIndicatorContainerTabsAndroidPreview-cbe5ca10.png",
+    "sha256": "c3e220418333d8046ff9644d1c4d2e1df7a7540705b5fc25da1870af98038da5",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.ScrollingTextTabsAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "ScrollingTextTabsAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "ScrollingTextTabsAndroidPreview-c6006e08.png",
+    "sha256": "19d55fa9c520499a9fa9575e3f80d59905db57edef6b38ca8506903fa30f35d1",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SeekToSampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "SeekToSampleAndroidPreview",
@@ -3887,6 +4039,14 @@
     "sha256": "b6d88b5b1a8eead537cdcd7b219bbf880972b2b6381a88e20b4bb0204aa88a70",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SimpleExtendedFabNoIconAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "SimpleExtendedFabNoIconAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "SimpleExtendedFabNoIconAndroidPreview-c91620d8.png",
+    "sha256": "d4f244fd689563995ebdf3229312e6552c6e46a190914c1f540768f4ad08998d",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SimpleExtendedFabWithIconAndroidPreview": {
     "captureLabel": "",
     "functionName": "SimpleExtendedFabWithIconAndroidPreview",
@@ -3959,6 +4119,14 @@
     "sha256": "22185b52ba6394471f7db3ba0fb63882f883e72910c740913caacb5dac381dda",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SimpleFlowColumnWithMaxWidthAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "SimpleFlowColumnWithMaxWidthAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "SimpleFlowColumnWithMaxWidthAndroidPreview-62d511e9.png",
+    "sha256": "1b59a41b00246a847171e83b491555b4925deacd8608983d1305ff4fe888a632",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SimpleFlowColumn_EqualWidthAndroidPreview": {
     "captureLabel": "",
     "functionName": "SimpleFlowColumn_EqualWidthAndroidPreview",
@@ -3989,6 +4157,14 @@
     "module": "catalog-android",
     "renderBasename": "SimpleFlowRowMaxLinesWithSeeMoreAndroidPreview-c8982d0a.png",
     "sha256": "b21d052a88c3cc555f01af8e9558cda2abde80e309b1cd137adbf0bd2b217d13",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SimpleFlowRowWithMaxHeightAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "SimpleFlowRowWithMaxHeightAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "SimpleFlowRowWithMaxHeightAndroidPreview-1ce4fa05.png",
+    "sha256": "c5d71b688443891f6eebf98c5545e3fc3b0c14fe55cf8ba36504db2f354ede53",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.SimpleFlowRow_EqualHeightAndroidPreview": {
@@ -4375,6 +4551,14 @@
     "sha256": "58bdf1e9507f1fbf2ac20e132bb32a0990d7f3c240c46be6c34fd7d3e5e9e7c1",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.StyleForegroundBackgroundSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "StyleForegroundBackgroundSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "StyleForegroundBackgroundSampleAndroidPreview-4c94592a.png",
+    "sha256": "f9494ad378dc95d0bab1b57a54db9b4d7ff6bea98952a9f2bc5c1ca20e9f8c0c",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.StyleStateKeySampleAndroidPreview": {
     "captureLabel": "",
     "functionName": "StyleStateKeySampleAndroidPreview",
@@ -4445,6 +4629,22 @@
     "module": "catalog-android",
     "renderBasename": "TaskDispatchersSampleAndroidPreview-6327e76d.png",
     "sha256": "502620cf1e6b735a78dbdd0ccf8f7737987c904e7a5bf2d2cebbc2d39f415657",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TextAndIconTabsAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "TextAndIconTabsAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "TextAndIconTabsAndroidPreview-7b3f8996.png",
+    "sha256": "e28727d79b1b9690ea7392c9f8a39c991c5751724f8b2c459fdd43de65e1d205",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TextAreaAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "TextAreaAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "TextAreaAndroidPreview-8f927bbc.png",
+    "sha256": "c87e83fe19803aee69a9752d26afca6e43901b83e926e262a2a89ee973be215f",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TextAutoSizeBasicTextSampleAndroidPreview": {
@@ -4615,6 +4815,14 @@
     "sha256": "938ae2835929e5f25fb509fda229bae1550445ceaa106a47436213b286b27db2",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TextStyleTextMotionSampleAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "TextStyleTextMotionSampleAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "TextStyleTextMotionSampleAndroidPreview-59c93a32.png",
+    "sha256": "07d9f3ccba16f4460f97acc24acd6fb7dcb81676dc86f17d354840ccaa14381c",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TextTabsAndroidPreview": {
     "captureLabel": "",
     "functionName": "TextTabsAndroidPreview",
@@ -4653,6 +4861,14 @@
     "module": "catalog-android",
     "renderBasename": "ThreeLineListItemsAndroidPreview-a1b27dc6.png",
     "sha256": "5b1e575219ee2c0f47dcfcc42eb1540383d93fa7d654cef30c8e0466fcd6e0f7",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.ThreeLineRtlLtrListItemsAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "ThreeLineRtlLtrListItemsAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "ThreeLineRtlLtrListItemsAndroidPreview-92614469.png",
+    "sha256": "361f5506095479b50c528cbd3b204919e3135a5b451eeb884a12014c8c174faa",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.ToPxSampleAndroidPreview": {
@@ -4733,6 +4949,14 @@
     "module": "catalog-android",
     "renderBasename": "TwoLineListItemsAndroidPreview-3f325cfe.png",
     "sha256": "87ca9f5be34280637044857cd9cdfee011cad540c92c181ef79d8f3641bc2db0",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
+  },
+  "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.TwoLineRtlLtrListItemsAndroidPreview": {
+    "captureLabel": "",
+    "functionName": "TwoLineRtlLtrListItemsAndroidPreview",
+    "module": "catalog-android",
+    "renderBasename": "TwoLineRtlLtrListItemsAndroidPreview-bf304ef7.png",
+    "sha256": "5c8466a1463c51be33aad6cb32a0ab64950d2b8ad9e4023faf33e9c87b534828",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/android/AndroidSamplePreviews.kt"
   },
   "catalog-android/ee.schimke.composeuisamples.android.AndroidSamplePreviewsKt.UnitSpacePolygonShapeSampleAndroidPreview": {
@@ -4852,7 +5076,7 @@
     "functionName": "AnchoredDraggableCustomAnchoredSample",
     "module": "catalog",
     "renderBasename": "AnchoredDraggableCustomAnchoredSample-d0253318.png",
-    "sha256": "c3087446afe87c5da27035fd77db71f3d9911966b3cd33a452f80d731fbf8159",
+    "sha256": "27c7bd5a3772bec9c962559b6421e18eb6bd4ef874913824183a609062821715",
     "sourceFile": "src/main/kotlin/upstream/androidx/compose/foundation/samples/AnchoredDraggableSample.kt"
   },
   "catalog/androidx.compose.foundation.samples.AnchoredDraggableSampleKt.AnchoredDraggableLayoutDependentAnchorsSample": {
@@ -5029,6 +5253,22 @@
     "module": "catalog",
     "renderBasename": "AnchoredDraggableDynamicAnchorsSamplePreview-85302c35.png",
     "sha256": "1ce7658fb94d7a48fdbe4fe83079726391fbcaf08314415ca0f27b94803eb5cd",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.AnchoredDraggableProgrammaticFlingSamplePreview": {
+    "captureLabel": "",
+    "functionName": "AnchoredDraggableProgrammaticFlingSamplePreview",
+    "module": "catalog",
+    "renderBasename": "AnchoredDraggableProgrammaticFlingSamplePreview-cc49c727.png",
+    "sha256": "44acd75571589e1793d75145875da211b6a1e8343f9a988c978c5af29ee9f507",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.AnchoredDraggableProgressSamplePreview": {
+    "captureLabel": "",
+    "functionName": "AnchoredDraggableProgressSamplePreview",
+    "module": "catalog",
+    "renderBasename": "AnchoredDraggableProgressSamplePreview-d43b0802.png",
+    "sha256": "860a69bf31e61fe1555898c3377764b6059eb00502d470a792230df61882162c",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.AnimateContentPreview": {
@@ -5391,12 +5631,28 @@
     "sha256": "063beb59b0fe381ae8d958b52f87afb049cdd8c10e196169e18caf64137de483",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.BottomNavigationWithOnlySelectedLabelsSamplePreview": {
+    "captureLabel": "",
+    "functionName": "BottomNavigationWithOnlySelectedLabelsSamplePreview",
+    "module": "catalog",
+    "renderBasename": "BottomNavigationWithOnlySelectedLabelsSamplePreview-6d677a6e.png",
+    "sha256": "9e50640d7fc0b0abad595a9a64b7dabe2c37f65e3de914de50c762d4dfb2bd78",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldSamplePreview": {
     "captureLabel": "",
     "functionName": "BottomSheetScaffoldSamplePreview",
     "module": "catalog",
     "renderBasename": "BottomSheetScaffoldSamplePreview-f5384581.png",
     "sha256": "fce91d4e39768882abaec7f709ff1fe966f86153f42600a82c164860cedbd837",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.BottomSheetScaffoldWithDrawerSamplePreview": {
+    "captureLabel": "",
+    "functionName": "BottomSheetScaffoldWithDrawerSamplePreview",
+    "module": "catalog",
+    "renderBasename": "BottomSheetScaffoldWithDrawerSamplePreview-ab5264a9.png",
+    "sha256": "b84b8209756475a3a38973a0b1388fba1f8768af387025327b7f410ac74f6a00",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.BoxWithConstraintsSamplePreview": {
@@ -5623,6 +5879,14 @@
     "sha256": "eb301cfcf2aa5c32eef0ba3e450d8dc49d0ccff3f2a03ded0f9d5090b994fa51",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.CompactNavigationRailSamplePreview": {
+    "captureLabel": "",
+    "functionName": "CompactNavigationRailSamplePreview",
+    "module": "catalog",
+    "renderBasename": "CompactNavigationRailSamplePreview-9a0b8f55.png",
+    "sha256": "dd9e5579d5d0b233c75bdb997165214b2bc1196d58e8c26d904ece646c807471",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.CompositeShaderSamplePreview": {
     "captureLabel": "",
     "functionName": "CompositeShaderSamplePreview",
@@ -5813,6 +6077,14 @@
     "module": "catalog",
     "renderBasename": "CustomTextFieldBasedOnDecorationBoxPreview-44a77dfa.png",
     "sha256": "089680c430c62a21c01095f8fe54f16a3926c222d2cb0d814cb145cab7cd9bd3",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.CustomTouchSlopSamplePreview": {
+    "captureLabel": "",
+    "functionName": "CustomTouchSlopSamplePreview",
+    "module": "catalog",
+    "renderBasename": "CustomTouchSlopSamplePreview-bd5f7008.png",
+    "sha256": "7826e9a49fb420906f5a5f131329bd823678df705e2c5e4b8ae927bc2fb5bada",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.CustomizedLookaheadAnimationVisualDebuggingSamplePreview": {
@@ -6255,6 +6527,14 @@
     "sha256": "c3087446afe87c5da27035fd77db71f3d9911966b3cd33a452f80d731fbf8159",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.FocusedCheckboxSamplePreview": {
+    "captureLabel": "",
+    "functionName": "FocusedCheckboxSamplePreview",
+    "module": "catalog",
+    "renderBasename": "FocusedCheckboxSamplePreview-9d245047.png",
+    "sha256": "557a0e007c6e47f78ed547d0975b95d693a45e60efaef1e85a1e54b8292b6876",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.GestureAnimationSamplePreview": {
     "captureLabel": "",
     "functionName": "GestureAnimationSamplePreview",
@@ -6381,6 +6661,14 @@
     "module": "catalog",
     "renderBasename": "IconButtonSamplePreview-e9b975e5.png",
     "sha256": "3d8ff40de56dd6df31e58afbb339d5125a21a9c78f02edf2535fb0f84019a2ed",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.IconTabsPreview": {
+    "captureLabel": "",
+    "functionName": "IconTabsPreview",
+    "module": "catalog",
+    "renderBasename": "IconTabsPreview-81f05b99.png",
+    "sha256": "2b18c2c920aa4be081e5532db7837378d3f23fffdbf39bd30aa4e1f40369a77c",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.IconToggleButtonSamplePreview": {
@@ -6607,6 +6895,14 @@
     "sha256": "03381e00b0791c999edd70958dc72deab65e76ca7c809cc97b74e77e45b16af4",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.LeadingIconTabsPreview": {
+    "captureLabel": "",
+    "functionName": "LeadingIconTabsPreview",
+    "module": "catalog",
+    "renderBasename": "LeadingIconTabsPreview-55957b23.png",
+    "sha256": "d419e889eccade8ff6bfe567505a9c5ff8fede277868995c817648801d660e99",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.LinearProgressIndicatorSamplePreview": {
     "captureLabel": "",
     "functionName": "LinearProgressIndicatorSamplePreview",
@@ -6823,12 +7119,28 @@
     "sha256": "1306db5cb92955bed0951b7e5659e063b269bce0d777bf8fc73c3699481e7d13",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailBottomAlignSamplePreview": {
+    "captureLabel": "",
+    "functionName": "NavigationRailBottomAlignSamplePreview",
+    "module": "catalog",
+    "renderBasename": "NavigationRailBottomAlignSamplePreview-2d5132a6.png",
+    "sha256": "b0d39d4c0ede9d64dc5b8939a8bb5faaad35228e61c09972fdd95627f3da218e",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailSamplePreview": {
     "captureLabel": "",
     "functionName": "NavigationRailSamplePreview",
     "module": "catalog",
     "renderBasename": "NavigationRailSamplePreview-6a720c94.png",
-    "sha256": "de26a73389adce2a1a9691e164ecb6765ee4c8175c63bfd507b7075ff734a62b",
+    "sha256": "77688292608f578dfd33f392fbb4ba6ad52cc994dd1ec325540bd83b656958f0",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.NavigationRailWithOnlySelectedLabelsSamplePreview": {
+    "captureLabel": "",
+    "functionName": "NavigationRailWithOnlySelectedLabelsSamplePreview",
+    "module": "catalog",
+    "renderBasename": "NavigationRailWithOnlySelectedLabelsSamplePreview-b4ee236b.png",
+    "sha256": "df417e963cf8c286e81aad629d75fa82bf084e90e7b32cf43a27f4413118360c",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.NestedScrollConnectionSamplePreview": {
@@ -6901,6 +7213,14 @@
     "module": "catalog",
     "renderBasename": "OneLineListItemsPreview-ba4525fb.png",
     "sha256": "8ea056dd2e96fa1c78cd0bf309cab11e71a7801bf90228821686d9388cb94bd6",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.OneLineRtlLtrListItemsPreview": {
+    "captureLabel": "",
+    "functionName": "OneLineRtlLtrListItemsPreview",
+    "module": "catalog",
+    "renderBasename": "OneLineRtlLtrListItemsPreview-a9067d2f.png",
+    "sha256": "07fda3e63052c583154ed560fbea4c530e7d710842673e87d71f4c0c8116cbcb",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.OutlinedButtonSamplePreview": {
@@ -7335,6 +7655,22 @@
     "sha256": "475f7edc0bfd495cd7e29b41f8ac36d07ebd9ac188ecafb818067e3e0669a3da",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingFancyIndicatorContainerTabsPreview": {
+    "captureLabel": "",
+    "functionName": "ScrollingFancyIndicatorContainerTabsPreview",
+    "module": "catalog",
+    "renderBasename": "ScrollingFancyIndicatorContainerTabsPreview-abb4a4d4.png",
+    "sha256": "653d099f7a5922f9b53299883e7ba2e9986ea8b117d794b60734b1a1743cb30c",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.ScrollingTextTabsPreview": {
+    "captureLabel": "",
+    "functionName": "ScrollingTextTabsPreview",
+    "module": "catalog",
+    "renderBasename": "ScrollingTextTabsPreview-bb66fdf2.png",
+    "sha256": "39f30c7ab8eea9c43ad5809057d0aa830f0ffa17b8c88f0e46ce9d744a09124a",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SelectAllSamplePreview": {
     "captureLabel": "",
     "functionName": "SelectAllSamplePreview",
@@ -7463,6 +7799,14 @@
     "sha256": "b6d88b5b1a8eead537cdcd7b219bbf880972b2b6381a88e20b4bb0204aa88a70",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SimpleExtendedFabNoIconPreview": {
+    "captureLabel": "",
+    "functionName": "SimpleExtendedFabNoIconPreview",
+    "module": "catalog",
+    "renderBasename": "SimpleExtendedFabNoIconPreview-e195ac43.png",
+    "sha256": "dd69e95d97d1a0cd934b774ed6161468d7be06582ac93980b30c98238fb56c6b",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SimpleExtendedFabWithIconPreview": {
     "captureLabel": "",
     "functionName": "SimpleExtendedFabWithIconPreview",
@@ -7527,6 +7871,14 @@
     "sha256": "1738a6d1931c211173343afade9e6e4e7f19d87d4c4ba15d289ab63b357cf3b7",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumnWithMaxWidthPreview": {
+    "captureLabel": "",
+    "functionName": "SimpleFlowColumnWithMaxWidthPreview",
+    "module": "catalog",
+    "renderBasename": "SimpleFlowColumnWithMaxWidthPreview-585b4b3b.png",
+    "sha256": "2eb5b1ead384a1d96d9e249f725f8d88a738ae1831391ab51169d1628efd60b2",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowColumn_EqualWidthPreview": {
     "captureLabel": "",
     "functionName": "SimpleFlowColumn_EqualWidthPreview",
@@ -7557,6 +7909,14 @@
     "module": "catalog",
     "renderBasename": "SimpleFlowRowPreview-07cf3a1e.png",
     "sha256": "5b285efa4115b62b4f9a533e0ebfb69fa7447b09558b3ba04c10de0f4150ec59",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRowWithMaxHeightPreview": {
+    "captureLabel": "",
+    "functionName": "SimpleFlowRowWithMaxHeightPreview",
+    "module": "catalog",
+    "renderBasename": "SimpleFlowRowWithMaxHeightPreview-814feb4d.png",
+    "sha256": "8b8ab9ff1812f3dc11e12a955ac6da93bcfb481e6e427fc19220fd28ff36bd59",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.SimpleFlowRow_EqualHeightPreview": {
@@ -7887,6 +8247,14 @@
     "sha256": "58bdf1e9507f1fbf2ac20e132bb32a0990d7f3c240c46be6c34fd7d3e5e9e7c1",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.StyleForegroundBackgroundSamplePreview": {
+    "captureLabel": "",
+    "functionName": "StyleForegroundBackgroundSamplePreview",
+    "module": "catalog",
+    "renderBasename": "StyleForegroundBackgroundSamplePreview-6d6f92d4.png",
+    "sha256": "5b511463f2ac0143a13c2c7c2a8e88d9968b87f7908f942b0a8731a6f61664cc",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.StyleStateKeySamplePreview": {
     "captureLabel": "",
     "functionName": "StyleStateKeySamplePreview",
@@ -7949,6 +8317,22 @@
     "module": "catalog",
     "renderBasename": "SymmetricPaddingModifierPreview-d854359d.png",
     "sha256": "1d393057641b2fee32784e4f6966ba2754eed1f1f085ed6337725249743923bd",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TextAndIconTabsPreview": {
+    "captureLabel": "",
+    "functionName": "TextAndIconTabsPreview",
+    "module": "catalog",
+    "renderBasename": "TextAndIconTabsPreview-8b457881.png",
+    "sha256": "6b2cb7182ff53ec77ffaedd70295380b92ebf765e3b8d1a5f780f49e5a9f4447",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TextAreaPreview": {
+    "captureLabel": "",
+    "functionName": "TextAreaPreview",
+    "module": "catalog",
+    "renderBasename": "TextAreaPreview-594381fc.png",
+    "sha256": "2755fc5ef25e31825e5ec75b60d012391d3066d1e428dd16615a26c753ab96e9",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TextAutoSizeBasicTextSamplePreview": {
@@ -8103,6 +8487,14 @@
     "sha256": "f8f810fa14ad8f79105c89165ffa99f59c681c2088c530dea33a8c08c316d0cb",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TextStyleTextMotionSamplePreview": {
+    "captureLabel": "",
+    "functionName": "TextStyleTextMotionSamplePreview",
+    "module": "catalog",
+    "renderBasename": "TextStyleTextMotionSamplePreview-551583bc.png",
+    "sha256": "fa514ceff8d1daf91375242156e86cc909fc85d0e8c6106d452965cef2e7c902",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TextTabsPreview": {
     "captureLabel": "",
     "functionName": "TextTabsPreview",
@@ -8141,6 +8533,14 @@
     "module": "catalog",
     "renderBasename": "ThreeLineListItemsPreview-46b1d8db.png",
     "sha256": "e885bb1b20e0c0e4750c02f936d051dac0a57a672af1ff419dc3b43dedffba29",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.ThreeLineRtlLtrListItemsPreview": {
+    "captureLabel": "",
+    "functionName": "ThreeLineRtlLtrListItemsPreview",
+    "module": "catalog",
+    "renderBasename": "ThreeLineRtlLtrListItemsPreview-989b6097.png",
+    "sha256": "e6b9021cb7b6cc503d4d8e6ec64843832f377fcc307d0474d5c43b655093afa2",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.ToPxSamplePreview": {
@@ -8213,6 +8613,14 @@
     "module": "catalog",
     "renderBasename": "TwoLineListItemsPreview-1cfb04ad.png",
     "sha256": "1d9321c9c0bf41fe279371ac4b3f3d567764a67b399fcdc094992b3d1ba473b0",
+    "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
+  },
+  "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.TwoLineRtlLtrListItemsPreview": {
+    "captureLabel": "",
+    "functionName": "TwoLineRtlLtrListItemsPreview",
+    "module": "catalog",
+    "renderBasename": "TwoLineRtlLtrListItemsPreview-70a5ddbc.png",
+    "sha256": "fb00cfea30c109154d3e1490ab451112224f66543aa49fb46d2c49d856917493",
     "sourceFile": "src/main/kotlin/ee/schimke/composeuisamples/SamplePreviews.kt"
   },
   "catalog/ee.schimke.composeuisamples.SamplePreviewsKt.VerticalDragSamplePreview": {
