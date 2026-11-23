@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-11-16T07:05:37.768Z",
+  "generatedAt": "2026-11-23T06:51:38.100Z",
   "mappings": [
     {
       "componentId": "AnchoredDraggable/AnchoredDraggableAnchorsFromCompositionSample",
